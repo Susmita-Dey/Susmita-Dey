@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Susmita-Dey
-- 👀 I’m interested in Artificial Intelligence, Data Science and Programming.
+- 👀 I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
 - 🌱 I’m currently learning Computer Science Honours
 - 💞️ I’m looking to collaborate on any open source platform.
 - 📫 How to reach me:
