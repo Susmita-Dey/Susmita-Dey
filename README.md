@@ -20,6 +20,20 @@ You can click the Preview link to take a look at your changes.
    src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&show_icons=true&theme=tokyonight" 
 />
 ---
+## 🥞 Tech Stack
+ 
+I work with many different technologies and languages. 
+My favorite ones are Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="NExtjs Logo" alt="NExtJS Grafana Logo" width="150"/>&emsp;
+
+ <br>
+ 
+---
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
