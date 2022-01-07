@@ -25,11 +25,13 @@ You can click the Preview link to take a look at your changes.
 I work with many different technologies and languages. 
 My favorite ones are Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.
  
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="NExtjs Logo" alt="NExtJS Grafana Logo" width="150"/>&emsp;
+<img src="images/java-4.svg" title="Java" alt="Java Logo" width="65"/>&emsp;
+<img src="images/html-1.svg" title="HTML5" alt="HTML5 Logo" width="65"/>&emsp;
+<img src="images/css-3.svg" title="CSS3" alt="CSS3 Logo" width="65"/>&emsp;
+<img src="images/tailwind-css-2.svg" title="Tailwind Logo" alt="Tailwind Logo" width="65"/>&emsp;
+<img src="images/logo-javascript.svg" title="JavaScript Logo" alt="JavaScript Logo" width="65"/>&emsp;
+<img src="images/cpp.svg" title="Cpp Logo" alt="Cpp Logo" width="65"/>&emsp;
+<img src="images/python-5.svg" title="Python Logo" alt="Python Logo" width="65"/>&emsp;
 
  <br>
  
