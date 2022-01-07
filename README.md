@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 ---
 ## 🥞 Tech Stack
  
-I work with many different technologies and languages. 
-My favorite ones are Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.
+I work with many different technologies and languages. <br>
+My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.**
  
 <img src="images/java-4.svg" title="Java" alt="Java Logo" width="65"/>&emsp;
 <img src="images/html-1.svg" title="HTML5" alt="HTML5 Logo" width="65"/>&emsp;
