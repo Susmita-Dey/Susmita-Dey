@@ -1,3 +1,6 @@
+Welcome.
+Do you like my profile?
+
 - 👋 Hi, I’m @Susmita-Dey
 - 👀 I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
 - 🌱 I’m currently learning Computer Science Honours
