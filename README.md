@@ -3,7 +3,8 @@ Susmita-Dey/Susmita-Dey is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m **Susmita Dey**
+<h1>👋 Hi, I’m Susmita Dey</h1>
+<h3>I'm a college student and a front-end developer.</h3>
 
 - 👀 I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
 - 🌱 I’m currently pursuing a *3-year* **BSc. Computer Science Honours** Course at **Kalyani Mahavidyalaya**
