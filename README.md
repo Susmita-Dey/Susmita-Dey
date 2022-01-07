@@ -31,9 +31,15 @@ You can click the Preview link to take a look at your changes.
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
-## Recent Activity
+## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#3164](https://github.com/EddieHubCommunity/support/issues/3164) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. ❗️ Opened issue [#3163](https://github.com/EddieHubCommunity/support/issues/3163) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
+
+---
+
+## 🖥⌨ Most used Languages 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susmita-Dey&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
