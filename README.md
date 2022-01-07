@@ -15,13 +15,12 @@ Do you like my profile?
 Susmita-Dey/Susmita-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&show_icons=true&theme=tokyonight" 
+/>
 
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#3164](https://github.com/EddieHubCommunity/support/issues/3164) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. ❗️ Opened issue [#3163](https://github.com/EddieHubCommunity/support/issues/3163) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
-
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&show_icons=true&theme=tokyonight" 
-/>
