@@ -46,7 +46,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Light and Dark Mode Toggle Button Using HTML, CSS and JavaScript](https://www.youtube.com/watch?v=LT_djNb6fzU)
+- [Light and Dark Mode Toggle Button Using HTML, CSS and JavaScript &lpar;Part-1&rpar;](https://www.youtube.com/watch?v=LT_djNb6fzU)
 - [Tutorial 7 : Calculate the sum of the digit of a given number || Shell Programming](https://www.youtube.com/watch?v=ABKFuBBzfz4)
 - [Tutorial 9 : Printing Prime Numbers in a given range || Shell Programming](https://www.youtube.com/watch?v=f3VGVGveELk)
 - [Tutorial 8 : Checking For Prime Number || Shell Programming](https://www.youtube.com/watch?v=eANv44ZcQBY)
