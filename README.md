@@ -46,11 +46,11 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Tutorial 12:- Checking for Palindrome Number in Shell Programming](https://www.youtube.com/watch?v=Sj9NPR8WjHw)
+- [Tutorial 11:- Reversing a Given Number in Shell Programming](https://www.youtube.com/watch?v=RviMOMA8tCI)
 - [Tutorial 3:- Checking For Odd/Even Numbers in Shell Programming](https://www.youtube.com/watch?v=LYTcVY0xSUY)
 - [Tutorial 4:- Sum of N numbers || Shell Programming](https://www.youtube.com/watch?v=CjM490tyrwE)
 - [Tutorial 7:- Calculate the sum of n natural numbers  || Shell Programming](https://www.youtube.com/watch?v=qBAZnXif7iU)
-- [Tutorial 6:- Printing Fibonacci Series Upto N terms || Shell Programming](https://www.youtube.com/watch?v=gEtsNvyFwYQ)
-- [Light and Dark Mode Toggle Button Using HTML, CSS and JavaScript &lpar;Part-1&rpar;](https://www.youtube.com/watch?v=LT_djNb6fzU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
