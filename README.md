@@ -46,11 +46,11 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Printing Number Pattern in Python || Pattern Coding &lpar;Tut-5&rpar; #shorts](https://www.youtube.com/watch?v=_Ajuj5Dl0gQ)
 - [Tutorial 12:- Checking for Palindrome Number in Shell Programming](https://www.youtube.com/watch?v=Sj9NPR8WjHw)
 - [Tutorial 11:- Reversing a Given Number in Shell Programming](https://www.youtube.com/watch?v=RviMOMA8tCI)
 - [Tutorial 3:- Checking For Odd/Even Numbers in Shell Programming](https://www.youtube.com/watch?v=LYTcVY0xSUY)
 - [Tutorial 4:- Sum of N numbers || Shell Programming](https://www.youtube.com/watch?v=CjM490tyrwE)
-- [Tutorial 7:- Calculate the sum of n natural numbers  || Shell Programming](https://www.youtube.com/watch?v=qBAZnXif7iU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
