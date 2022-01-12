@@ -57,7 +57,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1588](https://github.com/sButtons/sbuttons/pull/1588) in [sButtons/sbuttons](https://github.com/sButtons/sbuttons)
-2. 💪 Opened PR [#4596](https://github.com/twilio-labs/open-pixel-art/pull/4596) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
+1. ❌ Closed PR [#1](https://github.com/Susmita-Dey/Susmita-Dey/pull/1) in [Susmita-Dey/Susmita-Dey](https://github.com/Susmita-Dey/Susmita-Dey)
+2. 💪 Opened PR [#1588](https://github.com/sButtons/sbuttons/pull/1588) in [sButtons/sbuttons](https://github.com/sButtons/sbuttons)
 <!--END_SECTION:activity-->
 
