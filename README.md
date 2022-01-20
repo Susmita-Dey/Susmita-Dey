@@ -57,7 +57,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3163](https://github.com/EddieHubCommunity/support/issues/3163) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+1. ❌ Closed PR [#1](https://github.com/Susmita-Dey/awesome-github-profiles/pull/1) in [Susmita-Dey/awesome-github-profiles](https://github.com/Susmita-Dey/awesome-github-profiles)
+2. 💪 Opened PR [#1](https://github.com/Susmita-Dey/awesome-github-profiles/pull/1) in [Susmita-Dey/awesome-github-profiles](https://github.com/Susmita-Dey/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
