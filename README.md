@@ -57,7 +57,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/nanabaidoo/KO-PHOTOGRAPHY/issues/1) in [nanabaidoo/KO-PHOTOGRAPHY](https://github.com/nanabaidoo/KO-PHOTOGRAPHY)
-2. ❗️ Opened issue [#1](https://github.com/nanabaidoo/thewebsite/issues/1) in [nanabaidoo/thewebsite](https://github.com/nanabaidoo/thewebsite)
+1. 🗣 Commented on [#1](https://github.com/nanabaidoo/KO-PHOTOGRAPHY/issues/1) in [nanabaidoo/KO-PHOTOGRAPHY](https://github.com/nanabaidoo/KO-PHOTOGRAPHY)
+2. 🗣 Commented on [#1](https://github.com/nanabaidoo/KO-PHOTOGRAPHY/issues/1) in [nanabaidoo/KO-PHOTOGRAPHY](https://github.com/nanabaidoo/KO-PHOTOGRAPHY)
 <!--END_SECTION:activity-->
 
