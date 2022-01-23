@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
 - 🌱 I’m currently pursuing a *3-year* **BSc. Computer Science Honours** Course at **Kalyani Mahavidyalaya**
+- 💬 I would love to talk about internship opportunities starting January 2022.
 - 💞️ I’m looking to collaborate on any open source platform.
 
 ---
