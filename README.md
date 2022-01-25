@@ -59,7 +59,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#575](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/issues/575) in [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
-2. 🗣 Commented on [#9](https://github.com/kunal-kushwaha/DevOps-Bootcamp/issues/9) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
+1. 💪 Opened PR [#14](https://github.com/kunal-kushwaha/DevOps-Bootcamp/pull/14) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
+2. 🗣 Commented on [#575](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/issues/575) in [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 <!--END_SECTION:activity-->
 
