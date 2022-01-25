@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://dev.to/susmitadey"><img src="images/Dev.to image.png" alt="Dev.to Icon" width="70"></a>
 <hr>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Susmita-Dey.Susmita-Dey)
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&show_icons=true&theme=tokyonight" 
 />
@@ -38,12 +40,23 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 <img src="images/cpp.svg" title="Cpp Logo" alt="Cpp Logo" width="65"/>&emsp;
 <img src="images/python-5.svg" title="Python Logo" alt="Python Logo" width="65"/>&emsp;
 
- <br>
- <hr>
+<br>
+<hr>
+
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 <h2> 🖥⌨ Most used Languages </h2>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susmita-Dey&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Susmita-Dey&theme=tokyonight" alt="Susmita-Dey" /></p>
+
+<br>
+
+<hr>
+
+ [![Susmita's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=tokyonight) ](https://github.com/Susmita-Dey?tab=repositories )
 ---
 ## Latest YouTube Videos
 
