@@ -72,7 +72,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Susmita-Dey/LinkFree/pull/1) in [Susmita-Dey/LinkFree](https://github.com/Susmita-Dey/LinkFree)
-2. 💪 Opened PR [#14](https://github.com/kunal-kushwaha/DevOps-Bootcamp/pull/14) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
+1. 🗣 Commented on [#1009](https://github.com/EddieHubCommunity/LinkFree/issues/1009) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#1](https://github.com/Susmita-Dey/LinkFree/pull/1) in [Susmita-Dey/LinkFree](https://github.com/Susmita-Dey/LinkFree)
 <!--END_SECTION:activity-->
 
