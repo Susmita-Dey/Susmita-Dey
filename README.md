@@ -58,6 +58,14 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
  [![Susmita's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=tokyonight) ](https://github.com/Susmita-Dey?tab=repositories )
 ---
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#856](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/856) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 💪 Opened PR [#1035](https://github.com/EddieHubCommunity/LinkFree/pull/1035) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+<!--END_SECTION:activity-->
+
+---
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
@@ -69,10 +77,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
-## Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#856](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/856) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 💪 Opened PR [#1035](https://github.com/EddieHubCommunity/LinkFree/pull/1035) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-<!--END_SECTION:activity-->
-
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
