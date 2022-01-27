@@ -17,4 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Specify a custom commit message'
-          MAX_LINES: '10'
+          max: 10 # max number of items (default 5)
+#           MAX_LINES: '10'
