@@ -61,9 +61,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#856](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/856) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 💪 Opened PR [#1035](https://github.com/EddieHubCommunity/LinkFree/pull/1035) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-<!--END_SECTION:activity-->
+
 
 ---
 ## Latest YouTube Videos
