@@ -75,7 +75,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
 
 ---
-## Latest YouTube Videos
+## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Tutorial 5 : Factorial of a given number || Shell Programming](https://www.youtube.com/watch?v=HYO7Ac0cygM)
