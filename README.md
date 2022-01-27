@@ -80,4 +80,5 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
 ### 📙 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Your First Contribution To Open Source](https://dev.to/susmitadey/make-your-first-contribution-to-open-source-ono)
 <!-- BLOG-POST-LIST:END -->
