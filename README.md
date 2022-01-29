@@ -89,6 +89,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
 ### 📙 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 most important tips every programmer should know](https://dev.to/susmitadey/5-most-important-tips-every-programmer-should-know-1hfo)
 - [Swapping Of Two Numbers In Python in One Line](https://dev.to/susmitadey/swapping-of-two-numbers-in-python-in-one-line-5hha)
 - [Make Your First Contribution To Open Source](https://dev.to/susmitadey/make-your-first-contribution-to-open-source-ono)
 <!-- BLOG-POST-LIST:END -->
