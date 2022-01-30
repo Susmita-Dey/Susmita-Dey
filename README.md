@@ -95,6 +95,7 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
 ### 📙 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Return Statement in Programming Languages](https://dev.to/susmitadey/return-statement-in-programming-languages-caa)
 - [Play Song In Python Using PlaySound Module](https://dev.to/susmitadey/play-song-in-python-using-playsound-module-476i)
 - [5 most important tips every programmer should know](https://dev.to/susmitadey/5-most-important-tips-every-programmer-should-know-1hfo)
 - [Swapping Of Two Numbers In Python in One Line](https://dev.to/susmitadey/swapping-of-two-numbers-in-python-in-one-line-5hha)
