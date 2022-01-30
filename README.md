@@ -18,14 +18,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/its_SusmitaDey" target="_blank"><img src="images/twitter-6.svg" alt="Twitter Logo" width="80"></a>&emsp;
 <a href="https://discord.gg/g7FmxB9uZp" target="_blank"><img src="images/discord-6.svg" alt="Discord Logo" width="60"></a>&emsp;
 <a href="https://www.youtube.com/channel/UCsuzc8lqAbgUYo4yzpjtfSw" target="_blank"><img src="images/youtube-3.svg" alt="YouTube Logo" width="60"></a>&emsp;
-<a href="https://dev.to/susmitadey"><img src="images/Dev.to image.png" alt="Dev.to Icon" width="70"></a>
-<hr>
+<a href="https://dev.to/susmitadey"><img src="images/Dev.to image.png" alt="Dev.to Icon" width="70"></a>&emsp;&emsp; 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Susmita-Dey.Susmita-Dey)
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&show_icons=true&theme=tokyonight" 
-/>
 <hr>
 <h2> 🥞 Tech Stack</h2>
  
@@ -49,14 +45,21 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susmita-Dey&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Susmita-Dey&theme=tokyonight" alt="Susmita-Dey" /></p>
-
-<br>
-
 <hr>
 
- [![Susmita's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=tokyonight) ](https://github.com/Susmita-Dey?tab=repositories )
+## Stats 📈
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&show_icons=true&theme=tokyonight" />  &emsp;   
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Susmita-Dey&show_icons=true&theme=tokyonight" />
+     <p/>
+<hr>
+
+## Contribution Graph 📊
+
+<img
+     src="https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=chartreuse-dark"
+     />
 ---
 ## Recent GitHub Activity
 
@@ -95,5 +98,6 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 - [Make Your First Contribution To Open Source](https://dev.to/susmitadey/make-your-first-contribution-to-open-source-ono)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ---
-![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
+---
+
+![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)  
