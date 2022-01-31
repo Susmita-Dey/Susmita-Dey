@@ -67,16 +67,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-2. 💪 Opened PR [#856](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/856) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 💪 Opened PR [#1035](https://github.com/EddieHubCommunity/LinkFree/pull/1035) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❌ Closed PR [#1](https://github.com/Susmita-Dey/LinkFree/pull/1) in [Susmita-Dey/LinkFree](https://github.com/Susmita-Dey/LinkFree)
-5. 🗣 Commented on [#1009](https://github.com/EddieHubCommunity/LinkFree/issues/1009) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-6. 💪 Opened PR [#1](https://github.com/Susmita-Dey/LinkFree/pull/1) in [Susmita-Dey/LinkFree](https://github.com/Susmita-Dey/LinkFree)
-7. 💪 Opened PR [#14](https://github.com/kunal-kushwaha/DevOps-Bootcamp/pull/14) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
-8. 🗣 Commented on [#575](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/issues/575) in [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
-9. 🗣 Commented on [#9](https://github.com/kunal-kushwaha/DevOps-Bootcamp/issues/9) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
-10. 💪 Opened PR [#12](https://github.com/kunal-kushwaha/DevOps-Bootcamp/pull/12) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
+1. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+2. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+3. 💪 Opened PR [#856](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/856) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 💪 Opened PR [#1035](https://github.com/EddieHubCommunity/LinkFree/pull/1035) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❌ Closed PR [#1](https://github.com/Susmita-Dey/LinkFree/pull/1) in [Susmita-Dey/LinkFree](https://github.com/Susmita-Dey/LinkFree)
+6. 🗣 Commented on [#1009](https://github.com/EddieHubCommunity/LinkFree/issues/1009) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+7. 💪 Opened PR [#1](https://github.com/Susmita-Dey/LinkFree/pull/1) in [Susmita-Dey/LinkFree](https://github.com/Susmita-Dey/LinkFree)
+8. 💪 Opened PR [#14](https://github.com/kunal-kushwaha/DevOps-Bootcamp/pull/14) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
+9. 🗣 Commented on [#575](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/issues/575) in [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+10. 🗣 Commented on [#9](https://github.com/kunal-kushwaha/DevOps-Bootcamp/issues/9) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
 <!--END_SECTION:activity-->
 
 
