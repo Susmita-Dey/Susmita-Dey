@@ -102,6 +102,6 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 - [Swapping Of Two Numbers In Python in One Line](https://dev.to/susmitadey/swapping-of-two-numbers-in-python-in-one-line-5hha)
 <!-- BLOG-POST-LIST:END -->
 
----
+<!-- --- -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
