@@ -104,4 +104,4 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
 ---
 
-![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
