@@ -67,16 +67,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-2. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/2) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-3. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-4. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-5. 💪 Opened PR [#856](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/856) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-6. 💪 Opened PR [#1035](https://github.com/EddieHubCommunity/LinkFree/pull/1035) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-7. ❌ Closed PR [#1](https://github.com/Susmita-Dey/LinkFree/pull/1) in [Susmita-Dey/LinkFree](https://github.com/Susmita-Dey/LinkFree)
-8. 🗣 Commented on [#1009](https://github.com/EddieHubCommunity/LinkFree/issues/1009) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-9. 💪 Opened PR [#1](https://github.com/Susmita-Dey/LinkFree/pull/1) in [Susmita-Dey/LinkFree](https://github.com/Susmita-Dey/LinkFree)
-10. 💪 Opened PR [#14](https://github.com/kunal-kushwaha/DevOps-Bootcamp/pull/14) in [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp)
+1. ❗️ Closed issue [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+2. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+3. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/4) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+4. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+5. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/4) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+6. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+7. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/2) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+8. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+9. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+10. 💪 Opened PR [#856](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/856) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 
