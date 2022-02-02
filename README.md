@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1547](https://github.com/collective/Collective/issues/1547) in [collective/Collective](https://github.com/collective/Collective)
-2. 💪 Opened PR [#14506](https://github.com/zero-to-mastery/start-here-guidelines/pull/14506) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-3. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-4. ❗️ Opened issue [#26](https://github.com/gatsbyg/gg/issues/26) in [gatsbyg/gg](https://github.com/gatsbyg/gg)
-5. ❗️ Opened issue [#66](https://github.com/slurpcode/join-our-team/issues/66) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
-6. ❗️ Opened issue [#1067](https://github.com/commclassroom/commclassroomOP/issues/1067) in [commclassroom/commclassroomOP](https://github.com/commclassroom/commclassroomOP)
-7. ❗️ Opened issue [#1](https://github.com/Thalassa-Ta/Join-the-organization/issues/1) in [Thalassa-Ta/Join-the-organization](https://github.com/Thalassa-Ta/Join-the-organization)
-8. ❗️ Opened issue [#150](https://github.com/Design-and-Code/support/issues/150) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
-9. ❗️ Opened issue [#72](https://github.com/CodeVisors/support/issues/72) in [CodeVisors/support](https://github.com/CodeVisors/support)
-10. ❗️ Opened issue [#71](https://github.com/CodeVisors/support/issues/71) in [CodeVisors/support](https://github.com/CodeVisors/support)
+1. 💪 Opened PR [#153](https://github.com/fnplus/join-fnplus-with-a-pr/pull/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+2. ❗️ Opened issue [#1547](https://github.com/collective/Collective/issues/1547) in [collective/Collective](https://github.com/collective/Collective)
+3. 💪 Opened PR [#14506](https://github.com/zero-to-mastery/start-here-guidelines/pull/14506) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+4. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+5. ❗️ Opened issue [#26](https://github.com/gatsbyg/gg/issues/26) in [gatsbyg/gg](https://github.com/gatsbyg/gg)
+6. ❗️ Opened issue [#66](https://github.com/slurpcode/join-our-team/issues/66) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
+7. ❗️ Opened issue [#1067](https://github.com/commclassroom/commclassroomOP/issues/1067) in [commclassroom/commclassroomOP](https://github.com/commclassroom/commclassroomOP)
+8. ❗️ Opened issue [#1](https://github.com/Thalassa-Ta/Join-the-organization/issues/1) in [Thalassa-Ta/Join-the-organization](https://github.com/Thalassa-Ta/Join-the-organization)
+9. ❗️ Opened issue [#150](https://github.com/Design-and-Code/support/issues/150) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
+10. ❗️ Opened issue [#72](https://github.com/CodeVisors/support/issues/72) in [CodeVisors/support](https://github.com/CodeVisors/support)
 <!--END_SECTION:activity-->
 
 
