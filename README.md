@@ -67,16 +67,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Thalassa-Ta/Join-the-organization/issues/1) in [Thalassa-Ta/Join-the-organization](https://github.com/Thalassa-Ta/Join-the-organization)
-2. ❗️ Opened issue [#150](https://github.com/Design-and-Code/support/issues/150) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
-3. ❗️ Opened issue [#72](https://github.com/CodeVisors/support/issues/72) in [CodeVisors/support](https://github.com/CodeVisors/support)
-4. ❗️ Opened issue [#71](https://github.com/CodeVisors/support/issues/71) in [CodeVisors/support](https://github.com/CodeVisors/support)
-5. 💪 Opened PR [#69](https://github.com/Uncodedtech/Join_Org/pull/69) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
-6. ❗️ Opened issue [#34](https://github.com/https-github-com-Kushal997-das/Community-Support/issues/34) in [https-github-com-Kushal997-das/Community-Support](https://github.com/https-github-com-Kushal997-das/Community-Support)
-7. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-8. 🗣 Commented on [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-9. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/9) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-10. 🎉 Merged PR [#8](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/8) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+1. 💪 Opened PR [#14506](https://github.com/zero-to-mastery/start-here-guidelines/pull/14506) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+2. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+3. ❗️ Opened issue [#26](https://github.com/gatsbyg/gg/issues/26) in [gatsbyg/gg](https://github.com/gatsbyg/gg)
+4. ❗️ Opened issue [#66](https://github.com/slurpcode/join-our-team/issues/66) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
+5. ❗️ Opened issue [#1067](https://github.com/commclassroom/commclassroomOP/issues/1067) in [commclassroom/commclassroomOP](https://github.com/commclassroom/commclassroomOP)
+6. ❗️ Opened issue [#1](https://github.com/Thalassa-Ta/Join-the-organization/issues/1) in [Thalassa-Ta/Join-the-organization](https://github.com/Thalassa-Ta/Join-the-organization)
+7. ❗️ Opened issue [#150](https://github.com/Design-and-Code/support/issues/150) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
+8. ❗️ Opened issue [#72](https://github.com/CodeVisors/support/issues/72) in [CodeVisors/support](https://github.com/CodeVisors/support)
+9. ❗️ Opened issue [#71](https://github.com/CodeVisors/support/issues/71) in [CodeVisors/support](https://github.com/CodeVisors/support)
+10. 💪 Opened PR [#69](https://github.com/Uncodedtech/Join_Org/pull/69) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
 <!--END_SECTION:activity-->
 
 
