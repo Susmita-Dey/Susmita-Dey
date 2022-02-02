@@ -67,16 +67,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-2. 🗣 Commented on [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-3. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/9) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-4. 🎉 Merged PR [#8](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/8) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-5. ❗️ Opened issue [#18635](https://github.com/FortAwesome/Font-Awesome/issues/18635) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-6. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/6) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-7. 🎉 Merged PR [#6](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/6) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-8. 🗣 Commented on [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-9. ❗️ Closed issue [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-10. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+1. ❗️ Opened issue [#72](https://github.com/CodeVisors/support/issues/72) in [CodeVisors/support](https://github.com/CodeVisors/support)
+2. ❗️ Opened issue [#71](https://github.com/CodeVisors/support/issues/71) in [CodeVisors/support](https://github.com/CodeVisors/support)
+3. 💪 Opened PR [#69](https://github.com/Uncodedtech/Join_Org/pull/69) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
+4. ❗️ Opened issue [#34](https://github.com/https-github-com-Kushal997-das/Community-Support/issues/34) in [https-github-com-Kushal997-das/Community-Support](https://github.com/https-github-com-Kushal997-das/Community-Support)
+5. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+6. 🗣 Commented on [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+7. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/9) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+8. 🎉 Merged PR [#8](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/8) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+9. ❗️ Opened issue [#18635](https://github.com/FortAwesome/Font-Awesome/issues/18635) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+10. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/6) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
 <!--END_SECTION:activity-->
 
 
