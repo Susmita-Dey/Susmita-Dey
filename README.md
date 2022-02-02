@@ -67,16 +67,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/6) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-2. 🎉 Merged PR [#6](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/6) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-3. 🗣 Commented on [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-4. ❗️ Closed issue [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-5. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-6. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/4) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-7. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-8. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/4) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-9. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-10. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/2) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+1. ❗️ Opened issue [#18635](https://github.com/FortAwesome/Font-Awesome/issues/18635) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+2. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/6) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+3. 🎉 Merged PR [#6](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/6) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+4. 🗣 Commented on [#7](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/7) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+5. ❗️ Closed issue [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+6. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+7. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/4) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+8. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/1) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+9. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/4) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+10. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/5) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
 <!--END_SECTION:activity-->
 
 
