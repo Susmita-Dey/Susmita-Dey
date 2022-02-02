@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">
 	<a href="https://susmitadey.github.io/">Hi, I'm Susmita Dey!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <img src="https://gpvc.arturio.dev/Susmita-Dey" alt="Profile views" align='right'/> <a href="https://github.com/Susmita-Dey/Susmita-Dey/"> </a>
+</h3> <img src="https://visitor-badge.laobi.icu/badge?page_id=Susmita-Dey.Susmita-Dey" alt="Profile views" align='right'/> <a href="https://github.com/Susmita-Dey/Susmita-Dey/"> </a>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -35,9 +35,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.youtube.com/channel/UCsuzc8lqAbgUYo4yzpjtfSw" target="_blank"><img src="images/youtube-3.svg" alt="YouTube Logo" width="60"></a>&emsp;
 <a href="https://dev.to/susmitadey"><img src="images/Dev.to image.png" alt="Dev.to Icon" width="70"></a>&emsp;&emsp; 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Susmita-Dey.Susmita-Dey)
-
-<hr>
+<hr/>
 <h2> 🥞 Tech Stack</h2>
  
 I work with many different technologies and languages. <br>
