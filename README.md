@@ -3,7 +3,19 @@ Susmita-Dey/Susmita-Dey is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Susmita Dey</h1>
+<h3 align="center">
+	<a href="https://susmitadey.github.io/">Hi, I'm Susmita Dey!</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3> <img src="https://gpvc.arturio.dev/Susmita-Dey" alt="Profile views" align='right'/> <a href="https://github.com/Susmita-Dey/Susmita-Dey/"> </a>
+<br/>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+</p>
+<hr/>
+
+<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Susmita Dey</h1> -->
 <h3>I'm a college student and a front-end developer.</h3>
 
 - 🎓 I am a **sophomore**, pursuing Bachelors in **Computer Science** at **Kalyani Mahavidyalaya**. <br>
