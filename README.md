@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/13) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-2. 💪 Opened PR [#153](https://github.com/fnplus/join-fnplus-with-a-pr/pull/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-3. ❗️ Opened issue [#1547](https://github.com/collective/Collective/issues/1547) in [collective/Collective](https://github.com/collective/Collective)
-4. 💪 Opened PR [#14506](https://github.com/zero-to-mastery/start-here-guidelines/pull/14506) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-5. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-6. ❗️ Opened issue [#26](https://github.com/gatsbyg/gg/issues/26) in [gatsbyg/gg](https://github.com/gatsbyg/gg)
-7. ❗️ Opened issue [#66](https://github.com/slurpcode/join-our-team/issues/66) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
-8. ❗️ Opened issue [#1067](https://github.com/commclassroom/commclassroomOP/issues/1067) in [commclassroom/commclassroomOP](https://github.com/commclassroom/commclassroomOP)
-9. ❗️ Opened issue [#1](https://github.com/Thalassa-Ta/Join-the-organization/issues/1) in [Thalassa-Ta/Join-the-organization](https://github.com/Thalassa-Ta/Join-the-organization)
-10. ❗️ Opened issue [#150](https://github.com/Design-and-Code/support/issues/150) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
+1. ❗️ Opened issue [#112](https://github.com/PUGroups/Support/issues/112) in [PUGroups/Support](https://github.com/PUGroups/Support)
+2. 💪 Opened PR [#105](https://github.com/akshitagit/open-source-DSA-code/pull/105) in [akshitagit/open-source-DSA-code](https://github.com/akshitagit/open-source-DSA-code)
+3. ❗️ Opened issue [#10](https://github.com/Bash-Woman-Community/website/issues/10) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
+4. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/13) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+5. 💪 Opened PR [#153](https://github.com/fnplus/join-fnplus-with-a-pr/pull/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+6. ❗️ Opened issue [#1547](https://github.com/collective/Collective/issues/1547) in [collective/Collective](https://github.com/collective/Collective)
+7. 💪 Opened PR [#14506](https://github.com/zero-to-mastery/start-here-guidelines/pull/14506) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+8. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+9. ❗️ Opened issue [#26](https://github.com/gatsbyg/gg/issues/26) in [gatsbyg/gg](https://github.com/gatsbyg/gg)
+10. ❗️ Opened issue [#66](https://github.com/slurpcode/join-our-team/issues/66) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
 <!--END_SECTION:activity-->
 
 
