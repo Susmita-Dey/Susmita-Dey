@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/fnplus/join-fnplus-with-a-pr/issues/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-2. ❗️ Opened issue [#112](https://github.com/PUGroups/Support/issues/112) in [PUGroups/Support](https://github.com/PUGroups/Support)
-3. 💪 Opened PR [#105](https://github.com/akshitagit/open-source-DSA-code/pull/105) in [akshitagit/open-source-DSA-code](https://github.com/akshitagit/open-source-DSA-code)
-4. ❗️ Opened issue [#10](https://github.com/Bash-Woman-Community/website/issues/10) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
-5. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/13) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-6. 💪 Opened PR [#153](https://github.com/fnplus/join-fnplus-with-a-pr/pull/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-7. ❗️ Opened issue [#1547](https://github.com/collective/Collective/issues/1547) in [collective/Collective](https://github.com/collective/Collective)
-8. 💪 Opened PR [#14506](https://github.com/zero-to-mastery/start-here-guidelines/pull/14506) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-9. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-10. ❗️ Opened issue [#26](https://github.com/gatsbyg/gg/issues/26) in [gatsbyg/gg](https://github.com/gatsbyg/gg)
+1. 🎉 Merged PR [#14](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/14) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+2. 🗣 Commented on [#153](https://github.com/fnplus/join-fnplus-with-a-pr/issues/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+3. ❗️ Opened issue [#112](https://github.com/PUGroups/Support/issues/112) in [PUGroups/Support](https://github.com/PUGroups/Support)
+4. 💪 Opened PR [#105](https://github.com/akshitagit/open-source-DSA-code/pull/105) in [akshitagit/open-source-DSA-code](https://github.com/akshitagit/open-source-DSA-code)
+5. ❗️ Opened issue [#10](https://github.com/Bash-Woman-Community/website/issues/10) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
+6. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/13) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+7. 💪 Opened PR [#153](https://github.com/fnplus/join-fnplus-with-a-pr/pull/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+8. ❗️ Opened issue [#1547](https://github.com/collective/Collective/issues/1547) in [collective/Collective](https://github.com/collective/Collective)
+9. 💪 Opened PR [#14506](https://github.com/zero-to-mastery/start-here-guidelines/pull/14506) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+10. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
 <!--END_SECTION:activity-->
 
 
