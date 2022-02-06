@@ -78,15 +78,15 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-2. 🗣 Commented on [#1](https://github.com/Susmita-Dey/HackerRank-Python-Solutions/issues/1) in [Susmita-Dey/HackerRank-Python-Solutions](https://github.com/Susmita-Dey/HackerRank-Python-Solutions)
-3. 🎉 Merged PR [#17](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/17) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-4. 🎉 Merged PR [#14](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/14) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-5. 🗣 Commented on [#153](https://github.com/fnplus/join-fnplus-with-a-pr/issues/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-6. ❗️ Opened issue [#112](https://github.com/PUGroups/Support/issues/112) in [PUGroups/Support](https://github.com/PUGroups/Support)
-7. 💪 Opened PR [#105](https://github.com/akshitagit/open-source-DSA-code/pull/105) in [akshitagit/open-source-DSA-code](https://github.com/akshitagit/open-source-DSA-code)
-8. ❗️ Opened issue [#10](https://github.com/Bash-Woman-Community/website/issues/10) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
-9. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/13) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-10. 💪 Opened PR [#153](https://github.com/fnplus/join-fnplus-with-a-pr/pull/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+2. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+3. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+4. 🗣 Commented on [#1](https://github.com/Susmita-Dey/HackerRank-Python-Solutions/issues/1) in [Susmita-Dey/HackerRank-Python-Solutions](https://github.com/Susmita-Dey/HackerRank-Python-Solutions)
+5. 🎉 Merged PR [#17](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/17) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+6. 🎉 Merged PR [#14](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/14) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+7. 🗣 Commented on [#153](https://github.com/fnplus/join-fnplus-with-a-pr/issues/153) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+8. ❗️ Opened issue [#112](https://github.com/PUGroups/Support/issues/112) in [PUGroups/Support](https://github.com/PUGroups/Support)
+9. 💪 Opened PR [#105](https://github.com/akshitagit/open-source-DSA-code/pull/105) in [akshitagit/open-source-DSA-code](https://github.com/akshitagit/open-source-DSA-code)
+10. ❗️ Opened issue [#10](https://github.com/Bash-Woman-Community/website/issues/10) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
 <!--END_SECTION:activity-->
 
 
