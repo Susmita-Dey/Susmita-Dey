@@ -112,6 +112,11 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 - [5 most important tips every programmer should know](https://dev.to/susmitadey/5-most-important-tips-every-programmer-should-know-1hfo)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- --- -->
+---
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
