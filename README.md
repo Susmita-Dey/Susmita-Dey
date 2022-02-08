@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/arpit456jain/Getting-Started-with-open-source/pull/75) in [arpit456jain/Getting-Started-with-open-source](https://github.com/arpit456jain/Getting-Started-with-open-source)
-2. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-3. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+1. 🎉 Merged PR [#19](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/19) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+2. 🗣 Commented on [#19](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/19) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+3. 💪 Opened PR [#75](https://github.com/arpit456jain/Getting-Started-with-open-source/pull/75) in [arpit456jain/Getting-Started-with-open-source](https://github.com/arpit456jain/Getting-Started-with-open-source)
 4. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-5. 💪 Opened PR [#667](https://github.com/meshery/meshery.io/pull/667) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+5. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
 6. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-7. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+7. 💪 Opened PR [#667](https://github.com/meshery/meshery.io/pull/667) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
 8. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-9. 🗣 Commented on [#1](https://github.com/Susmita-Dey/HackerRank-Python-Solutions/issues/1) in [Susmita-Dey/HackerRank-Python-Solutions](https://github.com/Susmita-Dey/HackerRank-Python-Solutions)
-10. 🎉 Merged PR [#17](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/17) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+9. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+10. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
 <!--END_SECTION:activity-->
 
 
