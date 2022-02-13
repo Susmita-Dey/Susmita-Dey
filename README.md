@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/20) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-2. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/HackerRank-Python-Solutions/pull/4) in [Susmita-Dey/HackerRank-Python-Solutions](https://github.com/Susmita-Dey/HackerRank-Python-Solutions)
-3. 🎉 Merged PR [#3](https://github.com/Susmita-Dey/HackerRank-Python-Solutions/pull/3) in [Susmita-Dey/HackerRank-Python-Solutions](https://github.com/Susmita-Dey/HackerRank-Python-Solutions)
-4. 🗣 Commented on [#3](https://github.com/Susmita-Dey/HackerRank-Python-Solutions/issues/3) in [Susmita-Dey/HackerRank-Python-Solutions](https://github.com/Susmita-Dey/HackerRank-Python-Solutions)
-5. 🎉 Merged PR [#19](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/19) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-6. 🗣 Commented on [#19](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/issues/19) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-7. 💪 Opened PR [#75](https://github.com/arpit456jain/Getting-Started-with-open-source/pull/75) in [arpit456jain/Getting-Started-with-open-source](https://github.com/arpit456jain/Getting-Started-with-open-source)
-8. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-9. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-10. 🗣 Commented on [#619](https://github.com/meshery/meshery.io/issues/619) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+1. ❗️ Closed issue [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. 🗣 Commented on [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. ❗️ Closed issue [#4](https://github.com/opensourcecommunity-hub/join-the-community/issues/4) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/join-the-community/issues/4) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. ❗️ Closed issue [#3](https://github.com/opensourcecommunity-hub/join-the-community/issues/3) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. 🗣 Commented on [#3](https://github.com/opensourcecommunity-hub/join-the-community/issues/3) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. ❗️ Closed issue [#2](https://github.com/opensourcecommunity-hub/join-the-community/issues/2) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#2](https://github.com/opensourcecommunity-hub/join-the-community/issues/2) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🎉 Merged PR [#20](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/20) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+10. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/HackerRank-Python-Solutions/pull/4) in [Susmita-Dey/HackerRank-Python-Solutions](https://github.com/Susmita-Dey/HackerRank-Python-Solutions)
 <!--END_SECTION:activity-->
 
 
