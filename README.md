@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/opensourcecommunity-hub/.github/pull/1) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
-2. 💪 Opened PR [#1](https://github.com/opensourcecommunity-hub/.github/pull/1) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
-3. ❗️ Closed issue [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. ❗️ Closed issue [#4](https://github.com/opensourcecommunity-hub/join-the-community/issues/4) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/join-the-community/issues/4) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#3](https://github.com/opensourcecommunity-hub/join-the-community/issues/3) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#3](https://github.com/opensourcecommunity-hub/join-the-community/issues/3) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. ❗️ Closed issue [#2](https://github.com/opensourcecommunity-hub/join-the-community/issues/2) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#2](https://github.com/opensourcecommunity-hub/join-the-community/issues/2) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 🎉 Merged PR [#22](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/22) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+2. 💪 Opened PR [#22](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/22) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+3. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First/pull/2) in [opensourcecommunity-hub/Contribute-To-This-Project-First](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First)
+4. 🎉 Merged PR [#1](https://github.com/opensourcecommunity-hub/.github/pull/1) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
+5. 💪 Opened PR [#1](https://github.com/opensourcecommunity-hub/.github/pull/1) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
+6. ❗️ Closed issue [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. 🗣 Commented on [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. ❗️ Closed issue [#4](https://github.com/opensourcecommunity-hub/join-the-community/issues/4) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/join-the-community/issues/4) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❗️ Closed issue [#3](https://github.com/opensourcecommunity-hub/join-the-community/issues/3) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 
 
