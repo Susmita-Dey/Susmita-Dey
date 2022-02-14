@@ -94,11 +94,11 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Text Overlay On Image Using CSS | Textmorphism](https://www.youtube.com/watch?v=2fDcaAeSOCM)
 - [Tutorial 10 : Calculate the sum of the digit of a given number || Shell Programming](https://www.youtube.com/watch?v=ABKFuBBzfz4)
 - [Tutorial 9 : Printing Prime Numbers in a given range || Shell Programming](https://www.youtube.com/watch?v=f3VGVGveELk)
 - [Tutorial 8 : Checking For Prime Number || Shell Programming](https://www.youtube.com/watch?v=eANv44ZcQBY)
 - [Tutorial 7:- Calculate the sum of n natural numbers  || Shell Programming](https://www.youtube.com/watch?v=qBAZnXif7iU)
-- [Swapping Of 2 Numbers In Python in just one line of code #shorts](https://www.youtube.com/watch?v=9u349PPwfGg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
