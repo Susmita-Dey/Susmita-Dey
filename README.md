@@ -105,11 +105,11 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
 ### 📙 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Overlay on an Image Using HTML &amp; CSS](https://dev.to/susmitadey/text-overlay-on-an-image-using-html-css-3oa1)
 - [Watch Star Wars Movie In Command Prompt&lpar;cmd&rpar;](https://dev.to/susmitadey/watch-star-wars-movie-in-command-promptcmd-ije)
 - [Use Emojis Anywhere You Like In Windows](https://dev.to/susmitadey/use-emojis-anywhere-you-like-in-windows-150a)
 - [Making a GitHub Repository to Help People](https://dev.to/susmitadey/making-a-github-repository-to-help-people-532d)
 - [Return Statement in Programming Languages](https://dev.to/susmitadey/return-statement-in-programming-languages-caa)
-- [Play Song In Python Using PlaySound Module](https://dev.to/susmitadey/play-song-in-python-using-playsound-module-476i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
