@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. 🗣 Commented on [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. ❗️ Closed issue [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. ❗️ Closed issue [#9](https://github.com/opensourcecommunity-hub/join-the-community/issues/9) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#9](https://github.com/opensourcecommunity-hub/join-the-community/issues/9) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#10](https://github.com/opensourcecommunity-hub/join-the-community/issues/10) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#10](https://github.com/opensourcecommunity-hub/join-the-community/issues/10) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript/pull/1) in [Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript](https://github.com/Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript)
-10. ❗️ Closed issue [#6](https://github.com/opensourcecommunity-hub/join-the-community/issues/6) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+2. ❗️ Closed issue [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🗣 Commented on [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. ❗️ Closed issue [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. 🗣 Commented on [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. ❗️ Closed issue [#9](https://github.com/opensourcecommunity-hub/join-the-community/issues/9) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. 🗣 Commented on [#9](https://github.com/opensourcecommunity-hub/join-the-community/issues/9) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. ❗️ Closed issue [#10](https://github.com/opensourcecommunity-hub/join-the-community/issues/10) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#10](https://github.com/opensourcecommunity-hub/join-the-community/issues/10) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript/pull/1) in [Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript](https://github.com/Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript)
 <!--END_SECTION:activity-->
 
 
