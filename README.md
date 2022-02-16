@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/opensourcecommunity-hub/join-the-community/issues/6) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/join-the-community/issues/6) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. ❗️ Opened issue [#25](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/25) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
-4. 🎉 Merged PR [#22](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/22) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-5. 💪 Opened PR [#22](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/22) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-6. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First/pull/2) in [opensourcecommunity-hub/Contribute-To-This-Project-First](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First)
-7. 🎉 Merged PR [#1](https://github.com/opensourcecommunity-hub/.github/pull/1) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
-8. 💪 Opened PR [#1](https://github.com/opensourcecommunity-hub/.github/pull/1) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
-9. ❗️ Closed issue [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript/pull/1) in [Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript](https://github.com/Susmita-Dey/Light-Dark-Mode-Toggle-HTML-CSS-JavaScript)
+2. ❗️ Closed issue [#6](https://github.com/opensourcecommunity-hub/join-the-community/issues/6) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/join-the-community/issues/6) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. ❗️ Opened issue [#25](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/25) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
+5. 🎉 Merged PR [#22](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/22) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+6. 💪 Opened PR [#22](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/22) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+7. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First/pull/2) in [opensourcecommunity-hub/Contribute-To-This-Project-First](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First)
+8. 🎉 Merged PR [#1](https://github.com/opensourcecommunity-hub/.github/pull/1) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
+9. 💪 Opened PR [#1](https://github.com/opensourcecommunity-hub/.github/pull/1) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
+10. ❗️ Closed issue [#5](https://github.com/opensourcecommunity-hub/join-the-community/issues/5) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 
 
