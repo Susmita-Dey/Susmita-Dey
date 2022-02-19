@@ -77,16 +77,16 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/.github/pull/2) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
-2. 🎉 Merged PR [#23](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/23) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-3. 💪 Opened PR [#23](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/23) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-4. 🎉 Merged PR [#3](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First/pull/3) in [opensourcecommunity-hub/Contribute-To-This-Project-First](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First)
-5. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-6. ❗️ Closed issue [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. 🗣 Commented on [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. ❗️ Closed issue [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. 🗣 Commented on [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. ❗️ Closed issue [#9](https://github.com/opensourcecommunity-hub/join-the-community/issues/9) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+2. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/.github/pull/2) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
+3. 🎉 Merged PR [#23](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/23) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+4. 💪 Opened PR [#23](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/23) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+5. 🎉 Merged PR [#3](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First/pull/3) in [opensourcecommunity-hub/Contribute-To-This-Project-First](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First)
+6. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+7. ❗️ Closed issue [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. ❗️ Closed issue [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🗣 Commented on [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 
 
