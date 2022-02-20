@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/susmitadey"
+          feed_list: "https://susmitadey.hashnode.dev/rss.xml"
           max_post_count: 5
