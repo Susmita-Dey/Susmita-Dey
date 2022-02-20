@@ -106,8 +106,11 @@ You can click the Preview link to take a look at your changes.
      src="https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=chartreuse-dark"
      />
 ---
-## Recent GitHub Activity
-
+<!-- ## Recent GitHub Activity -->
+<details>
+	<summary> My Recent GitHub Activity</summary>
+<br>
+	
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
 2. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
@@ -120,7 +123,8 @@ You can click the Preview link to take a look at your changes.
 9. 🗣 Commented on [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 10. ❗️ Closed issue [#8](https://github.com/opensourcecommunity-hub/join-the-community/issues/8) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
-
+	
+</details>
 
 ---
 <div align="center">
