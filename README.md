@@ -105,11 +105,11 @@ My favorite ones are **Java, HTML, CSS, TailwindCSS, JavaScript, C/C++, Python.*
 
 ### 📙 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Python](https://dev.to/susmitadey/getting-started-with-python-183e)
-- [Getting Started With Shell Scripting&lpar;Shell Programming&rpar;](https://dev.to/susmitadey/getting-started-with-shell-scriptingshell-programming-4ejj)
-- [Text Overlay on an Image Using HTML &amp; CSS](https://dev.to/susmitadey/text-overlay-on-an-image-using-html-css-3oa1)
-- [Watch Star Wars Movie In Command Prompt&lpar;cmd&rpar;](https://dev.to/susmitadey/watch-star-wars-movie-in-command-promptcmd-ije)
-- [Use Emojis Anywhere You Like In Windows](https://dev.to/susmitadey/use-emojis-anywhere-you-like-in-windows-150a)
+- [Getting Started With Python](https://susmitadey.hashnode.dev/getting-started-with-python)
+- [Getting Started With Shell Scripting&lpar;Shell Programming&rpar;](https://susmitadey.hashnode.dev/getting-started-with-shell-scriptingshell-programming)
+- [Text Overlay on an Image Using HTML &amp; CSS](https://susmitadey.hashnode.dev/text-overlay-on-an-image-using-html-and-css)
+- [Watch Star Wars Movie In Command Prompt&lpar;cmd&rpar;](https://susmitadey.hashnode.dev/watch-star-wars-movie-in-command-promptcmd)
+- [Use Emojis Anywhere You Like In Windows](https://susmitadey.hashnode.dev/use-emojis-anywhere-you-like-in-windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
