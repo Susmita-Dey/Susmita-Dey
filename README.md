@@ -76,18 +76,9 @@ You can click the Preview link to take a look at your changes.
 - [Use Emojis Anywhere You Like In Windows](https://susmitadey.hashnode.dev/use-emojis-anywhere-you-like-in-windows)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> -->
-<!-- <h2> 🖥⌨ Most used Languages </h2> -->
- 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susmita-Dey&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<br>
-<!-- <hr> -->
-
 ---
 
-## Stats 📈
-
+<!-- ## Stats 📈 -->
 <details>
 	<summary> My GitHub Stats</summary>
 <br>
@@ -98,13 +89,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p>
 </details>
-<hr>
 
-## Contribution Graph 📊
-
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=chartreuse-dark"
-     />
 ---
 <!-- ## Recent GitHub Activity -->
 <details>
@@ -125,6 +110,14 @@ You can click the Preview link to take a look at your changes.
 <!--END_SECTION:activity-->
 	
 </details>
+
+---
+
+## Contribution Graph 📊
+
+<img
+     src="https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=chartreuse-dark"
+     />
 
 ---
 <div align="center">
