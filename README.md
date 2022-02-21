@@ -58,11 +58,11 @@ You can click the Preview link to take a look at your changes.
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Getting Started With Shell Script || Shell Programming&lpar;Tut-1&rpar;](https://www.youtube.com/watch?v=5kILw3wb_RI)
 - [Tutorial 12:- Checking for Palindrome Number in Shell Programming](https://www.youtube.com/watch?v=Sj9NPR8WjHw)
 - [Tutorial 11:- Reversing a Given Number in Shell Programming](https://www.youtube.com/watch?v=RviMOMA8tCI)
 - [Text Overlay On Image Using CSS | Textmorphism](https://www.youtube.com/watch?v=2fDcaAeSOCM)
 - [Tutorial 10 : Calculate the sum of the digit of a given number || Shell Programming](https://www.youtube.com/watch?v=ABKFuBBzfz4)
-- [Tutorial 9 : Printing Prime Numbers in a given range || Shell Programming](https://www.youtube.com/watch?v=f3VGVGveELk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
