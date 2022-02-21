@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/1) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
-2. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-3. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-4. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/.github/pull/2) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
-5. 🎉 Merged PR [#23](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/23) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-6. 💪 Opened PR [#23](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/23) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-7. 🎉 Merged PR [#3](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First/pull/3) in [opensourcecommunity-hub/Contribute-To-This-Project-First](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First)
-8. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-9. ❗️ Closed issue [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#7](https://github.com/opensourcecommunity-hub/join-the-community/issues/7) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/2) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+2. ❗️ Opened issue [#1](https://github.com/salman4js/CLI-Node/issues/1) in [salman4js/CLI-Node](https://github.com/salman4js/CLI-Node)
+3. 🎉 Merged PR [#1](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/1) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+4. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+5. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+6. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/.github/pull/2) in [opensourcecommunity-hub/.github](https://github.com/opensourcecommunity-hub/.github)
+7. 🎉 Merged PR [#23](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/23) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+8. 💪 Opened PR [#23](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/23) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+9. 🎉 Merged PR [#3](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First/pull/3) in [opensourcecommunity-hub/Contribute-To-This-Project-First](https://github.com/opensourcecommunity-hub/Contribute-To-This-Project-First)
+10. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
 <!--END_SECTION:activity-->
 	
 </details>
