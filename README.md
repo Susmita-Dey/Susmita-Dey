@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/github-slideshow/issues/1) in [Susmita-Dey/github-slideshow](https://github.com/Susmita-Dey/github-slideshow)
-2. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-3. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-4. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/3) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-5. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/3) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-6. 🎉 Merged PR [#5](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/pull/5) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-7. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/4) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+1. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/github-slideshow/issues/2) in [Susmita-Dey/github-slideshow](https://github.com/Susmita-Dey/github-slideshow)
+2. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/github-slideshow/issues/1) in [Susmita-Dey/github-slideshow](https://github.com/Susmita-Dey/github-slideshow)
+3. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+4. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+5. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/3) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+6. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/3) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+7. 🎉 Merged PR [#5](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/pull/5) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
 8. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/4) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
-9. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/pull/4) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-10. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/4) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+9. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/4) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+10. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/pull/4) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
 <!--END_SECTION:activity-->
 	
 </details>
