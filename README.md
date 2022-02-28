@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
-2. ❌ Reopened PR [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
-3. ❌ Closed PR [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
-4. 🗣 Commented on [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
-5. ❗️ Closed issue [#11](https://github.com/opensourcecommunity-hub/join-the-community/issues/11) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#11](https://github.com/opensourcecommunity-hub/join-the-community/issues/11) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/reviewing-a-pull-request/pull/4) in [Susmita-Dey/reviewing-a-pull-request](https://github.com/Susmita-Dey/reviewing-a-pull-request)
-8. 💪 Opened PR [#4](https://github.com/Susmita-Dey/reviewing-a-pull-request/pull/4) in [Susmita-Dey/reviewing-a-pull-request](https://github.com/Susmita-Dey/reviewing-a-pull-request)
-9. ❗️ Reopened issue [#2](https://github.com/Susmita-Dey/github-slideshow/issues/2) in [Susmita-Dey/github-slideshow](https://github.com/Susmita-Dey/github-slideshow)
-10. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/github-slideshow/issues/2) in [Susmita-Dey/github-slideshow](https://github.com/Susmita-Dey/github-slideshow)
+1. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/4) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+2. 💪 Opened PR [#85](https://github.com/EddieHubCommunity/good-first-issue-finder/pull/85) in [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder)
+3. 🗣 Commented on [#84](https://github.com/EddieHubCommunity/good-first-issue-finder/issues/84) in [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder)
+4. 🗣 Commented on [#84](https://github.com/EddieHubCommunity/good-first-issue-finder/issues/84) in [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder)
+5. ❗️ Opened issue [#84](https://github.com/EddieHubCommunity/good-first-issue-finder/issues/84) in [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder)
+6. 🎉 Merged PR [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+7. ❌ Reopened PR [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+8. ❌ Closed PR [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+9. 🗣 Commented on [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+10. ❗️ Closed issue [#11](https://github.com/opensourcecommunity-hub/join-the-community/issues/11) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
