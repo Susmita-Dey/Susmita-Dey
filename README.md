@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/arpit456jain/CodingEasy/pull/136) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-2. 💪 Opened PR [#10](https://github.com/open-certs/oc-frontend/pull/10) in [open-certs/oc-frontend](https://github.com/open-certs/oc-frontend)
-3. 💪 Opened PR [#70](https://github.com/CatsInTech/Rezume/pull/70) in [CatsInTech/Rezume](https://github.com/CatsInTech/Rezume)
-4. 🗣 Commented on [#9](https://github.com/open-certs/oc-frontend/issues/9) in [open-certs/oc-frontend](https://github.com/open-certs/oc-frontend)
-5. 🗣 Commented on [#131](https://github.com/arpit456jain/CodingEasy/issues/131) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-6. 🗣 Commented on [#68](https://github.com/CatsInTech/Rezume/issues/68) in [CatsInTech/Rezume](https://github.com/CatsInTech/Rezume)
-7. ❗️ Opened issue [#9](https://github.com/open-certs/oc-frontend/issues/9) in [open-certs/oc-frontend](https://github.com/open-certs/oc-frontend)
-8. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
-9. ❗️ Opened issue [#68](https://github.com/CatsInTech/Rezume/issues/68) in [CatsInTech/Rezume](https://github.com/CatsInTech/Rezume)
-10. ❗️ Opened issue [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+1. ❗️ Opened issue [#525](https://github.com/Ayush7614/Bundli-Frontend/issues/525) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+2. ❗️ Opened issue [#171](https://github.com/arpit456jain/Amazing-Js-Projects/issues/171) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+3. 💪 Opened PR [#229](https://github.com/arpit456jain/Cool-Front-End-Templates/pull/229) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+4. 🗣 Commented on [#211](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/211) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+5. 🗣 Commented on [#216](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/216) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+6. 🗣 Commented on [#215](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/215) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+7. 💪 Opened PR [#136](https://github.com/arpit456jain/CodingEasy/pull/136) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+8. 💪 Opened PR [#10](https://github.com/open-certs/oc-frontend/pull/10) in [open-certs/oc-frontend](https://github.com/open-certs/oc-frontend)
+9. 💪 Opened PR [#70](https://github.com/CatsInTech/Rezume/pull/70) in [CatsInTech/Rezume](https://github.com/CatsInTech/Rezume)
+10. 🗣 Commented on [#9](https://github.com/open-certs/oc-frontend/issues/9) in [open-certs/oc-frontend](https://github.com/open-certs/oc-frontend)
 <!--END_SECTION:activity-->
 	
 </details>
