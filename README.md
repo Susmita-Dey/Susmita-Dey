@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#525](https://github.com/Ayush7614/Bundli-Frontend/issues/525) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
-2. ❗️ Opened issue [#235](https://github.com/Eduhub-Community/eduhub-website/issues/235) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
-3. ❗️ Opened issue [#525](https://github.com/Ayush7614/Bundli-Frontend/issues/525) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
-4. ❗️ Opened issue [#171](https://github.com/arpit456jain/Amazing-Js-Projects/issues/171) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
-5. 💪 Opened PR [#229](https://github.com/arpit456jain/Cool-Front-End-Templates/pull/229) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-6. 🗣 Commented on [#211](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/211) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-7. 🗣 Commented on [#216](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/216) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-8. 🗣 Commented on [#215](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/215) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-9. 💪 Opened PR [#136](https://github.com/arpit456jain/CodingEasy/pull/136) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-10. 💪 Opened PR [#10](https://github.com/open-certs/oc-frontend/pull/10) in [open-certs/oc-frontend](https://github.com/open-certs/oc-frontend)
+1. ❗️ Opened issue [#28](https://github.com/Hackathon7/Pacify-final/issues/28) in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)
+2. 🗣 Commented on [#13](https://github.com/Hackathon7/Pacify-final/issues/13) in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)
+3. ❗️ Opened issue [#239](https://github.com/Eduhub-Community/eduhub-website/issues/239) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
+4. ❗️ Opened issue [#529](https://github.com/Ayush7614/Bundli-Frontend/issues/529) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+5. 💪 Opened PR [#528](https://github.com/Ayush7614/Bundli-Frontend/pull/528) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+6. 🗣 Commented on [#525](https://github.com/Ayush7614/Bundli-Frontend/issues/525) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+7. ❗️ Opened issue [#235](https://github.com/Eduhub-Community/eduhub-website/issues/235) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
+8. ❗️ Opened issue [#525](https://github.com/Ayush7614/Bundli-Frontend/issues/525) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+9. ❗️ Opened issue [#171](https://github.com/arpit456jain/Amazing-Js-Projects/issues/171) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+10. 💪 Opened PR [#229](https://github.com/arpit456jain/Cool-Front-End-Templates/pull/229) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
 <!--END_SECTION:activity-->
 	
 </details>
