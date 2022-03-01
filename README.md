@@ -58,11 +58,11 @@ You can click the Preview link to take a look at your changes.
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Blogging As Your Next Income 💰 | Start Documenting Your Learnings](https://www.youtube.com/watch?v=_MGS0JhgaPM)
 - [Python Bootcamp Announcement Video](https://www.youtube.com/watch?v=Hpmj15ckXTA)
 - [Getting Started With Shell Script || Shell Programming&lpar;Tut-1&rpar;](https://www.youtube.com/watch?v=5kILw3wb_RI)
 - [Tutorial 12:- Checking for Palindrome Number in Shell Programming](https://www.youtube.com/watch?v=Sj9NPR8WjHw)
 - [Tutorial 11:- Reversing a Given Number in Shell Programming](https://www.youtube.com/watch?v=RviMOMA8tCI)
-- [Text Overlay On Image Using CSS | Textmorphism](https://www.youtube.com/watch?v=2fDcaAeSOCM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
