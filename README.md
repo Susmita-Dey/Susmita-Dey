@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#216](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/216) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-2. ❗️ Opened issue [#215](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/215) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-3. ❗️ Opened issue [#131](https://github.com/arpit456jain/CodingEasy/issues/131) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-4. 🗣 Commented on [#7](https://github.com/Daksh777/TakeABreak/issues/7) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-5. 💪 Opened PR [#20](https://github.com/Daksh777/TakeABreak/pull/20) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-6. 🗣 Commented on [#17](https://github.com/Daksh777/TakeABreak/issues/17) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-7. 🗣 Commented on [#17](https://github.com/Daksh777/TakeABreak/issues/17) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-8. ❗️ Opened issue [#211](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/211) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-9. ❗️ Opened issue [#18](https://github.com/Daksh777/TakeABreak/issues/18) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-10. ❗️ Opened issue [#17](https://github.com/Daksh777/TakeABreak/issues/17) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+1. ❗️ Opened issue [#9](https://github.com/open-certs/oc-frontend/issues/9) in [open-certs/oc-frontend](https://github.com/open-certs/oc-frontend)
+2. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+3. ❗️ Opened issue [#68](https://github.com/CatsInTech/Rezume/issues/68) in [CatsInTech/Rezume](https://github.com/CatsInTech/Rezume)
+4. ❗️ Opened issue [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+5. ❗️ Opened issue [#126](https://github.com/Lakhankumawat/LearnCPP/issues/126) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+6. ❗️ Opened issue [#202](https://github.com/Kushal997-das/Project-Guidance/issues/202) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+7. ❗️ Opened issue [#216](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/216) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+8. ❗️ Opened issue [#215](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/215) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+9. ❗️ Opened issue [#131](https://github.com/arpit456jain/CodingEasy/issues/131) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+10. 🗣 Commented on [#7](https://github.com/Daksh777/TakeABreak/issues/7) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
 <!--END_SECTION:activity-->
 	
 </details>
