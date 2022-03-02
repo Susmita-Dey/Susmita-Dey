@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/Lakhankumawat/LearnCPP/issues/126) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
-2. 🗣 Commented on [#529](https://github.com/Ayush7614/Bundli-Frontend/issues/529) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
-3. 🗣 Commented on [#229](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/229) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-4. 🗣 Commented on [#171](https://github.com/arpit456jain/Amazing-Js-Projects/issues/171) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
-5. ❗️ Opened issue [#28](https://github.com/Hackathon7/Pacify-final/issues/28) in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)
-6. 🗣 Commented on [#13](https://github.com/Hackathon7/Pacify-final/issues/13) in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)
-7. ❗️ Opened issue [#239](https://github.com/Eduhub-Community/eduhub-website/issues/239) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
-8. ❗️ Opened issue [#529](https://github.com/Ayush7614/Bundli-Frontend/issues/529) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
-9. 💪 Opened PR [#528](https://github.com/Ayush7614/Bundli-Frontend/pull/528) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
-10. 🗣 Commented on [#525](https://github.com/Ayush7614/Bundli-Frontend/issues/525) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+1. 🗣 Commented on [#202](https://github.com/Kushal997-das/Project-Guidance/issues/202) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+2. 🗣 Commented on [#126](https://github.com/Lakhankumawat/LearnCPP/issues/126) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+3. 🗣 Commented on [#529](https://github.com/Ayush7614/Bundli-Frontend/issues/529) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+4. 🗣 Commented on [#229](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/229) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+5. 🗣 Commented on [#171](https://github.com/arpit456jain/Amazing-Js-Projects/issues/171) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+6. ❗️ Opened issue [#28](https://github.com/Hackathon7/Pacify-final/issues/28) in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)
+7. 🗣 Commented on [#13](https://github.com/Hackathon7/Pacify-final/issues/13) in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)
+8. ❗️ Opened issue [#239](https://github.com/Eduhub-Community/eduhub-website/issues/239) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
+9. ❗️ Opened issue [#529](https://github.com/Ayush7614/Bundli-Frontend/issues/529) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+10. 💪 Opened PR [#528](https://github.com/Ayush7614/Bundli-Frontend/pull/528) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
 <!--END_SECTION:activity-->
 	
 </details>
