@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#233](https://github.com/arpit456jain/Amazing-Js-Projects/pull/233) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
-2. 💪 Opened PR [#254](https://github.com/Kushal997-das/Project-Guidance/pull/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-3. 💪 Opened PR [#541](https://github.com/Ayush7614/Bundli-Frontend/pull/541) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
-4. 💪 Opened PR [#679](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/679) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-5. 🗣 Commented on [#632](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/632) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-6. 💪 Opened PR [#658](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/658) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-7. 🗣 Commented on [#633](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/633) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+1. 🎉 Merged PR [#24](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/24) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+2. 🎉 Merged PR [#7](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/7) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+3. 🗣 Commented on [#8](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/8) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+4. 💪 Opened PR [#233](https://github.com/arpit456jain/Amazing-Js-Projects/pull/233) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+5. 💪 Opened PR [#254](https://github.com/Kushal997-das/Project-Guidance/pull/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+6. 💪 Opened PR [#541](https://github.com/Ayush7614/Bundli-Frontend/pull/541) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+7. 💪 Opened PR [#679](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/679) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 8. 🗣 Commented on [#632](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/632) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-9. 🗣 Commented on [#202](https://github.com/Kushal997-das/Project-Guidance/issues/202) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-10. 🗣 Commented on [#126](https://github.com/Lakhankumawat/LearnCPP/issues/126) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+9. 💪 Opened PR [#658](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/658) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+10. 🗣 Commented on [#633](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/633) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 <!--END_SECTION:activity-->
 	
 </details>
