@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#679](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/679) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-2. 🗣 Commented on [#632](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/632) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-3. 💪 Opened PR [#658](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/658) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-4. 🗣 Commented on [#633](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/633) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-5. 🗣 Commented on [#632](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/632) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-6. 🗣 Commented on [#202](https://github.com/Kushal997-das/Project-Guidance/issues/202) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-7. 🗣 Commented on [#126](https://github.com/Lakhankumawat/LearnCPP/issues/126) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
-8. 🗣 Commented on [#529](https://github.com/Ayush7614/Bundli-Frontend/issues/529) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
-9. 🗣 Commented on [#229](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/229) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-10. 🗣 Commented on [#171](https://github.com/arpit456jain/Amazing-Js-Projects/issues/171) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+1. 💪 Opened PR [#541](https://github.com/Ayush7614/Bundli-Frontend/pull/541) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+2. 💪 Opened PR [#679](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/679) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+3. 🗣 Commented on [#632](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/632) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+4. 💪 Opened PR [#658](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/658) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+5. 🗣 Commented on [#633](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/633) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+6. 🗣 Commented on [#632](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/632) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+7. 🗣 Commented on [#202](https://github.com/Kushal997-das/Project-Guidance/issues/202) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+8. 🗣 Commented on [#126](https://github.com/Lakhankumawat/LearnCPP/issues/126) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+9. 🗣 Commented on [#529](https://github.com/Ayush7614/Bundli-Frontend/issues/529) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+10. 🗣 Commented on [#229](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/229) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
 <!--END_SECTION:activity-->
 	
 </details>
