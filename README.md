@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#254](https://github.com/Kushal997-das/Project-Guidance/pull/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-2. 🗣 Commented on [#254](https://github.com/Kushal997-das/Project-Guidance/issues/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+1. 🎉 Merged PR [#25](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/25) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+2. ❌ Closed PR [#254](https://github.com/Kushal997-das/Project-Guidance/pull/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 3. 🗣 Commented on [#254](https://github.com/Kushal997-das/Project-Guidance/issues/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 4. 🗣 Commented on [#254](https://github.com/Kushal997-das/Project-Guidance/issues/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 5. 🗣 Commented on [#254](https://github.com/Kushal997-das/Project-Guidance/issues/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 6. 🗣 Commented on [#254](https://github.com/Kushal997-das/Project-Guidance/issues/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 7. 🗣 Commented on [#254](https://github.com/Kushal997-das/Project-Guidance/issues/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-8. 🎉 Merged PR [#24](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/24) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-9. 🎉 Merged PR [#7](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/7) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
-10. 🗣 Commented on [#8](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/8) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+8. 🗣 Commented on [#254](https://github.com/Kushal997-das/Project-Guidance/issues/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+9. 🎉 Merged PR [#24](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/24) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+10. 🎉 Merged PR [#7](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/7) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
 <!--END_SECTION:activity-->
 	
 </details>
