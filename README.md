@@ -69,11 +69,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 📙 Recent Blogs on Hashnode
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With C Programming Language](https://susmitadey.hashnode.dev/getting-started-with-c-programming-language)
 - [Getting Started With Python](https://susmitadey.hashnode.dev/getting-started-with-python)
 - [Getting Started With Shell Scripting&lpar;Shell Programming&rpar;](https://susmitadey.hashnode.dev/getting-started-with-shell-scriptingshell-programming)
 - [Text Overlay on an Image Using HTML &amp; CSS](https://susmitadey.hashnode.dev/text-overlay-on-an-image-using-html-and-css)
 - [Watch Star Wars Movie In Command Prompt&lpar;cmd&rpar;](https://susmitadey.hashnode.dev/watch-star-wars-movie-in-command-promptcmd)
-- [Use Emojis Anywhere You Like In Windows](https://susmitadey.hashnode.dev/use-emojis-anywhere-you-like-in-windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
