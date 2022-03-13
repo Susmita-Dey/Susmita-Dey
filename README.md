@@ -69,11 +69,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 📙 Recent Blogs on Hashnode
 <!-- BLOG-POST-LIST:START -->
+- [Variables and Datatypes in Python](https://susmitadey.hashnode.dev/variables-and-datatypes-in-python)
 - [Blogging As Your Next Income 💰](https://susmitadey.hashnode.dev/blogging-as-your-next-income)
 - [My Journey of Being #WomenInTech](https://susmitadey.hashnode.dev/my-journey-of-being-womenintech)
 - [Getting Started With C Programming Language](https://susmitadey.hashnode.dev/getting-started-with-c-programming-language)
 - [Getting Started With Python](https://susmitadey.hashnode.dev/getting-started-with-python)
-- [Getting Started With Shell Scripting&lpar;Shell Programming&rpar;](https://susmitadey.hashnode.dev/getting-started-with-shell-scriptingshell-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
