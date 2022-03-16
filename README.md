@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+1. ❗️ Opened issue [#1](https://github.com/arpit456jain/Interview-Scheduler/issues/1) in [arpit456jain/Interview-Scheduler](https://github.com/arpit456jain/Interview-Scheduler)
 2. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
 3. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
-4. 💪 Opened PR [#90](https://github.com/DulLabs/bhai-lang/pull/90) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
-5. 🗣 Commented on [#88](https://github.com/DulLabs/bhai-lang/issues/88) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
-6. ❗️ Opened issue [#88](https://github.com/DulLabs/bhai-lang/issues/88) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
-7. 🗣 Commented on [#169](https://github.com/sansyrox/robyn/issues/169) in [sansyrox/robyn](https://github.com/sansyrox/robyn)
+4. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+5. 💪 Opened PR [#90](https://github.com/DulLabs/bhai-lang/pull/90) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
+6. 🗣 Commented on [#88](https://github.com/DulLabs/bhai-lang/issues/88) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
+7. ❗️ Opened issue [#88](https://github.com/DulLabs/bhai-lang/issues/88) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
 8. 🗣 Commented on [#169](https://github.com/sansyrox/robyn/issues/169) in [sansyrox/robyn](https://github.com/sansyrox/robyn)
-9. 🎉 Merged PR [#26](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/26) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-10. 🗣 Commented on [#169](https://github.com/sansyrox/robyn/issues/169) in [sansyrox/robyn](https://github.com/sansyrox/robyn)
+9. 🗣 Commented on [#169](https://github.com/sansyrox/robyn/issues/169) in [sansyrox/robyn](https://github.com/sansyrox/robyn)
+10. 🎉 Merged PR [#26](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/26) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
 <!--END_SECTION:activity-->
 	
 </details>
