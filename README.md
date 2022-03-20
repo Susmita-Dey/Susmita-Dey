@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/opensourcecommunity-hub/join-the-community/issues/12) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. ❗️ Closed issue [#12](https://github.com/opensourcecommunity-hub/join-the-community/issues/12) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. ❗️ Closed issue [#13](https://github.com/opensourcecommunity-hub/join-the-community/issues/13) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/join-the-community/issues/13) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. ❗️ Opened issue [#1](https://github.com/arpit456jain/Interview-Scheduler/issues/1) in [arpit456jain/Interview-Scheduler](https://github.com/arpit456jain/Interview-Scheduler)
-6. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+1. 🗣 Commented on [#1](https://github.com/dheerajdlalwani/resume/issues/1) in [dheerajdlalwani/resume](https://github.com/dheerajdlalwani/resume)
+2. 🗣 Commented on [#12](https://github.com/opensourcecommunity-hub/join-the-community/issues/12) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. ❗️ Closed issue [#12](https://github.com/opensourcecommunity-hub/join-the-community/issues/12) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. ❗️ Closed issue [#13](https://github.com/opensourcecommunity-hub/join-the-community/issues/13) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/join-the-community/issues/13) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. ❗️ Opened issue [#1](https://github.com/arpit456jain/Interview-Scheduler/issues/1) in [arpit456jain/Interview-Scheduler](https://github.com/arpit456jain/Interview-Scheduler)
 7. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
 8. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
-9. 💪 Opened PR [#90](https://github.com/DulLabs/bhai-lang/pull/90) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
-10. 🗣 Commented on [#88](https://github.com/DulLabs/bhai-lang/issues/88) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
+9. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+10. 💪 Opened PR [#90](https://github.com/DulLabs/bhai-lang/pull/90) in [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
 <!--END_SECTION:activity-->
 	
 </details>
