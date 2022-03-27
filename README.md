@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
-2. 🗣 Commented on [#1](https://github.com/dheerajdlalwani/resume/issues/1) in [dheerajdlalwani/resume](https://github.com/dheerajdlalwani/resume)
-3. 🎉 Merged PR [#27](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/27) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-4. 🗣 Commented on [#1](https://github.com/dheerajdlalwani/resume/issues/1) in [dheerajdlalwani/resume](https://github.com/dheerajdlalwani/resume)
-5. 🗣 Commented on [#12](https://github.com/opensourcecommunity-hub/join-the-community/issues/12) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. ❗️ Closed issue [#12](https://github.com/opensourcecommunity-hub/join-the-community/issues/12) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#13](https://github.com/opensourcecommunity-hub/join-the-community/issues/13) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/join-the-community/issues/13) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. ❗️ Opened issue [#1](https://github.com/arpit456jain/Interview-Scheduler/issues/1) in [arpit456jain/Interview-Scheduler](https://github.com/arpit456jain/Interview-Scheduler)
-10. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+1. 💪 Opened PR [#139](https://github.com/ridsuteri/Awesome-Chrome-Extensions/pull/139) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+2. 🗣 Commented on [#30](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/30) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+3. 🗣 Commented on [#1](https://github.com/dheerajdlalwani/resume/issues/1) in [dheerajdlalwani/resume](https://github.com/dheerajdlalwani/resume)
+4. 🎉 Merged PR [#27](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/27) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+5. 🗣 Commented on [#1](https://github.com/dheerajdlalwani/resume/issues/1) in [dheerajdlalwani/resume](https://github.com/dheerajdlalwani/resume)
+6. 🗣 Commented on [#12](https://github.com/opensourcecommunity-hub/join-the-community/issues/12) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. ❗️ Closed issue [#12](https://github.com/opensourcecommunity-hub/join-the-community/issues/12) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. ❗️ Closed issue [#13](https://github.com/opensourcecommunity-hub/join-the-community/issues/13) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/join-the-community/issues/13) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❗️ Opened issue [#1](https://github.com/arpit456jain/Interview-Scheduler/issues/1) in [arpit456jain/Interview-Scheduler](https://github.com/arpit456jain/Interview-Scheduler)
 <!--END_SECTION:activity-->
 	
 </details>
