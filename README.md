@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/EddieHubCommunity/DailyTips/issues/3) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-2. 🗣 Commented on [#1](https://github.com/EddieHubCommunity/DailyTips/issues/1) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-3. ❗️ Closed issue [#14](https://github.com/opensourcecommunity-hub/join-the-community/issues/14) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#14](https://github.com/opensourcecommunity-hub/join-the-community/issues/14) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. ❗️ Closed issue [#15](https://github.com/opensourcecommunity-hub/join-the-community/issues/15) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#15](https://github.com/opensourcecommunity-hub/join-the-community/issues/15) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#17](https://github.com/opensourcecommunity-hub/join-the-community/issues/17) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#17](https://github.com/opensourcecommunity-hub/join-the-community/issues/17) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. ❗️ Closed issue [#16](https://github.com/opensourcecommunity-hub/join-the-community/issues/16) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/join-the-community/issues/16) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 💪 Opened PR [#18](https://github.com/EddieHubCommunity/DailyTips/pull/18) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+2. ❗️ Opened issue [#16](https://github.com/EddieHubCommunity/DailyTips/issues/16) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+3. ❗️ Opened issue [#14](https://github.com/EddieHubCommunity/DailyTips/issues/14) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+4. ❗️ Opened issue [#13](https://github.com/EddieHubCommunity/DailyTips/issues/13) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+5. 💪 Opened PR [#8](https://github.com/EddieHubCommunity/DailyTips/pull/8) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+6. ❗️ Opened issue [#3](https://github.com/EddieHubCommunity/DailyTips/issues/3) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+7. 🗣 Commented on [#1](https://github.com/EddieHubCommunity/DailyTips/issues/1) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+8. ❗️ Closed issue [#14](https://github.com/opensourcecommunity-hub/join-the-community/issues/14) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#14](https://github.com/opensourcecommunity-hub/join-the-community/issues/14) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❗️ Closed issue [#15](https://github.com/opensourcecommunity-hub/join-the-community/issues/15) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
