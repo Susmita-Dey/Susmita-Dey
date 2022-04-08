@@ -98,15 +98,15 @@ You can click the Preview link to take a look at your changes.
 	
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-3. ❗️ Opened issue [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-4. 💪 Opened PR [#80](https://github.com/Rishabh-malhotraa/Vita/pull/80) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-5. 🗣 Commented on [#1043](https://github.com/EddieHubCommunity/LinkFree/issues/1043) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-6. 🗣 Commented on [#77](https://github.com/Rishabh-malhotraa/Vita/issues/77) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-7. ❗️ Opened issue [#77](https://github.com/Rishabh-malhotraa/Vita/issues/77) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-8. ❗️ Closed issue [#13](https://github.com/EddieHubCommunity/DailyTips/issues/13) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-9. ❗️ Closed issue [#3](https://github.com/EddieHubCommunity/DailyTips/issues/3) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-10. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/DailyTips/issues/17) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+2. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+4. ❗️ Opened issue [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+5. 💪 Opened PR [#80](https://github.com/Rishabh-malhotraa/Vita/pull/80) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+6. 🗣 Commented on [#1043](https://github.com/EddieHubCommunity/LinkFree/issues/1043) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+7. 🗣 Commented on [#77](https://github.com/Rishabh-malhotraa/Vita/issues/77) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+8. ❗️ Opened issue [#77](https://github.com/Rishabh-malhotraa/Vita/issues/77) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+9. ❗️ Closed issue [#13](https://github.com/EddieHubCommunity/DailyTips/issues/13) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+10. ❗️ Closed issue [#3](https://github.com/EddieHubCommunity/DailyTips/issues/3) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
 <!--END_SECTION:activity-->
 	
 </details>
