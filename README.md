@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/opensourcecommunity-hub/join-the-community/issues/18) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. 🗣 Commented on [#18](https://github.com/opensourcecommunity-hub/join-the-community/issues/18) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 💪 Opened PR [#3](https://github.com/XollabOS/.github/pull/3) in [XollabOS/.github](https://github.com/XollabOS/.github)
+2. ❗️ Closed issue [#18](https://github.com/opensourcecommunity-hub/join-the-community/issues/18) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🗣 Commented on [#18](https://github.com/opensourcecommunity-hub/join-the-community/issues/18) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 4. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-6. ❗️ Opened issue [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-7. 💪 Opened PR [#80](https://github.com/Rishabh-malhotraa/Vita/pull/80) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-8. 🗣 Commented on [#1043](https://github.com/EddieHubCommunity/LinkFree/issues/1043) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-9. 🗣 Commented on [#77](https://github.com/Rishabh-malhotraa/Vita/issues/77) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-10. ❗️ Opened issue [#77](https://github.com/Rishabh-malhotraa/Vita/issues/77) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+5. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+6. 🗣 Commented on [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+7. ❗️ Opened issue [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+8. 💪 Opened PR [#80](https://github.com/Rishabh-malhotraa/Vita/pull/80) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+9. 🗣 Commented on [#1043](https://github.com/EddieHubCommunity/LinkFree/issues/1043) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+10. 🗣 Commented on [#77](https://github.com/Rishabh-malhotraa/Vita/issues/77) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
 <!--END_SECTION:activity-->
 	
 </details>
