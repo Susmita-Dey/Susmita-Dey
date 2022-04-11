@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/XollabOS/.github/pull/3) in [XollabOS/.github](https://github.com/XollabOS/.github)
-2. ❗️ Closed issue [#18](https://github.com/opensourcecommunity-hub/join-the-community/issues/18) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 🗣 Commented on [#18](https://github.com/opensourcecommunity-hub/join-the-community/issues/18) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-6. 🗣 Commented on [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-7. ❗️ Opened issue [#81](https://github.com/Rishabh-malhotraa/Vita/issues/81) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-8. 💪 Opened PR [#80](https://github.com/Rishabh-malhotraa/Vita/pull/80) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
-9. 🗣 Commented on [#1043](https://github.com/EddieHubCommunity/LinkFree/issues/1043) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-10. 🗣 Commented on [#77](https://github.com/Rishabh-malhotraa/Vita/issues/77) in [Rishabh-malhotraa/Vita](https://github.com/Rishabh-malhotraa/Vita)
+1. ❗️ Opened issue [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+2. 💪 Opened PR [#15](https://github.com/XollabOS/talktometechnology/pull/15) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+3. ❗️ Opened issue [#10](https://github.com/XollabOS/.github/issues/10) in [XollabOS/.github](https://github.com/XollabOS/.github)
+4. 💪 Opened PR [#9](https://github.com/XollabOS/.github/pull/9) in [XollabOS/.github](https://github.com/XollabOS/.github)
+5. 💪 Opened PR [#8](https://github.com/XollabOS/.github/pull/8) in [XollabOS/.github](https://github.com/XollabOS/.github)
+6. ❗️ Opened issue [#5](https://github.com/XollabOS/.github/issues/5) in [XollabOS/.github](https://github.com/XollabOS/.github)
+7. 💪 Opened PR [#3](https://github.com/XollabOS/.github/pull/3) in [XollabOS/.github](https://github.com/XollabOS/.github)
+8. ❗️ Closed issue [#18](https://github.com/opensourcecommunity-hub/join-the-community/issues/18) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#18](https://github.com/opensourcecommunity-hub/join-the-community/issues/18) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 	
 </details>
