@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#514](https://github.com/arpit456jain/Amazing-Js-Projects/issues/514) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
-2. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-3. 💪 Opened PR [#24](https://github.com/XollabOS/talktometechnology/pull/24) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
-4. 🗣 Commented on [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
-5. ❗️ Opened issue [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
-6. 💪 Opened PR [#15](https://github.com/XollabOS/talktometechnology/pull/15) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
-7. ❗️ Opened issue [#10](https://github.com/XollabOS/.github/issues/10) in [XollabOS/.github](https://github.com/XollabOS/.github)
-8. 💪 Opened PR [#9](https://github.com/XollabOS/.github/pull/9) in [XollabOS/.github](https://github.com/XollabOS/.github)
-9. 💪 Opened PR [#8](https://github.com/XollabOS/.github/pull/8) in [XollabOS/.github](https://github.com/XollabOS/.github)
-10. ❗️ Opened issue [#5](https://github.com/XollabOS/.github/issues/5) in [XollabOS/.github](https://github.com/XollabOS/.github)
+1. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#514](https://github.com/arpit456jain/Amazing-Js-Projects/issues/514) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+3. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+4. 💪 Opened PR [#24](https://github.com/XollabOS/talktometechnology/pull/24) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+5. 🗣 Commented on [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+6. ❗️ Opened issue [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+7. 💪 Opened PR [#15](https://github.com/XollabOS/talktometechnology/pull/15) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+8. ❗️ Opened issue [#10](https://github.com/XollabOS/.github/issues/10) in [XollabOS/.github](https://github.com/XollabOS/.github)
+9. 💪 Opened PR [#9](https://github.com/XollabOS/.github/pull/9) in [XollabOS/.github](https://github.com/XollabOS/.github)
+10. 💪 Opened PR [#8](https://github.com/XollabOS/.github/pull/8) in [XollabOS/.github](https://github.com/XollabOS/.github)
 <!--END_SECTION:activity-->
 	
 </details>
