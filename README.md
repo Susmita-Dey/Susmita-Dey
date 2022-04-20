@@ -58,11 +58,11 @@ You can click the Preview link to take a look at your changes.
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Create a Pie Chart Using Just 6 lines of CSS 🔥 #shorts](https://www.youtube.com/watch?v=-aOE6TRT5n4)
 - [All About GSoC 2022 | Participate in Google Summer of Code | Apply now](https://www.youtube.com/watch?v=Caeu-HiKyXk)
 - [Earn Money With Canva 💲 | Make beautiful designs and Become a Canva Creator](https://www.youtube.com/watch?v=o6vvzZi-Bc0)
 - [Python Bootcamp Day-1 | Python Basics + Installing Python + Writing Our First Python Code](https://www.youtube.com/watch?v=j6IPc0vXxQA)
 - [Blogging As Your Next Income 💰 | Start Documenting Your Learnings](https://www.youtube.com/watch?v=_MGS0JhgaPM)
-- [Python Bootcamp Announcement Video](https://www.youtube.com/watch?v=Hpmj15ckXTA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
