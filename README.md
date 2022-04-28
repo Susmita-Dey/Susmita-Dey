@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <h3>I'm a college student and a Web developer.</h3>
 
 - 🎓 I am a **sophomore**, pursuing Bachelors in **Computer Science** at **Kalyani Mahavidyalaya**. <br>
-- 👀 I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
+- 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
 - 💬 I would love to talk about internship opportunities starting January 2022.
 - 💞️ I’m looking to collaborate on any open source platform.
 - 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **DevOps**. A *beginner* contributor at **Open Source**. <br>
