@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. ❗️ Closed issue [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 🗣 Commented on [#1](https://github.com/sasanka0212/Age-calculator-app/issues/1) in [sasanka0212/Age-calculator-app](https://github.com/sasanka0212/Age-calculator-app)
-4. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗️ Opened issue [#514](https://github.com/arpit456jain/Amazing-Js-Projects/issues/514) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
-6. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-7. 💪 Opened PR [#24](https://github.com/XollabOS/talktometechnology/pull/24) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
-8. 🗣 Commented on [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
-9. ❗️ Opened issue [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
-10. 💪 Opened PR [#15](https://github.com/XollabOS/talktometechnology/pull/15) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+1. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Sukoon/pull/1) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🗣 Commented on [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. ❗️ Closed issue [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#1](https://github.com/sasanka0212/Age-calculator-app/issues/1) in [sasanka0212/Age-calculator-app](https://github.com/sasanka0212/Age-calculator-app)
+5. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+6. ❗️ Opened issue [#514](https://github.com/arpit456jain/Amazing-Js-Projects/issues/514) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+7. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+8. 💪 Opened PR [#24](https://github.com/XollabOS/talktometechnology/pull/24) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+9. 🗣 Commented on [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
+10. ❗️ Opened issue [#21](https://github.com/XollabOS/talktometechnology/issues/21) in [XollabOS/talktometechnology](https://github.com/XollabOS/talktometechnology)
 <!--END_SECTION:activity-->
 	
 </details>
