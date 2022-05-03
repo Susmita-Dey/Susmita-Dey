@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Sukoon/pull/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Sukoon/issues/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. ❗️ Closed issue [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Sukoon/pull/1) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. 🗣 Commented on [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#1](https://github.com/sasanka0212/Age-calculator-app/issues/1) in [sasanka0212/Age-calculator-app](https://github.com/sasanka0212/Age-calculator-app)
-9. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-10. ❗️ Opened issue [#514](https://github.com/arpit456jain/Amazing-Js-Projects/issues/514) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+1. ❗️ Opened issue [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+2. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Sukoon/pull/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Sukoon/issues/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. ❗️ Closed issue [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. 🗣 Commented on [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Sukoon/pull/1) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. 🗣 Commented on [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. ❗️ Closed issue [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#1](https://github.com/sasanka0212/Age-calculator-app/issues/1) in [sasanka0212/Age-calculator-app](https://github.com/sasanka0212/Age-calculator-app)
+10. 🗣 Commented on [#1151](https://github.com/EddieHubCommunity/LinkFree/issues/1151) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 	
 </details>
