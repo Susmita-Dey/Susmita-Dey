@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#294](https://github.com/Devs-Dungeon/support/issues/294) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
-2. ❗️ Opened issue [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-3. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Sukoon/pull/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Sukoon/issues/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. ❗️ Closed issue [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Sukoon/pull/1) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. 🗣 Commented on [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. ❗️ Closed issue [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#1](https://github.com/sasanka0212/Age-calculator-app/issues/1) in [sasanka0212/Age-calculator-app](https://github.com/sasanka0212/Age-calculator-app)
+1. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+2. ❗️ Opened issue [#294](https://github.com/Devs-Dungeon/support/issues/294) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+3. ❗️ Opened issue [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+4. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Sukoon/pull/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Sukoon/issues/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. ❗️ Closed issue [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. 🗣 Commented on [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Sukoon/pull/1) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. 🗣 Commented on [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❗️ Closed issue [#19](https://github.com/opensourcecommunity-hub/join-the-community/issues/19) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
