@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-2. 🗣 Commented on [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-3. 🗣 Commented on [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+1. ❗️ Opened issue [#304](https://github.com/Eduhub-Community/eduhub-website/issues/304) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
+2. ❗️ Opened issue [#303](https://github.com/Eduhub-Community/eduhub-website/issues/303) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
+3. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
 4. 🗣 Commented on [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-5. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-6. ❗️ Opened issue [#294](https://github.com/Devs-Dungeon/support/issues/294) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
-7. ❗️ Opened issue [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-8. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Sukoon/pull/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Sukoon/issues/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. ❗️ Closed issue [#20](https://github.com/opensourcecommunity-hub/join-the-community/issues/20) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. 🗣 Commented on [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+6. 🗣 Commented on [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+7. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+8. ❗️ Opened issue [#294](https://github.com/Devs-Dungeon/support/issues/294) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+9. ❗️ Opened issue [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+10. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/Sukoon/pull/2) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
