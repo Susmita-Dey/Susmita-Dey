@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-2. 🗣 Commented on [#64](https://github.com/OpenLake/Sampoorna/issues/64) in [OpenLake/Sampoorna](https://github.com/OpenLake/Sampoorna)
-3. ❗️ Opened issue [#64](https://github.com/OpenLake/Sampoorna/issues/64) in [OpenLake/Sampoorna](https://github.com/OpenLake/Sampoorna)
-4. ❗️ Opened issue [#1365](https://github.com/Lakhankumawat/LearnCPP/issues/1365) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
-5. ❗️ Opened issue [#304](https://github.com/Eduhub-Community/eduhub-website/issues/304) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
-6. ❗️ Opened issue [#303](https://github.com/Eduhub-Community/eduhub-website/issues/303) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
-7. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
-8. 🗣 Commented on [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-9. 🗣 Commented on [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
-10. 🗣 Commented on [#272](https://github.com/arpit456jain/CodingEasy/issues/272) in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)
+1. ❗️ Opened issue [#680](https://github.com/swapnilsparsh/30DaysOfJavaScript/issues/680) in [swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript)
+2. 💪 Opened PR [#1369](https://github.com/Lakhankumawat/LearnCPP/pull/1369) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+3. 🗣 Commented on [#1365](https://github.com/Lakhankumawat/LearnCPP/issues/1365) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+4. 💪 Opened PR [#153](https://github.com/Daksh777/TakeABreak/pull/153) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+5. 🗣 Commented on [#102](https://github.com/Daksh777/TakeABreak/issues/102) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+6. 🗣 Commented on [#64](https://github.com/OpenLake/Sampoorna/issues/64) in [OpenLake/Sampoorna](https://github.com/OpenLake/Sampoorna)
+7. ❗️ Opened issue [#64](https://github.com/OpenLake/Sampoorna/issues/64) in [OpenLake/Sampoorna](https://github.com/OpenLake/Sampoorna)
+8. ❗️ Opened issue [#1365](https://github.com/Lakhankumawat/LearnCPP/issues/1365) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+9. ❗️ Opened issue [#304](https://github.com/Eduhub-Community/eduhub-website/issues/304) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
+10. ❗️ Opened issue [#303](https://github.com/Eduhub-Community/eduhub-website/issues/303) in [Eduhub-Community/eduhub-website](https://github.com/Eduhub-Community/eduhub-website)
 <!--END_SECTION:activity-->
 	
 </details>
