@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/2) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-2. 🎉 Merged PR [#1](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/1) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-3. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Moody/issues/1) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-4. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Moody/issues/1) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-5. ❗️ Closed issue [#21](https://github.com/opensourcecommunity-hub/join-the-community/issues/21) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#21](https://github.com/opensourcecommunity-hub/join-the-community/issues/21) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Opened issue [#461](https://github.com/surajm-333/Ace-The-FrontEnd/issues/461) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
-8. 💪 Opened PR [#460](https://github.com/surajm-333/Ace-The-FrontEnd/pull/460) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
-9. 🗣 Commented on [#446](https://github.com/surajm-333/Ace-The-FrontEnd/issues/446) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
-10. 🗣 Commented on [#153](https://github.com/Daksh777/TakeABreak/issues/153) in [Daksh777/TakeABreak](https://github.com/Daksh777/TakeABreak)
+1. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/Moody/issues/2) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+2. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Moody/issues/2) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+3. 🗣 Commented on [#460](https://github.com/surajm-333/Ace-The-FrontEnd/issues/460) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
+4. 🗣 Commented on [#461](https://github.com/surajm-333/Ace-The-FrontEnd/issues/461) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
+5. 🗣 Commented on [#461](https://github.com/surajm-333/Ace-The-FrontEnd/issues/461) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
+6. ❗️ Opened issue [#2](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/2) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+7. 🎉 Merged PR [#1](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/1) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+8. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Moody/issues/1) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+9. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/Moody/issues/1) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+10. ❗️ Closed issue [#21](https://github.com/opensourcecommunity-hub/join-the-community/issues/21) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
