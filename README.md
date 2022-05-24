@@ -58,11 +58,11 @@ You can click the Preview link to take a look at your changes.
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Open Source: Your First PR || Twitter Space](https://www.youtube.com/watch?v=c8483P28AAY)
 - [Find the right mentor for you #shorts](https://www.youtube.com/watch?v=qLM-qrO3QPA)
 - [MOODY - Chrome Extension to Filter Your Mood | Holiday Hacks Hackathon Project](https://www.youtube.com/watch?v=jSUDUitqoOI)
 - [Create a Pie Chart Using Just 6 lines of CSS 🔥 #shorts](https://www.youtube.com/watch?v=-aOE6TRT5n4)
 - [All About GSoC 2022 | Participate in Google Summer of Code | Apply now](https://www.youtube.com/watch?v=Caeu-HiKyXk)
+- [Earn Money With Canva 💲 | Make beautiful designs and Become a Canva Creator](https://www.youtube.com/watch?v=o6vvzZi-Bc0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
