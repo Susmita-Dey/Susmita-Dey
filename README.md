@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/Sukoon/issues/3) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Sukoon/issues/3) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🎉 Merged PR [#3](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/3) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-4. 🎉 Merged PR [#6](https://github.com/Susmita-Dey/Sukoon/pull/6) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#3](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/3) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-6. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/4) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-7. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/4) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-8. 🎉 Merged PR [#5](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/5) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-9. ❗️ Closed issue [#2](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/2) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-10. ❗️ Closed issue [#4](https://github.com/Susmita-Dey/Sukoon/issues/4) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 🗣 Commented on [#846](https://github.com/swapnilsparsh/30DaysOfJavaScript/issues/846) in [swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript)
+2. 🗣 Commented on [#324](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/324) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+3. 🗣 Commented on [#316](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/316) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+4. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/Sukoon/issues/3) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Sukoon/issues/3) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. 🎉 Merged PR [#3](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/3) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+7. 🎉 Merged PR [#6](https://github.com/Susmita-Dey/Sukoon/pull/6) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. 🗣 Commented on [#3](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/3) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+9. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/4) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+10. 🗣 Commented on [#4](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/4) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 	
 </details>
