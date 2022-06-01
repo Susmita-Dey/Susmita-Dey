@@ -69,11 +69,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 📙 Recent Blogs on Hashnode
 <!-- BLOG-POST-LIST:START -->
+- [My 3-months Open Source Journey at GSSoC&#39;22](https://susmitadey.hashnode.dev/my-3-months-open-source-journey-at-gssoc22)
 - [Sukoon - A Website to get relief from stress](https://susmitadey.hashnode.dev/sukoon-a-website-to-get-relief-from-stress)
 - [My Experiences of Participating in Holiday Hacks Hackathon](https://susmitadey.hashnode.dev/my-experiences-of-participating-in-holiday-hacks-hackathon)
 - [Some of my Graphic Designs and Video Editing Work on Canva](https://susmitadey.hashnode.dev/some-of-my-graphic-designs-and-video-editing-work-on-canva)
 - [Variables and Datatypes in Python](https://susmitadey.hashnode.dev/variables-and-datatypes-in-python)
-- [Blogging As Your Next Income 💰](https://susmitadey.hashnode.dev/blogging-as-your-next-income)
 <!-- BLOG-POST-LIST:END -->
 
 ---
