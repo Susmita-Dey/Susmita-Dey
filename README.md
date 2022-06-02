@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/opensourcecommunity-hub/join-the-community/issues/29) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. ❗️ Closed issue [#29](https://github.com/opensourcecommunity-hub/join-the-community/issues/29) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 🗣 Commented on [#28](https://github.com/opensourcecommunity-hub/join-the-community/issues/28) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. ❗️ Closed issue [#35](https://github.com/opensourcecommunity-hub/join-the-community/issues/35) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. 🗣 Commented on [#35](https://github.com/opensourcecommunity-hub/join-the-community/issues/35) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. ❗️ Closed issue [#37](https://github.com/opensourcecommunity-hub/join-the-community/issues/37) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. 🗣 Commented on [#37](https://github.com/opensourcecommunity-hub/join-the-community/issues/37) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. ❗️ Opened issue [#49](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/49) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-9. 🎉 Merged PR [#7](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/7) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-10. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. ❗️ Closed issue [#5](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/5) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+2. 🗣 Commented on [#5](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/5) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+3. 🎉 Merged PR [#6](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/6) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+4. ❗️ Closed issue [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+5. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+6. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+7. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+8. 🎉 Merged PR [#4](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/4) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+9. 🗣 Commented on [#29](https://github.com/opensourcecommunity-hub/join-the-community/issues/29) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❗️ Closed issue [#29](https://github.com/opensourcecommunity-hub/join-the-community/issues/29) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
