@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Moody/issues/3) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-2. 🎉 Merged PR [#3](https://github.com/Susmita-Dey/Moody/pull/3) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-3. 🗣 Commented on [#846](https://github.com/swapnilsparsh/30DaysOfJavaScript/issues/846) in [swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript)
-4. 🗣 Commented on [#324](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/324) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
-5. 🗣 Commented on [#316](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/316) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
-6. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/Sukoon/issues/3) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Sukoon/issues/3) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. 🎉 Merged PR [#3](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/3) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-9. 🎉 Merged PR [#6](https://github.com/Susmita-Dey/Sukoon/pull/6) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🗣 Commented on [#3](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/3) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. ❗️ Opened issue [#49](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/49) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. 🎉 Merged PR [#7](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/7) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+3. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+4. ❗️ Closed issue [#3](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/3) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+5. 🎉 Merged PR [#4](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/4) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+6. 🗣 Commented on [#24](https://github.com/opensourcecommunity-hub/join-the-community/issues/24) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. ❗️ Reopened issue [#24](https://github.com/opensourcecommunity-hub/join-the-community/issues/24) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#26](https://github.com/opensourcecommunity-hub/join-the-community/issues/26) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. ❗️ Closed issue [#23](https://github.com/opensourcecommunity-hub/join-the-community/issues/23) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🗣 Commented on [#23](https://github.com/opensourcecommunity-hub/join-the-community/issues/23) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
