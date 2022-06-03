@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/atapas/markdown-cheatsheet/issues/2) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-2. ❗️ Opened issue [#2](https://github.com/atapas/markdown-cheatsheet/issues/2) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-3. ❗️ Closed issue [#5](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/5) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
-4. 🗣 Commented on [#5](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/5) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
-5. 🎉 Merged PR [#6](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/6) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
-6. ❗️ Closed issue [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-7. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-8. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-9. 🗣 Commented on [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-10. 🎉 Merged PR [#4](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/4) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. 🎉 Merged PR [#10](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/10) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+2. 🗣 Commented on [#24](https://github.com/opensourcecommunity-hub/join-the-community/issues/24) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🎉 Merged PR [#28](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/28) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+4. 🎉 Merged PR [#29](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/29) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+5. 🗣 Commented on [#2](https://github.com/atapas/markdown-cheatsheet/issues/2) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+6. ❗️ Opened issue [#2](https://github.com/atapas/markdown-cheatsheet/issues/2) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+7. ❗️ Closed issue [#5](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/5) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+8. 🗣 Commented on [#5](https://github.com/opensourcecommunity-hub/amazing-github-profiles/issues/5) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+9. 🎉 Merged PR [#6](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/6) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+10. ❗️ Closed issue [#6](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/6) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 	
 </details>
