@@ -98,15 +98,15 @@ You can click the Preview link to take a look at your changes.
 	
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/Susmita-Dey/all-round-calculator/issues/6) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. 🎉 Merged PR [#12](https://github.com/Susmita-Dey/all-round-calculator/pull/12) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. 💪 Opened PR [#12](https://github.com/Susmita-Dey/all-round-calculator/pull/12) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-4. 🎉 Merged PR [#11](https://github.com/Susmita-Dey/all-round-calculator/pull/11) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-5. 💪 Opened PR [#11](https://github.com/Susmita-Dey/all-round-calculator/pull/11) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-6. 🎉 Merged PR [#10](https://github.com/Susmita-Dey/all-round-calculator/pull/10) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-7. 💪 Opened PR [#10](https://github.com/Susmita-Dey/all-round-calculator/pull/10) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-8. 🗣 Commented on [#5](https://github.com/Susmita-Dey/all-round-calculator/issues/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-9. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/all-round-calculator/pull/9) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-10. 🗣 Commented on [#6](https://github.com/Susmita-Dey/all-round-calculator/issues/6) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+2. ❗️ Closed issue [#6](https://github.com/Susmita-Dey/all-round-calculator/issues/6) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+3. 🗣 Commented on [#6](https://github.com/Susmita-Dey/all-round-calculator/issues/6) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+4. 🎉 Merged PR [#12](https://github.com/Susmita-Dey/all-round-calculator/pull/12) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+5. 💪 Opened PR [#12](https://github.com/Susmita-Dey/all-round-calculator/pull/12) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. 🎉 Merged PR [#11](https://github.com/Susmita-Dey/all-round-calculator/pull/11) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. 💪 Opened PR [#11](https://github.com/Susmita-Dey/all-round-calculator/pull/11) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+8. 🎉 Merged PR [#10](https://github.com/Susmita-Dey/all-round-calculator/pull/10) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+9. 💪 Opened PR [#10](https://github.com/Susmita-Dey/all-round-calculator/pull/10) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+10. 🗣 Commented on [#5](https://github.com/Susmita-Dey/all-round-calculator/issues/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
 <!--END_SECTION:activity-->
 	
 </details>
