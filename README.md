@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Susmita-Dey/all-round-calculator/pull/10) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. 💪 Opened PR [#10](https://github.com/Susmita-Dey/all-round-calculator/pull/10) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. 🗣 Commented on [#5](https://github.com/Susmita-Dey/all-round-calculator/issues/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-4. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/all-round-calculator/pull/9) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-5. 🗣 Commented on [#6](https://github.com/Susmita-Dey/all-round-calculator/issues/6) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-6. 🎉 Merged PR [#11](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/11) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-7. ❗️ Closed issue [#44](https://github.com/opensourcecommunity-hub/join-the-community/issues/44) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#44](https://github.com/opensourcecommunity-hub/join-the-community/issues/44) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. ❗️ Closed issue [#45](https://github.com/opensourcecommunity-hub/join-the-community/issues/45) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#45](https://github.com/opensourcecommunity-hub/join-the-community/issues/45) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 🎉 Merged PR [#11](https://github.com/Susmita-Dey/all-round-calculator/pull/11) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+2. 💪 Opened PR [#11](https://github.com/Susmita-Dey/all-round-calculator/pull/11) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+3. 🎉 Merged PR [#10](https://github.com/Susmita-Dey/all-round-calculator/pull/10) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+4. 💪 Opened PR [#10](https://github.com/Susmita-Dey/all-round-calculator/pull/10) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+5. 🗣 Commented on [#5](https://github.com/Susmita-Dey/all-round-calculator/issues/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/all-round-calculator/pull/9) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. 🗣 Commented on [#6](https://github.com/Susmita-Dey/all-round-calculator/issues/6) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+8. 🎉 Merged PR [#11](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/11) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+9. ❗️ Closed issue [#44](https://github.com/opensourcecommunity-hub/join-the-community/issues/44) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🗣 Commented on [#44](https://github.com/opensourcecommunity-hub/join-the-community/issues/44) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
