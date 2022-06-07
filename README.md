@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-2. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-3. ❗️ Closed issue [#48](https://github.com/opensourcecommunity-hub/join-the-community/issues/48) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#48](https://github.com/opensourcecommunity-hub/join-the-community/issues/48) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. ❗️ Closed issue [#8](https://github.com/Susmita-Dey/Sukoon/issues/8) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🗣 Commented on [#8](https://github.com/Susmita-Dey/Sukoon/issues/8) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/Sukoon/pull/9) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. ❗️ Closed issue [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 5. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-6. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-7. 🎉 Merged PR [#12](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/12) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-8. 💪 Opened PR [#3](https://github.com/atapas/markdown-cheatsheet/pull/3) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-9. 🗣 Commented on [#19](https://github.com/Susmita-Dey/all-round-calculator/issues/19) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-10. 🗣 Commented on [#16](https://github.com/Susmita-Dey/all-round-calculator/issues/16) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. ❗️ Closed issue [#48](https://github.com/opensourcecommunity-hub/join-the-community/issues/48) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. 🗣 Commented on [#48](https://github.com/opensourcecommunity-hub/join-the-community/issues/48) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+9. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+10. 🎉 Merged PR [#12](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/12) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 	
 </details>
