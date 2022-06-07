@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/Susmita-Dey/all-round-calculator/issues/18) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. 🗣 Commented on [#18](https://github.com/Susmita-Dey/all-round-calculator/issues/18) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. 🎉 Merged PR [#20](https://github.com/Susmita-Dey/all-round-calculator/pull/20) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-4. ❗️ Closed issue [#8](https://github.com/Susmita-Dey/Sukoon/issues/8) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#8](https://github.com/Susmita-Dey/Sukoon/issues/8) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/Sukoon/pull/9) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. ❗️ Closed issue [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-8. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-9. ❗️ Closed issue [#48](https://github.com/opensourcecommunity-hub/join-the-community/issues/48) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#48](https://github.com/opensourcecommunity-hub/join-the-community/issues/48) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 🎉 Merged PR [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+2. 🗣 Commented on [#15](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/15) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+3. ❗️ Closed issue [#18](https://github.com/Susmita-Dey/all-round-calculator/issues/18) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+4. 🗣 Commented on [#18](https://github.com/Susmita-Dey/all-round-calculator/issues/18) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+5. 🎉 Merged PR [#20](https://github.com/Susmita-Dey/all-round-calculator/pull/20) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. ❗️ Closed issue [#8](https://github.com/Susmita-Dey/Sukoon/issues/8) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. 🗣 Commented on [#8](https://github.com/Susmita-Dey/Sukoon/issues/8) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/Sukoon/pull/9) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. ❗️ Closed issue [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+10. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 	
 </details>
