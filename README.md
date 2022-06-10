@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. ❗️ Closed issue [#19](https://github.com/Susmita-Dey/all-round-calculator/issues/19) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-4. 🗣 Commented on [#18](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/18) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-5. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-6. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-7. 🎉 Merged PR [#11](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/11) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
-8. 🎉 Merged PR [#21](https://github.com/Susmita-Dey/all-round-calculator/pull/21) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-9. 🗣 Commented on [#10](https://github.com/Susmita-Dey/Sukoon/issues/10) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🗣 Commented on [#15](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/15) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. 💪 Opened PR [#1](https://github.com/OneDreamForWin/OneDream/pull/1) in [OneDreamForWin/OneDream](https://github.com/OneDreamForWin/OneDream)
+2. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+3. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+4. ❗️ Closed issue [#19](https://github.com/Susmita-Dey/all-round-calculator/issues/19) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+5. 🗣 Commented on [#18](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/18) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+6. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+8. 🎉 Merged PR [#11](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/11) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+9. 🎉 Merged PR [#21](https://github.com/Susmita-Dey/all-round-calculator/pull/21) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+10. 🗣 Commented on [#10](https://github.com/Susmita-Dey/Sukoon/issues/10) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
