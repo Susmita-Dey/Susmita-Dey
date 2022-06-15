@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/all-round-calculator/issues/3) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. 🗣 Commented on [#3](https://github.com/Susmita-Dey/all-round-calculator/issues/3) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. 🎉 Merged PR [#24](https://github.com/Susmita-Dey/all-round-calculator/pull/24) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-4. 💪 Opened PR [#1](https://github.com/OneDreamForWin/OneDream/pull/1) in [OneDreamForWin/OneDream](https://github.com/OneDreamForWin/OneDream)
-5. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-6. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-7. ❗️ Closed issue [#19](https://github.com/Susmita-Dey/all-round-calculator/issues/19) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-8. 🗣 Commented on [#18](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/18) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-9. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-10. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+1. 🎉 Merged PR [#25](https://github.com/Susmita-Dey/all-round-calculator/pull/25) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+2. ❗️ Closed issue [#14](https://github.com/Susmita-Dey/all-round-calculator/issues/14) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+3. ❗️ Closed issue [#49](https://github.com/opensourcecommunity-hub/join-the-community/issues/49) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#49](https://github.com/opensourcecommunity-hub/join-the-community/issues/49) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/all-round-calculator/issues/3) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. 🗣 Commented on [#3](https://github.com/Susmita-Dey/all-round-calculator/issues/3) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. 🎉 Merged PR [#24](https://github.com/Susmita-Dey/all-round-calculator/pull/24) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+8. 💪 Opened PR [#1](https://github.com/OneDreamForWin/OneDream/pull/1) in [OneDreamForWin/OneDream](https://github.com/OneDreamForWin/OneDream)
+9. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+10. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
 <!--END_SECTION:activity-->
 	
 </details>
