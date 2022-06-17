@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/Susmita-Dey/all-round-calculator/pull/27) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. ❗️ Closed issue [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. ❗️ Opened issue [#15](https://github.com/Semalab/developer-rubric-discord-bot/issues/15) in [Semalab/developer-rubric-discord-bot](https://github.com/Semalab/developer-rubric-discord-bot)
-4. 🗣 Commented on [#9](https://github.com/Semalab/developer-rubric-discord-bot/issues/9) in [Semalab/developer-rubric-discord-bot](https://github.com/Semalab/developer-rubric-discord-bot)
-5. 🗣 Commented on [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-6. ❗️ Opened issue [#2](https://github.com/AccessibleForAll/Resources/issues/2) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
-7. 🗣 Commented on [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-8. 🎉 Merged PR [#25](https://github.com/Susmita-Dey/all-round-calculator/pull/25) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-9. ❗️ Closed issue [#14](https://github.com/Susmita-Dey/all-round-calculator/issues/14) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-10. ❗️ Closed issue [#49](https://github.com/opensourcecommunity-hub/join-the-community/issues/49) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 💪 Opened PR [#3](https://github.com/AccessibleForAll/Resources/pull/3) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
+2. 🎉 Merged PR [#27](https://github.com/Susmita-Dey/all-round-calculator/pull/27) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+3. ❗️ Closed issue [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+4. ❗️ Opened issue [#15](https://github.com/Semalab/developer-rubric-discord-bot/issues/15) in [Semalab/developer-rubric-discord-bot](https://github.com/Semalab/developer-rubric-discord-bot)
+5. 🗣 Commented on [#9](https://github.com/Semalab/developer-rubric-discord-bot/issues/9) in [Semalab/developer-rubric-discord-bot](https://github.com/Semalab/developer-rubric-discord-bot)
+6. 🗣 Commented on [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. ❗️ Opened issue [#2](https://github.com/AccessibleForAll/Resources/issues/2) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
+8. 🗣 Commented on [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+9. 🎉 Merged PR [#25](https://github.com/Susmita-Dey/all-round-calculator/pull/25) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+10. ❗️ Closed issue [#14](https://github.com/Susmita-Dey/all-round-calculator/issues/14) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
 <!--END_SECTION:activity-->
 	
 </details>
