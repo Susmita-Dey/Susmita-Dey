@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/AccessibleForAll/Resources/pull/3) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
-2. 🎉 Merged PR [#27](https://github.com/Susmita-Dey/all-round-calculator/pull/27) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. ❗️ Closed issue [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-4. ❗️ Opened issue [#15](https://github.com/Semalab/developer-rubric-discord-bot/issues/15) in [Semalab/developer-rubric-discord-bot](https://github.com/Semalab/developer-rubric-discord-bot)
-5. 🗣 Commented on [#9](https://github.com/Semalab/developer-rubric-discord-bot/issues/9) in [Semalab/developer-rubric-discord-bot](https://github.com/Semalab/developer-rubric-discord-bot)
-6. 🗣 Commented on [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-7. ❗️ Opened issue [#2](https://github.com/AccessibleForAll/Resources/issues/2) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
-8. 🗣 Commented on [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-9. 🎉 Merged PR [#25](https://github.com/Susmita-Dey/all-round-calculator/pull/25) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-10. ❗️ Closed issue [#14](https://github.com/Susmita-Dey/all-round-calculator/issues/14) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+1. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+2. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/2) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+3. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/2) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+4. 💪 Opened PR [#3](https://github.com/AccessibleForAll/Resources/pull/3) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
+5. 🎉 Merged PR [#27](https://github.com/Susmita-Dey/all-round-calculator/pull/27) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. ❗️ Closed issue [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. ❗️ Opened issue [#15](https://github.com/Semalab/developer-rubric-discord-bot/issues/15) in [Semalab/developer-rubric-discord-bot](https://github.com/Semalab/developer-rubric-discord-bot)
+8. 🗣 Commented on [#9](https://github.com/Semalab/developer-rubric-discord-bot/issues/9) in [Semalab/developer-rubric-discord-bot](https://github.com/Semalab/developer-rubric-discord-bot)
+9. 🗣 Commented on [#26](https://github.com/Susmita-Dey/all-round-calculator/issues/26) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+10. ❗️ Opened issue [#2](https://github.com/AccessibleForAll/Resources/issues/2) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
 <!--END_SECTION:activity-->
 	
 </details>
