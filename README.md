@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/opensourcecommunity-hub/join-the-community/issues/50) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. 🗣 Commented on [#50](https://github.com/opensourcecommunity-hub/join-the-community/issues/50) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
-4. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
-5. 🎉 Merged PR [#3](https://github.com/Susmita-Dey/Atelas-Esports-Website/pull/3) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
-6. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
-7. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/2) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
-8. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/2) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
-9. 💪 Opened PR [#3](https://github.com/AccessibleForAll/Resources/pull/3) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
-10. 🎉 Merged PR [#27](https://github.com/Susmita-Dey/all-round-calculator/pull/27) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+1. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Secrets/pull/1) in [Susmita-Dey/Secrets](https://github.com/Susmita-Dey/Secrets)
+2. ❗️ Closed issue [#50](https://github.com/opensourcecommunity-hub/join-the-community/issues/50) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🗣 Commented on [#50](https://github.com/opensourcecommunity-hub/join-the-community/issues/50) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+5. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+6. 🎉 Merged PR [#3](https://github.com/Susmita-Dey/Atelas-Esports-Website/pull/3) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+7. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+8. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/2) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+9. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/2) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+10. 💪 Opened PR [#3](https://github.com/AccessibleForAll/Resources/pull/3) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
 <!--END_SECTION:activity-->
 	
 </details>
