@@ -59,10 +59,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [&quot;Opportunities that come along with communities in tech&quot; - Susmita Dey &amp; Krish Gupta | Twitter Space](https://www.youtube.com/watch?v=oqlujS7HkII)
-- [&quot;Opportunities that come along with communities in tech&quot; - Susmita Dey &amp; Krish Gupta | Twitter Space](https://www.youtube.com/watch?v=Fg0u_9Lw6FI)
 - [Open Source: Your First PR || Twitter Space](https://www.youtube.com/watch?v=c8483P28AAY)
 - [Find the right mentor for you #shorts](https://www.youtube.com/watch?v=qLM-qrO3QPA)
 - [MOODY - Chrome Extension to Filter Your Mood | Holiday Hacks Hackathon Project](https://www.youtube.com/watch?v=jSUDUitqoOI)
+- [Create a Pie Chart Using Just 6 lines of CSS 🔥 #shorts](https://www.youtube.com/watch?v=-aOE6TRT5n4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
