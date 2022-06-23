@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Susmita-Dey/Moody/issues/4) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-2. 🗣 Commented on [#4](https://github.com/Susmita-Dey/Moody/issues/4) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-3. 🗣 Commented on [#4](https://github.com/Susmita-Dey/Moody/issues/4) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-4. 🎉 Merged PR [#5](https://github.com/Susmita-Dey/Moody/pull/5) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-5. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Secrets/pull/1) in [Susmita-Dey/Secrets](https://github.com/Susmita-Dey/Secrets)
-6. ❗️ Closed issue [#50](https://github.com/opensourcecommunity-hub/join-the-community/issues/50) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. 🗣 Commented on [#50](https://github.com/opensourcecommunity-hub/join-the-community/issues/50) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
-9. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Atelas-Esports-Website/issues/1) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
-10. 🎉 Merged PR [#3](https://github.com/Susmita-Dey/Atelas-Esports-Website/pull/3) in [Susmita-Dey/Atelas-Esports-Website](https://github.com/Susmita-Dey/Atelas-Esports-Website)
+1. ❗️ Closed issue [#51](https://github.com/opensourcecommunity-hub/join-the-community/issues/51) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. 🗣 Commented on [#51](https://github.com/opensourcecommunity-hub/join-the-community/issues/51) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. ❗️ Closed issue [#52](https://github.com/opensourcecommunity-hub/join-the-community/issues/52) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#52](https://github.com/opensourcecommunity-hub/join-the-community/issues/52) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. ❗️ Closed issue [#53](https://github.com/opensourcecommunity-hub/join-the-community/issues/53) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. 🗣 Commented on [#53](https://github.com/opensourcecommunity-hub/join-the-community/issues/53) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. ❗️ Closed issue [#54](https://github.com/opensourcecommunity-hub/join-the-community/issues/54) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#54](https://github.com/opensourcecommunity-hub/join-the-community/issues/54) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. ❗️ Closed issue [#55](https://github.com/opensourcecommunity-hub/join-the-community/issues/55) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🗣 Commented on [#55](https://github.com/opensourcecommunity-hub/join-the-community/issues/55) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
