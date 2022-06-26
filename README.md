@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#57](https://github.com/opensourcecommunity-hub/join-the-community/issues/57) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. 🗣 Commented on [#57](https://github.com/opensourcecommunity-hub/join-the-community/issues/57) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 🎉 Merged PR [#31](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/31) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-4. 🎉 Merged PR [#29](https://github.com/Susmita-Dey/all-round-calculator/pull/29) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-5. ❗️ Closed issue [#28](https://github.com/Susmita-Dey/all-round-calculator/issues/28) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-6. 🗣 Commented on [#29](https://github.com/Susmita-Dey/all-round-calculator/issues/29) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-7. 🗣 Commented on [#8](https://github.com/abhay-h/abhay-h/issues/8) in [abhay-h/abhay-h](https://github.com/abhay-h/abhay-h)
-8. 🗣 Commented on [#28](https://github.com/Susmita-Dey/all-round-calculator/issues/28) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-9. 💪 Opened PR [#8](https://github.com/abhay-h/abhay-h/pull/8) in [abhay-h/abhay-h](https://github.com/abhay-h/abhay-h)
-10. 🗣 Commented on [#28](https://github.com/Susmita-Dey/all-round-calculator/issues/28) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+1. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Excel-file-to-db/pull/1) in [Susmita-Dey/Excel-file-to-db](https://github.com/Susmita-Dey/Excel-file-to-db)
+2. ❗️ Closed issue [#57](https://github.com/opensourcecommunity-hub/join-the-community/issues/57) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🗣 Commented on [#57](https://github.com/opensourcecommunity-hub/join-the-community/issues/57) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🎉 Merged PR [#31](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/31) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+5. 🎉 Merged PR [#29](https://github.com/Susmita-Dey/all-round-calculator/pull/29) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. ❗️ Closed issue [#28](https://github.com/Susmita-Dey/all-round-calculator/issues/28) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. 🗣 Commented on [#29](https://github.com/Susmita-Dey/all-round-calculator/issues/29) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+8. 🗣 Commented on [#8](https://github.com/abhay-h/abhay-h/issues/8) in [abhay-h/abhay-h](https://github.com/abhay-h/abhay-h)
+9. 🗣 Commented on [#28](https://github.com/Susmita-Dey/all-round-calculator/issues/28) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+10. 💪 Opened PR [#8](https://github.com/abhay-h/abhay-h/pull/8) in [abhay-h/abhay-h](https://github.com/abhay-h/abhay-h)
 <!--END_SECTION:activity-->
 	
 </details>
