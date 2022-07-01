@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-2. ❗️ Closed issue [#58](https://github.com/opensourcecommunity-hub/join-the-community/issues/58) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 🗣 Commented on [#58](https://github.com/opensourcecommunity-hub/join-the-community/issues/58) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Excel-file-to-db/pull/1) in [Susmita-Dey/Excel-file-to-db](https://github.com/Susmita-Dey/Excel-file-to-db)
-5. ❗️ Closed issue [#57](https://github.com/opensourcecommunity-hub/join-the-community/issues/57) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#57](https://github.com/opensourcecommunity-hub/join-the-community/issues/57) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. 🎉 Merged PR [#31](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/31) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
-8. 🎉 Merged PR [#29](https://github.com/Susmita-Dey/all-round-calculator/pull/29) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-9. ❗️ Closed issue [#28](https://github.com/Susmita-Dey/all-round-calculator/issues/28) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-10. 🗣 Commented on [#29](https://github.com/Susmita-Dey/all-round-calculator/issues/29) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+1. ❗️ Closed issue [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. 🗣 Commented on [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🗣 Commented on [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. ❗️ Closed issue [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. 🎉 Merged PR [#8](https://github.com/Susmita-Dey/Moody/pull/8) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+6. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Moody/issues/7) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+7. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+8. ❗️ Closed issue [#58](https://github.com/opensourcecommunity-hub/join-the-community/issues/58) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#58](https://github.com/opensourcecommunity-hub/join-the-community/issues/58) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/Excel-file-to-db/pull/1) in [Susmita-Dey/Excel-file-to-db](https://github.com/Susmita-Dey/Excel-file-to-db)
 <!--END_SECTION:activity-->
 	
 </details>
