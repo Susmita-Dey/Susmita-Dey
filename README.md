@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/monitoring/issues/1) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
-2. ❗️ Closed issue [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 🗣 Commented on [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. ❗️ Closed issue [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🎉 Merged PR [#8](https://github.com/Susmita-Dey/Moody/pull/8) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-7. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Moody/issues/7) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-8. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-9. ❗️ Closed issue [#58](https://github.com/opensourcecommunity-hub/join-the-community/issues/58) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#58](https://github.com/opensourcecommunity-hub/join-the-community/issues/58) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+2. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/monitoring/issues/1) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+3. ❗️ Closed issue [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. 🗣 Commented on [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. ❗️ Closed issue [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. 🎉 Merged PR [#8](https://github.com/Susmita-Dey/Moody/pull/8) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+8. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Moody/issues/7) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+9. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+10. ❗️ Closed issue [#58](https://github.com/opensourcecommunity-hub/join-the-community/issues/58) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
