@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/atapas/markdown-cheatsheet/issues/10) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-2. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-3. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/monitoring/issues/1) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
-4. ❗️ Closed issue [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. 🗣 Commented on [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🎉 Merged PR [#8](https://github.com/Susmita-Dey/Moody/pull/8) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-9. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Moody/issues/7) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-10. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+1. ❗️ Closed issue [#61](https://github.com/opensourcecommunity-hub/join-the-community/issues/61) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. 🗣 Commented on [#61](https://github.com/opensourcecommunity-hub/join-the-community/issues/61) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🗣 Commented on [#62](https://github.com/opensourcecommunity-hub/join-the-community/issues/62) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. ❗️ Closed issue [#62](https://github.com/opensourcecommunity-hub/join-the-community/issues/62) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. ❗️ Opened issue [#10](https://github.com/atapas/markdown-cheatsheet/issues/10) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+6. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+7. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/monitoring/issues/1) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+8. ❗️ Closed issue [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🗣 Commented on [#60](https://github.com/opensourcecommunity-hub/join-the-community/issues/60) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
