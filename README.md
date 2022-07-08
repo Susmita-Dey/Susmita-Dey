@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
-2. ❗️ Opened issue [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
-3. ❗️ Closed issue [#61](https://github.com/opensourcecommunity-hub/join-the-community/issues/61) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#61](https://github.com/opensourcecommunity-hub/join-the-community/issues/61) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. 🗣 Commented on [#62](https://github.com/opensourcecommunity-hub/join-the-community/issues/62) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. ❗️ Closed issue [#62](https://github.com/opensourcecommunity-hub/join-the-community/issues/62) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Opened issue [#10](https://github.com/atapas/markdown-cheatsheet/issues/10) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-8. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-9. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/monitoring/issues/1) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
-10. ❗️ Closed issue [#59](https://github.com/opensourcecommunity-hub/join-the-community/issues/59) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. ❗️ Closed issue [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+2. 🗣 Commented on [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+3. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+4. 🗣 Commented on [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+5. ❗️ Opened issue [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+6. ❗️ Opened issue [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+7. ❗️ Closed issue [#61](https://github.com/opensourcecommunity-hub/join-the-community/issues/61) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#61](https://github.com/opensourcecommunity-hub/join-the-community/issues/61) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#62](https://github.com/opensourcecommunity-hub/join-the-community/issues/62) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❗️ Closed issue [#62](https://github.com/opensourcecommunity-hub/join-the-community/issues/62) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
