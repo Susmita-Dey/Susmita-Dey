@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/opensourcecommunity-hub/monitoring/issues/2) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
-2. 🗣 Commented on [#2](https://github.com/opensourcecommunity-hub/monitoring/issues/2) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
-3. ❗️ Opened issue [#2](https://github.com/opensourcecommunity-hub/monitoring/issues/2) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
-4. ❗️ Closed issue [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
-5. 🗣 Commented on [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
-6. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
-7. 🗣 Commented on [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
-8. ❗️ Opened issue [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
-9. ❗️ Opened issue [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
-10. ❗️ Closed issue [#61](https://github.com/opensourcecommunity-hub/join-the-community/issues/61) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. ❗️ Opened issue [#3](https://github.com/Susmita-Dey/monitoring/issues/3) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+2. ❗️ Opened issue [#3](https://github.com/opensourcecommunity-hub/monitoring/issues/3) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+3. ❗️ Closed issue [#2](https://github.com/opensourcecommunity-hub/monitoring/issues/2) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+4. 🗣 Commented on [#2](https://github.com/opensourcecommunity-hub/monitoring/issues/2) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+5. ❗️ Opened issue [#2](https://github.com/opensourcecommunity-hub/monitoring/issues/2) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+6. ❗️ Closed issue [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+7. 🗣 Commented on [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
+8. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+9. 🗣 Commented on [#2](https://github.com/Susmita-Dey/monitoring/issues/2) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+10. ❗️ Opened issue [#1](https://github.com/opensourcecommunity-hub/monitoring/issues/1) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
 <!--END_SECTION:activity-->
 	
 </details>
