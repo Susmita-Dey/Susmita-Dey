@@ -69,11 +69,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 📙 Recent Blogs on Hashnode
 <!-- BLOG-POST-LIST:START -->
+- [My plans for 2023 Hackathon Season](https://susmitadey.hashnode.dev/my-plans-for-2023-hackathon-season)
 - [Getting Started With React.js](https://susmitadey.hashnode.dev/getting-started-with-reactjs)
 - [Difference Between a Framework and a Library](https://susmitadey.hashnode.dev/difference-between-a-framework-and-a-library)
 - [My 3-months Open Source Journey at GSSoC&#39;22](https://susmitadey.hashnode.dev/my-3-months-open-source-journey-at-gssoc22)
 - [Sukoon - A Website to get relief from stress](https://susmitadey.hashnode.dev/sukoon-a-website-to-get-relief-from-stress)
-- [My Experiences of Participating in Holiday Hacks Hackathon](https://susmitadey.hashnode.dev/my-experiences-of-participating-in-holiday-hacks-hackathon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
