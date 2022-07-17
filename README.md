@@ -97,15 +97,15 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/atapas/markdown-cheatsheet/pull/11) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-2. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/Moody/pull/9) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-3. ❗️ Closed issue [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-4. ❗️ Opened issue [#4461](https://github.com/EddieHubCommunity/support/issues/4461) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#10](https://github.com/atapas/markdown-cheatsheet/issues/10) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-7. ❗️ Opened issue [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🗣 Commented on [#3](https://github.com/opensourcecommunity-hub/monitoring/issues/3) in [opensourcecommunity-hub/monitoring](https://github.com/opensourcecommunity-hub/monitoring)
-9. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/monitoring/issues/3) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
+1. ❌ Closed PR [#5](https://github.com/Susmita-Dey/all-round-calculator/pull/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+2. 🗣 Commented on [#5](https://github.com/Susmita-Dey/all-round-calculator/issues/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+3. 💪 Opened PR [#11](https://github.com/atapas/markdown-cheatsheet/pull/11) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+4. 🎉 Merged PR [#9](https://github.com/Susmita-Dey/Moody/pull/9) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+5. ❗️ Closed issue [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+6. ❗️ Opened issue [#4461](https://github.com/EddieHubCommunity/support/issues/4461) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+7. 🗣 Commented on [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. 🗣 Commented on [#10](https://github.com/atapas/markdown-cheatsheet/issues/10) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+9. ❗️ Opened issue [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
 10. 🗣 Commented on [#3](https://github.com/Susmita-Dey/monitoring/issues/3) in [Susmita-Dey/monitoring](https://github.com/Susmita-Dey/monitoring)
 <!--END_SECTION:activity-->
 	
