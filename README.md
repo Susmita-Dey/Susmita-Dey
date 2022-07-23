@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. 🗣 Commented on [#10](https://github.com/Susmita-Dey/Sukoon/issues/10) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Sukoon/issues/5) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Sukoon/issues/5) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. ❗️ Closed issue [#64](https://github.com/opensourcecommunity-hub/join-the-community/issues/64) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. 🗣 Commented on [#64](https://github.com/opensourcecommunity-hub/join-the-community/issues/64) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. ❌ Closed PR [#5](https://github.com/Susmita-Dey/all-round-calculator/pull/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-9. 🗣 Commented on [#5](https://github.com/Susmita-Dey/all-round-calculator/issues/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-10. 💪 Opened PR [#11](https://github.com/atapas/markdown-cheatsheet/pull/11) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+1. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+4. 🗣 Commented on [#10](https://github.com/Susmita-Dey/Sukoon/issues/10) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Sukoon/issues/5) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. 🗣 Commented on [#5](https://github.com/Susmita-Dey/Sukoon/issues/5) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. 🗣 Commented on [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. ❗️ Closed issue [#64](https://github.com/opensourcecommunity-hub/join-the-community/issues/64) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#64](https://github.com/opensourcecommunity-hub/join-the-community/issues/64) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❌ Closed PR [#5](https://github.com/Susmita-Dey/all-round-calculator/pull/5) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
 <!--END_SECTION:activity-->
 	
 </details>
