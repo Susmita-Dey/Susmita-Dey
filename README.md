@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=640&height=45"></a>
 </p>
 
 ---
