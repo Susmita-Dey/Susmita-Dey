@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Sukoon/pull/13) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/TextUtils/pull/1) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-4. 🗣 Commented on [#1](https://github.com/Susmita-Dey/TextUtils/issues/1) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-5. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. ❗️ Closed issue [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Sukoon/pull/13) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/TextUtils/pull/1) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+6. 🗣 Commented on [#1](https://github.com/Susmita-Dey/TextUtils/issues/1) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
 7. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 8. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. 🗣 Commented on [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-10. 🗣 Commented on [#10](https://github.com/Susmita-Dey/Sukoon/issues/10) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+10. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
