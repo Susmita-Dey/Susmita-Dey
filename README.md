@@ -101,12 +101,12 @@ You can click the Preview link to take a look at your changes.
 2. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 3. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 4. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. ❗️ Closed issue [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Sukoon/pull/13) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/TextUtils/pull/1) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-8. 🗣 Commented on [#1](https://github.com/Susmita-Dey/TextUtils/issues/1) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-9. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. ❗️ Closed issue [#11](https://github.com/Susmita-Dey/Sukoon/issues/11) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. 🎉 Merged PR [#13](https://github.com/Susmita-Dey/Sukoon/pull/13) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. 🎉 Merged PR [#1](https://github.com/Susmita-Dey/TextUtils/pull/1) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+9. 🗣 Commented on [#1](https://github.com/Susmita-Dey/TextUtils/issues/1) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+10. 🗣 Commented on [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
