@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/Susmita-Dey/Sukoon/issues/10) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. ❗️ Closed issue [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. ❗️ Closed issue [#15](https://github.com/Susmita-Dey/Sukoon/issues/15) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. ❗️ Closed issue [#16](https://github.com/Susmita-Dey/Sukoon/issues/16) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. ❗️ Closed issue [#17](https://github.com/Susmita-Dey/Sukoon/issues/17) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. ❗️ Closed issue [#19](https://github.com/Susmita-Dey/Sukoon/issues/19) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. ❗️ Closed issue [#20](https://github.com/Susmita-Dey/Sukoon/issues/20) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. ❗️ Closed issue [#21](https://github.com/Susmita-Dey/Sukoon/issues/21) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. ❗️ Closed issue [#22](https://github.com/Susmita-Dey/Sukoon/issues/22) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. ❗️ Closed issue [#23](https://github.com/Susmita-Dey/Sukoon/issues/23) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. ❗️ Closed issue [#28](https://github.com/Susmita-Dey/Sukoon/issues/28) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🗣 Commented on [#28](https://github.com/Susmita-Dey/Sukoon/issues/28) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. ❗️ Closed issue [#10](https://github.com/Susmita-Dey/Sukoon/issues/10) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. ❗️ Closed issue [#12](https://github.com/Susmita-Dey/Sukoon/issues/12) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. ❗️ Closed issue [#15](https://github.com/Susmita-Dey/Sukoon/issues/15) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. ❗️ Closed issue [#16](https://github.com/Susmita-Dey/Sukoon/issues/16) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. ❗️ Closed issue [#17](https://github.com/Susmita-Dey/Sukoon/issues/17) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. ❗️ Closed issue [#19](https://github.com/Susmita-Dey/Sukoon/issues/19) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. ❗️ Closed issue [#20](https://github.com/Susmita-Dey/Sukoon/issues/20) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+10. ❗️ Closed issue [#21](https://github.com/Susmita-Dey/Sukoon/issues/21) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
