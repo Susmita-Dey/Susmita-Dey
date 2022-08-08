@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/shreya024/MemoriesApp/issues/43) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
-2. 🗣 Commented on [#54](https://github.com/Susmita-Dey/Sukoon/issues/54) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🗣 Commented on [#64](https://github.com/Susmita-Dey/Sukoon/issues/64) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#127](https://github.com/Susmita-Dey/Sukoon/issues/127) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#132](https://github.com/Susmita-Dey/Sukoon/issues/132) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. ❗️ Closed issue [#134](https://github.com/Susmita-Dey/Sukoon/issues/134) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. 🗣 Commented on [#134](https://github.com/Susmita-Dey/Sukoon/issues/134) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. ❗️ Closed issue [#114](https://github.com/Susmita-Dey/Sukoon/issues/114) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. ❌ Closed PR [#126](https://github.com/Susmita-Dey/Sukoon/pull/126) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. ❌ Closed PR [#130](https://github.com/Susmita-Dey/Sukoon/pull/130) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 🗣 Commented on [#128](https://github.com/Susmita-Dey/Sukoon/issues/128) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🗣 Commented on [#81](https://github.com/Susmita-Dey/Sukoon/issues/81) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🗣 Commented on [#135](https://github.com/Susmita-Dey/Sukoon/issues/135) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 🗣 Commented on [#43](https://github.com/shreya024/MemoriesApp/issues/43) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
+5. 🗣 Commented on [#54](https://github.com/Susmita-Dey/Sukoon/issues/54) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. 🗣 Commented on [#64](https://github.com/Susmita-Dey/Sukoon/issues/64) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. 🗣 Commented on [#127](https://github.com/Susmita-Dey/Sukoon/issues/127) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. 🗣 Commented on [#132](https://github.com/Susmita-Dey/Sukoon/issues/132) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. ❗️ Closed issue [#134](https://github.com/Susmita-Dey/Sukoon/issues/134) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+10. 🗣 Commented on [#134](https://github.com/Susmita-Dey/Sukoon/issues/134) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
