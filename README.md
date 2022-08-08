@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Ayan-thecodeking/AdviceGenerator/issues/1) in [Ayan-thecodeking/AdviceGenerator](https://github.com/Ayan-thecodeking/AdviceGenerator)
-2. ❗️ Closed issue [#115](https://github.com/Susmita-Dey/Sukoon/issues/115) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. ❌ Closed PR [#101](https://github.com/Susmita-Dey/Sukoon/pull/101) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#101](https://github.com/Susmita-Dey/Sukoon/issues/101) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. ❗️ Closed issue [#97](https://github.com/Susmita-Dey/Sukoon/issues/97) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. ❗️ Closed issue [#83](https://github.com/Susmita-Dey/Sukoon/issues/83) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. ❗️ Closed issue [#83](https://github.com/Susmita-Dey/Sukoon/issues/83) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. ❌ Closed PR [#105](https://github.com/Susmita-Dey/Sukoon/pull/105) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. 🎉 Merged PR [#112](https://github.com/Susmita-Dey/Sukoon/pull/112) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🎉 Merged PR [#120](https://github.com/Susmita-Dey/Sukoon/pull/120) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 🗣 Commented on [#121](https://github.com/Susmita-Dey/Sukoon/issues/121) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🗣 Commented on [#124](https://github.com/Susmita-Dey/Sukoon/issues/124) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🗣 Commented on [#123](https://github.com/Susmita-Dey/Sukoon/issues/123) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. ❗️ Opened issue [#1](https://github.com/Ayan-thecodeking/AdviceGenerator/issues/1) in [Ayan-thecodeking/AdviceGenerator](https://github.com/Ayan-thecodeking/AdviceGenerator)
+5. ❗️ Closed issue [#115](https://github.com/Susmita-Dey/Sukoon/issues/115) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. ❌ Closed PR [#101](https://github.com/Susmita-Dey/Sukoon/pull/101) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. 🗣 Commented on [#101](https://github.com/Susmita-Dey/Sukoon/issues/101) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. ❗️ Closed issue [#97](https://github.com/Susmita-Dey/Sukoon/issues/97) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. ❗️ Closed issue [#83](https://github.com/Susmita-Dey/Sukoon/issues/83) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+10. ❗️ Closed issue [#83](https://github.com/Susmita-Dey/Sukoon/issues/83) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
