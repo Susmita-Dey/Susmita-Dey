@@ -58,11 +58,11 @@ You can click the Preview link to take a look at your changes.
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [First AMA - Ask your questions live](https://www.youtube.com/watch?v=UQVTpn7jDNo)
 - [100 subscribers celebration || Susmita Dey](https://www.youtube.com/watch?v=INCR9JwODaI)
 - [Can an AI write programs without errors? | Testing the power of GitHub Copilot 🤖](https://www.youtube.com/watch?v=ME3_uchWv8k)
 - [&quot;Opportunities that come along with communities in tech&quot; - Susmita Dey &amp; Krish Gupta | Twitter Space](https://www.youtube.com/watch?v=oqlujS7HkII)
 - [Open Source: Your First PR || Twitter Space](https://www.youtube.com/watch?v=c8483P28AAY)
+- [Find the right mentor for you #shorts](https://www.youtube.com/watch?v=qLM-qrO3QPA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
