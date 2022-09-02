@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/61) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-2. 🗣 Commented on [#22](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/22) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-3. ❗️ Closed issue [#56](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/56) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-4. ❗️ Closed issue [#57](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/57) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-5. 🗣 Commented on [#230](https://github.com/Susmita-Dey/Sukoon/issues/230) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. 🎉 Merged PR [#332](https://github.com/Susmita-Dey/Sukoon/pull/332) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. ❗️ Opened issue [#114](https://github.com/dailydotdev/docs/issues/114) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-8. 🎉 Merged PR [#335](https://github.com/Susmita-Dey/Sukoon/pull/335) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. 🗣 Commented on [#337](https://github.com/Susmita-Dey/Sukoon/issues/337) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🗣 Commented on [#338](https://github.com/Susmita-Dey/Sukoon/issues/338) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 💪 Opened PR [#76](https://github.com/FrancescoXX/free-Web3-resources/pull/76) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🗣 Commented on [#74](https://github.com/FrancescoXX/free-Web3-resources/issues/74) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#61](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/61) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+4. 🗣 Commented on [#22](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/22) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+5. ❗️ Closed issue [#56](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/56) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+6. ❗️ Closed issue [#57](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/57) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+7. 🗣 Commented on [#230](https://github.com/Susmita-Dey/Sukoon/issues/230) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. 🎉 Merged PR [#332](https://github.com/Susmita-Dey/Sukoon/pull/332) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. ❗️ Opened issue [#114](https://github.com/dailydotdev/docs/issues/114) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+10. 🎉 Merged PR [#335](https://github.com/Susmita-Dey/Sukoon/pull/335) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
