@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/FrancescoXX/free-Web3-resources/issues/78) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ❗️ Opened issue [#5220](https://github.com/EddieHubCommunity/support/issues/5220) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#77](https://github.com/FrancescoXX/free-Web3-resources/pull/77) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🗣 Commented on [#174](https://github.com/commclassroom/roadmaps/issues/174) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
-5. 🗣 Commented on [#176](https://github.com/commclassroom/roadmaps/issues/176) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
-6. 💪 Opened PR [#76](https://github.com/FrancescoXX/free-Web3-resources/pull/76) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-7. 🗣 Commented on [#74](https://github.com/FrancescoXX/free-Web3-resources/issues/74) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-8. 🗣 Commented on [#61](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/61) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-9. 🗣 Commented on [#22](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/22) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-10. ❗️ Closed issue [#56](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/56) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. 🗣 Commented on [#174](https://github.com/commclassroom/roadmaps/issues/174) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+2. 🗣 Commented on [#78](https://github.com/FrancescoXX/free-Web3-resources/issues/78) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#78](https://github.com/FrancescoXX/free-Web3-resources/issues/78) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. ❗️ Opened issue [#5220](https://github.com/EddieHubCommunity/support/issues/5220) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 💪 Opened PR [#77](https://github.com/FrancescoXX/free-Web3-resources/pull/77) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+6. 🗣 Commented on [#174](https://github.com/commclassroom/roadmaps/issues/174) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+7. 🗣 Commented on [#176](https://github.com/commclassroom/roadmaps/issues/176) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+8. 💪 Opened PR [#76](https://github.com/FrancescoXX/free-Web3-resources/pull/76) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+9. 🗣 Commented on [#74](https://github.com/FrancescoXX/free-Web3-resources/issues/74) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+10. 🗣 Commented on [#61](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/61) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 	
 </details>
