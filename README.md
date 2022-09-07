@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#36](https://github.com/opensourcecommunity-hub/join-the-community/issues/36) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. 🗣 Commented on [#36](https://github.com/opensourcecommunity-hub/join-the-community/issues/36) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. ❗️ Closed issue [#38](https://github.com/opensourcecommunity-hub/join-the-community/issues/38) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#38](https://github.com/opensourcecommunity-hub/join-the-community/issues/38) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. ❗️ Closed issue [#39](https://github.com/opensourcecommunity-hub/join-the-community/issues/39) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#39](https://github.com/opensourcecommunity-hub/join-the-community/issues/39) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#40](https://github.com/opensourcecommunity-hub/join-the-community/issues/40) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#40](https://github.com/opensourcecommunity-hub/join-the-community/issues/40) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. 🗣 Commented on [#42](https://github.com/opensourcecommunity-hub/join-the-community/issues/42) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. ❗️ Closed issue [#42](https://github.com/opensourcecommunity-hub/join-the-community/issues/42) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. ❗️ Closed issue [#106](https://github.com/opensourcecommunity-hub/join-the-community/issues/106) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. 🗣 Commented on [#106](https://github.com/opensourcecommunity-hub/join-the-community/issues/106) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. ❗️ Closed issue [#105](https://github.com/opensourcecommunity-hub/join-the-community/issues/105) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#105](https://github.com/opensourcecommunity-hub/join-the-community/issues/105) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. ❗️ Closed issue [#36](https://github.com/opensourcecommunity-hub/join-the-community/issues/36) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. 🗣 Commented on [#36](https://github.com/opensourcecommunity-hub/join-the-community/issues/36) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. ❗️ Closed issue [#38](https://github.com/opensourcecommunity-hub/join-the-community/issues/38) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#38](https://github.com/opensourcecommunity-hub/join-the-community/issues/38) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. ❗️ Closed issue [#39](https://github.com/opensourcecommunity-hub/join-the-community/issues/39) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. 🗣 Commented on [#39](https://github.com/opensourcecommunity-hub/join-the-community/issues/39) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
