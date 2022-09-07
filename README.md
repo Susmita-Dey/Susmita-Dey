@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#309](https://github.com/Susmita-Dey/Sukoon/issues/309) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Moody/issues/11) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-3. 🗣 Commented on [#309](https://github.com/Susmita-Dey/Sukoon/issues/309) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Moody/issues/11) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-5. 🗣 Commented on [#366](https://github.com/Susmita-Dey/Sukoon/issues/366) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Moody/issues/11) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-7. 🗣 Commented on [#63](https://github.com/opensourcecommunity-hub/join-the-community/issues/63) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. ❗️ Reopened issue [#63](https://github.com/opensourcecommunity-hub/join-the-community/issues/63) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. ❗️ Closed issue [#70](https://github.com/opensourcecommunity-hub/join-the-community/issues/70) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#70](https://github.com/opensourcecommunity-hub/join-the-community/issues/70) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. ❗️ Closed issue [#30](https://github.com/opensourcecommunity-hub/join-the-community/issues/30) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. 🗣 Commented on [#30](https://github.com/opensourcecommunity-hub/join-the-community/issues/30) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. ❗️ Closed issue [#28](https://github.com/opensourcecommunity-hub/join-the-community/issues/28) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#28](https://github.com/opensourcecommunity-hub/join-the-community/issues/28) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. ❗️ Closed issue [#27](https://github.com/opensourcecommunity-hub/join-the-community/issues/27) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. 🗣 Commented on [#27](https://github.com/opensourcecommunity-hub/join-the-community/issues/27) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. ❗️ Closed issue [#26](https://github.com/opensourcecommunity-hub/join-the-community/issues/26) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#26](https://github.com/opensourcecommunity-hub/join-the-community/issues/26) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#309](https://github.com/Susmita-Dey/Sukoon/issues/309) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+10. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Moody/issues/11) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
 <!--END_SECTION:activity-->
 	
 </details>
