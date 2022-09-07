@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#30](https://github.com/opensourcecommunity-hub/join-the-community/issues/30) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. 🗣 Commented on [#30](https://github.com/opensourcecommunity-hub/join-the-community/issues/30) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. ❗️ Closed issue [#28](https://github.com/opensourcecommunity-hub/join-the-community/issues/28) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. 🗣 Commented on [#28](https://github.com/opensourcecommunity-hub/join-the-community/issues/28) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. ❗️ Closed issue [#27](https://github.com/opensourcecommunity-hub/join-the-community/issues/27) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#27](https://github.com/opensourcecommunity-hub/join-the-community/issues/27) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#26](https://github.com/opensourcecommunity-hub/join-the-community/issues/26) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#26](https://github.com/opensourcecommunity-hub/join-the-community/issues/26) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. 🗣 Commented on [#309](https://github.com/Susmita-Dey/Sukoon/issues/309) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🗣 Commented on [#11](https://github.com/Susmita-Dey/Moody/issues/11) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+1. 🗣 Commented on [#72](https://github.com/opensourcecommunity-hub/join-the-community/issues/72) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. ❗️ Closed issue [#72](https://github.com/opensourcecommunity-hub/join-the-community/issues/72) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. ❗️ Closed issue [#104](https://github.com/opensourcecommunity-hub/join-the-community/issues/104) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#104](https://github.com/opensourcecommunity-hub/join-the-community/issues/104) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. ❗️ Closed issue [#102](https://github.com/opensourcecommunity-hub/join-the-community/issues/102) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. 🗣 Commented on [#102](https://github.com/opensourcecommunity-hub/join-the-community/issues/102) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. ❗️ Closed issue [#98](https://github.com/opensourcecommunity-hub/join-the-community/issues/98) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#98](https://github.com/opensourcecommunity-hub/join-the-community/issues/98) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. 🗣 Commented on [#96](https://github.com/opensourcecommunity-hub/join-the-community/issues/96) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❗️ Closed issue [#96](https://github.com/opensourcecommunity-hub/join-the-community/issues/96) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
