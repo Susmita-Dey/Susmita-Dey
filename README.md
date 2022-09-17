@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#399](https://github.com/Susmita-Dey/Sukoon/issues/399) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🗣 Commented on [#389](https://github.com/Susmita-Dey/Sukoon/issues/389) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🗣 Commented on [#62](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/62) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-4. 🗣 Commented on [#811](https://github.com/kubescape/kubescape/issues/811) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
-5. 🗣 Commented on [#812](https://github.com/kubescape/kubescape/issues/812) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
+1. 🎉 Merged PR [#399](https://github.com/Susmita-Dey/Sukoon/pull/399) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. ❗️ Closed issue [#389](https://github.com/Susmita-Dey/Sukoon/issues/389) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🎉 Merged PR [#400](https://github.com/Susmita-Dey/Sukoon/pull/400) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 🗣 Commented on [#402](https://github.com/Susmita-Dey/Sukoon/issues/402) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#399](https://github.com/Susmita-Dey/Sukoon/issues/399) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 6. 🗣 Commented on [#389](https://github.com/Susmita-Dey/Sukoon/issues/389) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. 🗣 Commented on [#811](https://github.com/kubescape/kubescape/issues/811) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
-8. ❗️ Opened issue [#812](https://github.com/kubescape/kubescape/issues/812) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
-9. ❗️ Opened issue [#811](https://github.com/kubescape/kubescape/issues/811) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
-10. 🗣 Commented on [#794](https://github.com/kubescape/kubescape/issues/794) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
+7. 🗣 Commented on [#62](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/62) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+8. 🗣 Commented on [#811](https://github.com/kubescape/kubescape/issues/811) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
+9. 🗣 Commented on [#812](https://github.com/kubescape/kubescape/issues/812) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
+10. 🗣 Commented on [#389](https://github.com/Susmita-Dey/Sukoon/issues/389) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
