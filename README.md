@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/Susmita-Dey/Sukoon/issues/427) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🗣 Commented on [#421](https://github.com/Susmita-Dey/Sukoon/issues/421) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🗣 Commented on [#377](https://github.com/Susmita-Dey/Sukoon/issues/377) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. ❗️ Opened issue [#427](https://github.com/Susmita-Dey/Sukoon/issues/427) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. ❌ Closed PR [#288](https://github.com/Susmita-Dey/Sukoon/pull/288) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. 🗣 Commented on [#424](https://github.com/Susmita-Dey/Sukoon/issues/424) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. 🗣 Commented on [#426](https://github.com/Susmita-Dey/Sukoon/issues/426) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. 🗣 Commented on [#409](https://github.com/Susmita-Dey/Sukoon/issues/409) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. 🗣 Commented on [#425](https://github.com/Susmita-Dey/Sukoon/issues/425) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🗣 Commented on [#425](https://github.com/Susmita-Dey/Sukoon/issues/425) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. ❗️ Closed issue [#278](https://github.com/Susmita-Dey/Sukoon/issues/278) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🎉 Merged PR [#428](https://github.com/Susmita-Dey/Sukoon/pull/428) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🗣 Commented on [#427](https://github.com/Susmita-Dey/Sukoon/issues/427) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 🗣 Commented on [#421](https://github.com/Susmita-Dey/Sukoon/issues/421) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#377](https://github.com/Susmita-Dey/Sukoon/issues/377) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. ❗️ Opened issue [#427](https://github.com/Susmita-Dey/Sukoon/issues/427) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. ❌ Closed PR [#288](https://github.com/Susmita-Dey/Sukoon/pull/288) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. 🗣 Commented on [#424](https://github.com/Susmita-Dey/Sukoon/issues/424) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. 🗣 Commented on [#426](https://github.com/Susmita-Dey/Sukoon/issues/426) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+10. 🗣 Commented on [#409](https://github.com/Susmita-Dey/Sukoon/issues/409) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
