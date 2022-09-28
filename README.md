@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-2. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-3. 🎉 Merged PR [#525](https://github.com/Susmita-Dey/Sukoon/pull/525) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#525](https://github.com/Susmita-Dey/Sukoon/issues/525) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🎉 Merged PR [#421](https://github.com/Susmita-Dey/Sukoon/pull/421) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-6. 🗣 Commented on [#500](https://github.com/Susmita-Dey/Sukoon/issues/500) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. ❌ Closed PR [#477](https://github.com/Susmita-Dey/Sukoon/pull/477) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. 🗣 Commented on [#477](https://github.com/Susmita-Dey/Sukoon/issues/477) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. 🎉 Merged PR [#420](https://github.com/Susmita-Dey/Sukoon/pull/420) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. ❗️ Closed issue [#467](https://github.com/Susmita-Dey/Sukoon/issues/467) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 🎉 Merged PR [#529](https://github.com/Susmita-Dey/Sukoon/pull/529) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🎉 Merged PR [#531](https://github.com/Susmita-Dey/Sukoon/pull/531) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+4. 🗣 Commented on [#527](https://github.com/Susmita-Dey/Sukoon/issues/527) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🎉 Merged PR [#527](https://github.com/Susmita-Dey/Sukoon/pull/527) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+6. 🗣 Commented on [#512](https://github.com/Susmita-Dey/Sukoon/issues/512) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+8. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+9. 🎉 Merged PR [#525](https://github.com/Susmita-Dey/Sukoon/pull/525) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+10. 🗣 Commented on [#525](https://github.com/Susmita-Dey/Sukoon/issues/525) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
