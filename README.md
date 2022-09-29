@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-2. ❗️ Closed issue [#504](https://github.com/Susmita-Dey/Sukoon/issues/504) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🎉 Merged PR [#530](https://github.com/Susmita-Dey/Sukoon/pull/530) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 💪 Opened PR [#191](https://github.com/commclassroom/roadmaps/pull/191) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
-5. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-6. ❗️ Closed issue [#456](https://github.com/Susmita-Dey/Sukoon/issues/456) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. 🎉 Merged PR [#473](https://github.com/Susmita-Dey/Sukoon/pull/473) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-9. ❗️ Closed issue [#464](https://github.com/Susmita-Dey/Sukoon/issues/464) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🎉 Merged PR [#472](https://github.com/Susmita-Dey/Sukoon/pull/472) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 🎉 Merged PR [#532](https://github.com/Susmita-Dey/Sukoon/pull/532) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+3. ❗️ Closed issue [#504](https://github.com/Susmita-Dey/Sukoon/issues/504) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 🎉 Merged PR [#530](https://github.com/Susmita-Dey/Sukoon/pull/530) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 💪 Opened PR [#191](https://github.com/commclassroom/roadmaps/pull/191) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+6. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. ❗️ Closed issue [#456](https://github.com/Susmita-Dey/Sukoon/issues/456) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. 🎉 Merged PR [#473](https://github.com/Susmita-Dey/Sukoon/pull/473) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+10. ❗️ Closed issue [#464](https://github.com/Susmita-Dey/Sukoon/issues/464) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
