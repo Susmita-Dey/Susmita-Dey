@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/FrancescoXX/free-Web3-resources/pull/84) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ❌ Closed PR [#77](https://github.com/FrancescoXX/free-Web3-resources/pull/77) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🗣 Commented on [#18](https://github.com/Susmita-Dey/TextUtils/issues/18) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-4. 🗣 Commented on [#21](https://github.com/Susmita-Dey/TextUtils/issues/21) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-5. 🗣 Commented on [#11](https://github.com/Susmita-Dey/TextUtils/issues/11) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-6. ❗️ Closed issue [#528](https://github.com/Susmita-Dey/Sukoon/issues/528) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. 🗣 Commented on [#25](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/25) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-8. 🗣 Commented on [#62](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/62) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-9. 🗣 Commented on [#45](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/45) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-10. 🎉 Merged PR [#36](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/36) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+1. 🎉 Merged PR [#22](https://github.com/Susmita-Dey/TextUtils/pull/22) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+2. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Moody-website/issues/1) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+3. 🗣 Commented on [#2](https://github.com/Susmita-Dey/Moody-website/issues/2) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+4. 🗣 Commented on [#22](https://github.com/Susmita-Dey/TextUtils/issues/22) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+5. 🗣 Commented on [#22](https://github.com/Susmita-Dey/TextUtils/issues/22) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+6. 🗣 Commented on [#7](https://github.com/Susmita-Dey/TextUtils/issues/7) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+7. 🗣 Commented on [#8](https://github.com/Susmita-Dey/TextUtils/issues/8) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+8. 🗣 Commented on [#10](https://github.com/Susmita-Dey/TextUtils/issues/10) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+9. 🗣 Commented on [#12](https://github.com/Susmita-Dey/TextUtils/issues/12) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+10. 🗣 Commented on [#13](https://github.com/Susmita-Dey/TextUtils/issues/13) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
 <!--END_SECTION:activity-->
 	
 </details>
