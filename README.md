@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#410](https://github.com/Susmita-Dey/Sukoon/issues/410) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🎉 Merged PR [#533](https://github.com/Susmita-Dey/Sukoon/pull/533) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🗣 Commented on [#468](https://github.com/Susmita-Dey/Sukoon/issues/468) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#6](https://github.com/Susmita-Dey/TextUtils/issues/6) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-5. 🗣 Commented on [#5](https://github.com/Susmita-Dey/TextUtils/issues/5) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-6. 🗣 Commented on [#5](https://github.com/Susmita-Dey/TextUtils/issues/5) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-7. 🎉 Merged PR [#532](https://github.com/Susmita-Dey/Sukoon/pull/532) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. 🗣 Commented on [#37](https://github.com/akshitagupta15june/PetMe/issues/37) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-9. ❗️ Closed issue [#504](https://github.com/Susmita-Dey/Sukoon/issues/504) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🎉 Merged PR [#530](https://github.com/Susmita-Dey/Sukoon/pull/530) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 💪 Opened PR [#84](https://github.com/FrancescoXX/free-Web3-resources/pull/84) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. ❌ Closed PR [#77](https://github.com/FrancescoXX/free-Web3-resources/pull/77) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#18](https://github.com/Susmita-Dey/TextUtils/issues/18) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+4. 🗣 Commented on [#21](https://github.com/Susmita-Dey/TextUtils/issues/21) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+5. 🗣 Commented on [#11](https://github.com/Susmita-Dey/TextUtils/issues/11) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+6. ❗️ Closed issue [#528](https://github.com/Susmita-Dey/Sukoon/issues/528) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. 🗣 Commented on [#25](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/25) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+8. 🗣 Commented on [#62](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/62) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+9. 🗣 Commented on [#45](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/45) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+10. 🎉 Merged PR [#36](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/36) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
 <!--END_SECTION:activity-->
 	
 </details>
