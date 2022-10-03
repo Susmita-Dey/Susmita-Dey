@@ -98,15 +98,15 @@ You can click the Preview link to take a look at your changes.
 	
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#31](https://github.com/Susmita-Dey/all-round-calculator/issues/31) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. ❗️ Closed issue [#49](https://github.com/Susmita-Dey/Moody-website/issues/49) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-3. 🎉 Merged PR [#46](https://github.com/Susmita-Dey/Moody-website/pull/46) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-4. ❗️ Closed issue [#48](https://github.com/Susmita-Dey/Moody-website/issues/48) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-5. 🎉 Merged PR [#45](https://github.com/Susmita-Dey/Moody-website/pull/45) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-6. ❗️ Closed issue [#47](https://github.com/Susmita-Dey/Moody-website/issues/47) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-7. 🎉 Merged PR [#51](https://github.com/Susmita-Dey/Moody-website/pull/51) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-8. 🗣 Commented on [#46](https://github.com/Susmita-Dey/Moody-website/issues/46) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-9. 🗣 Commented on [#45](https://github.com/Susmita-Dey/TextUtils/issues/45) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-10. ❗️ Closed issue [#46](https://github.com/Susmita-Dey/TextUtils/issues/46) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+2. ❗️ Opened issue [#78](https://github.com/AccessibleForAll/AccessibleWebDev/issues/78) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+3. 🗣 Commented on [#33](https://github.com/Susmita-Dey/Moody-website/issues/33) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+4. 🗣 Commented on [#39](https://github.com/Susmita-Dey/TextUtils/issues/39) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+5. 🗣 Commented on [#36](https://github.com/Susmita-Dey/Moody-website/issues/36) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+6. 🗣 Commented on [#25](https://github.com/Susmita-Dey/Moody-website/issues/25) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+7. 🗣 Commented on [#31](https://github.com/Susmita-Dey/all-round-calculator/issues/31) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+8. ❗️ Closed issue [#49](https://github.com/Susmita-Dey/Moody-website/issues/49) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+9. 🎉 Merged PR [#46](https://github.com/Susmita-Dey/Moody-website/pull/46) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+10. ❗️ Closed issue [#48](https://github.com/Susmita-Dey/Moody-website/issues/48) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
 <!--END_SECTION:activity-->
 	
 </details>
