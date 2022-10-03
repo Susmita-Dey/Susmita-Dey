@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1390](https://github.com/novuhq/novu/issues/1390) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 🗣 Commented on [#1386](https://github.com/novuhq/novu/issues/1386) in [novuhq/novu](https://github.com/novuhq/novu)
-3. 🗣 Commented on [#58](https://github.com/akshitagupta15june/PetMe/issues/58) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-4. ❗️ Opened issue [#77](https://github.com/AccessibleForAll/AccessibleWebDev/issues/77) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-5. ❗️ Closed issue [#52](https://github.com/Susmita-Dey/TextUtils/issues/52) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-6. 🗣 Commented on [#52](https://github.com/Susmita-Dey/TextUtils/issues/52) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-7. 🗣 Commented on [#34](https://github.com/Susmita-Dey/TextUtils/issues/34) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-8. 🗣 Commented on [#141](https://github.com/akshitagupta15june/PetMe/issues/141) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-9. 🗣 Commented on [#110](https://github.com/akshitagupta15june/PetMe/issues/110) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-10. 🗣 Commented on [#49](https://github.com/Susmita-Dey/TextUtils/issues/49) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+1. 🗣 Commented on [#40](https://github.com/Susmita-Dey/Moody-website/issues/40) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+2. 🗣 Commented on [#46](https://github.com/Susmita-Dey/Moody-website/issues/46) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+3. 🗣 Commented on [#45](https://github.com/Susmita-Dey/Moody-website/issues/45) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+4. ❗️ Closed issue [#41](https://github.com/Susmita-Dey/Moody-website/issues/41) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+5. 🗣 Commented on [#41](https://github.com/Susmita-Dey/Moody-website/issues/41) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+6. 🗣 Commented on [#45](https://github.com/Susmita-Dey/Moody-website/issues/45) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+7. 🗣 Commented on [#45](https://github.com/Susmita-Dey/Moody-website/issues/45) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+8. ❗️ Reopened issue [#7](https://github.com/Susmita-Dey/Moody-website/issues/7) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+9. ❗️ Closed issue [#47](https://github.com/Susmita-Dey/TextUtils/issues/47) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+10. 🗣 Commented on [#47](https://github.com/Susmita-Dey/TextUtils/issues/47) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
 <!--END_SECTION:activity-->
 	
 </details>
