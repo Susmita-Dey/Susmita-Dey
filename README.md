@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46](https://github.com/hack4bengal/hack4bengal.github.io/issues/46) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-2. 💪 Opened PR [#136](https://github.com/ravitandon90/ThreeHundredDaysOfCode-BE/pull/136) in [ravitandon90/ThreeHundredDaysOfCode-BE](https://github.com/ravitandon90/ThreeHundredDaysOfCode-BE)
-3. ❗️ Closed issue [#26](https://github.com/Susmita-Dey/Moody-website/issues/26) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-4. 🎉 Merged PR [#57](https://github.com/Susmita-Dey/Moody-website/pull/57) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-5. ❗️ Closed issue [#53](https://github.com/Susmita-Dey/TextUtils/issues/53) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-6. 🎉 Merged PR [#54](https://github.com/Susmita-Dey/TextUtils/pull/54) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-7. 🗣 Commented on [#31](https://github.com/Susmita-Dey/all-round-calculator/issues/31) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-8. ❗️ Opened issue [#78](https://github.com/AccessibleForAll/AccessibleWebDev/issues/78) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-9. 🗣 Commented on [#33](https://github.com/Susmita-Dey/Moody-website/issues/33) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-10. 🗣 Commented on [#39](https://github.com/Susmita-Dey/TextUtils/issues/39) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+1. 🗣 Commented on [#16](https://github.com/Susmita-Dey/Moody/issues/16) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+2. ❗️ Closed issue [#15](https://github.com/Susmita-Dey/Moody/issues/15) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+3. 🎉 Merged PR [#17](https://github.com/Susmita-Dey/Moody/pull/17) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+4. ❗️ Opened issue [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+5. ❗️ Opened issue [#46](https://github.com/hack4bengal/hack4bengal.github.io/issues/46) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+6. 💪 Opened PR [#136](https://github.com/ravitandon90/ThreeHundredDaysOfCode-BE/pull/136) in [ravitandon90/ThreeHundredDaysOfCode-BE](https://github.com/ravitandon90/ThreeHundredDaysOfCode-BE)
+7. ❗️ Closed issue [#26](https://github.com/Susmita-Dey/Moody-website/issues/26) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+8. 🎉 Merged PR [#57](https://github.com/Susmita-Dey/Moody-website/pull/57) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+9. ❗️ Closed issue [#53](https://github.com/Susmita-Dey/TextUtils/issues/53) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+10. 🎉 Merged PR [#54](https://github.com/Susmita-Dey/TextUtils/pull/54) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
 <!--END_SECTION:activity-->
 	
 </details>
