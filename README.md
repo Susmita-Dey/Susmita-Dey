@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1452](https://github.com/novuhq/novu/issues/1452) in [novuhq/novu](https://github.com/novuhq/novu)
-2. ❌ Closed PR [#63](https://github.com/Susmita-Dey/TextUtils/pull/63) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-3. 🗣 Commented on [#63](https://github.com/Susmita-Dey/TextUtils/issues/63) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-4. 🗣 Commented on [#110](https://github.com/akshitagupta15june/PetMe/issues/110) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-5. 🗣 Commented on [#16](https://github.com/Susmita-Dey/Moody/issues/16) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-6. ❗️ Closed issue [#15](https://github.com/Susmita-Dey/Moody/issues/15) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-7. 🎉 Merged PR [#17](https://github.com/Susmita-Dey/Moody/pull/17) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-8. ❗️ Opened issue [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-9. ❗️ Opened issue [#46](https://github.com/hack4bengal/hack4bengal.github.io/issues/46) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-10. 💪 Opened PR [#136](https://github.com/ravitandon90/ThreeHundredDaysOfCode-BE/pull/136) in [ravitandon90/ThreeHundredDaysOfCode-BE](https://github.com/ravitandon90/ThreeHundredDaysOfCode-BE)
+1. 🗣 Commented on [#166](https://github.com/akshitagupta15june/PetMe/issues/166) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+2. 🗣 Commented on [#178](https://github.com/akshitagupta15june/PetMe/issues/178) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+3. 🗣 Commented on [#77](https://github.com/Susmita-Dey/Moody-website/issues/77) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+4. 🗣 Commented on [#31](https://github.com/Susmita-Dey/Moody-website/issues/31) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+5. 🗣 Commented on [#166](https://github.com/akshitagupta15june/PetMe/issues/166) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+6. 🗣 Commented on [#22](https://github.com/Susmita-Dey/Moody/issues/22) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+7. 🗣 Commented on [#22](https://github.com/Susmita-Dey/Moody/issues/22) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+8. 🗣 Commented on [#67](https://github.com/Susmita-Dey/TextUtils/issues/67) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+9. 🗣 Commented on [#177](https://github.com/akshitagupta15june/PetMe/issues/177) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+10. 🗣 Commented on [#166](https://github.com/akshitagupta15june/PetMe/issues/166) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
 <!--END_SECTION:activity-->
 	
 </details>
