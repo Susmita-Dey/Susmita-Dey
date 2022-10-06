@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1488](https://github.com/novuhq/novu/issues/1488) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 💪 Opened PR [#1489](https://github.com/novuhq/novu/pull/1489) in [novuhq/novu](https://github.com/novuhq/novu)
-3. ❗️ Opened issue [#1488](https://github.com/novuhq/novu/issues/1488) in [novuhq/novu](https://github.com/novuhq/novu)
-4. 🗣 Commented on [#1454](https://github.com/novuhq/novu/issues/1454) in [novuhq/novu](https://github.com/novuhq/novu)
-5. 💪 Opened PR [#1487](https://github.com/novuhq/novu/pull/1487) in [novuhq/novu](https://github.com/novuhq/novu)
-6. 🗣 Commented on [#166](https://github.com/akshitagupta15june/PetMe/issues/166) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-7. 🗣 Commented on [#178](https://github.com/akshitagupta15june/PetMe/issues/178) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-8. 🗣 Commented on [#77](https://github.com/Susmita-Dey/Moody-website/issues/77) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-9. 🗣 Commented on [#31](https://github.com/Susmita-Dey/Moody-website/issues/31) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-10. 🗣 Commented on [#166](https://github.com/akshitagupta15june/PetMe/issues/166) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+1. 🗣 Commented on [#18](https://github.com/Susmita-Dey/Moody/issues/18) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+2. 🗣 Commented on [#35](https://github.com/Susmita-Dey/all-round-calculator/issues/35) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+3. 🗣 Commented on [#35](https://github.com/Susmita-Dey/all-round-calculator/issues/35) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+4. 🗣 Commented on [#34](https://github.com/Susmita-Dey/all-round-calculator/issues/34) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+5. ❗️ Closed issue [#23](https://github.com/Susmita-Dey/all-round-calculator/issues/23) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. 🎉 Merged PR [#36](https://github.com/Susmita-Dey/all-round-calculator/pull/36) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. 🗣 Commented on [#33](https://github.com/Susmita-Dey/all-round-calculator/issues/33) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+8. ❗️ Opened issue [#1494](https://github.com/novuhq/novu/issues/1494) in [novuhq/novu](https://github.com/novuhq/novu)
+9. ❗️ Opened issue [#1491](https://github.com/novuhq/novu/issues/1491) in [novuhq/novu](https://github.com/novuhq/novu)
+10. 🗣 Commented on [#1488](https://github.com/novuhq/novu/issues/1488) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 	
 </details>
