@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#70](https://github.com/Susmita-Dey/TextUtils/issues/70) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-2. 🗣 Commented on [#70](https://github.com/Susmita-Dey/TextUtils/issues/70) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-3. 🗣 Commented on [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-4. 🗣 Commented on [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-5. 💪 Opened PR [#634](https://github.com/reactplay/react-play/pull/634) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 💪 Opened PR [#633](https://github.com/reactplay/react-play/pull/633) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 🗣 Commented on [#64](https://github.com/hack4bengal/hack4bengal.github.io/issues/64) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-8. 🗣 Commented on [#64](https://github.com/hack4bengal/hack4bengal.github.io/issues/64) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-9. ❌ Reopened PR [#64](https://github.com/hack4bengal/hack4bengal.github.io/pull/64) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-10. ❌ Closed PR [#64](https://github.com/hack4bengal/hack4bengal.github.io/pull/64) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+1. 🗣 Commented on [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+2. ❗️ Closed issue [#46](https://github.com/hack4bengal/hack4bengal.github.io/issues/46) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+3. 💪 Opened PR [#67](https://github.com/hack4bengal/hack4bengal.github.io/pull/67) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+4. ❗️ Closed issue [#70](https://github.com/Susmita-Dey/TextUtils/issues/70) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+5. 🗣 Commented on [#70](https://github.com/Susmita-Dey/TextUtils/issues/70) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+6. 🗣 Commented on [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+7. 🗣 Commented on [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+8. 💪 Opened PR [#634](https://github.com/reactplay/react-play/pull/634) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 💪 Opened PR [#633](https://github.com/reactplay/react-play/pull/633) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 🗣 Commented on [#64](https://github.com/hack4bengal/hack4bengal.github.io/issues/64) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
 <!--END_SECTION:activity-->
 	
 </details>
