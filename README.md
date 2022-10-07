@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1021](https://github.com/github/india/pull/1021) in [github/india](https://github.com/github/india)
-2. 🗣 Commented on [#1494](https://github.com/novuhq/novu/issues/1494) in [novuhq/novu](https://github.com/novuhq/novu)
-3. 🗣 Commented on [#203](https://github.com/akshitagupta15june/PetMe/issues/203) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-4. 💪 Opened PR [#4](https://github.com/FrancescoXX/4c-projects/pull/4) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
-5. 🗣 Commented on [#591](https://github.com/reactplay/react-play/issues/591) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#1489](https://github.com/novuhq/novu/issues/1489) in [novuhq/novu](https://github.com/novuhq/novu)
-7. ❗️ Closed issue [#33](https://github.com/Susmita-Dey/all-round-calculator/issues/33) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-8. 🎉 Merged PR [#35](https://github.com/Susmita-Dey/all-round-calculator/pull/35) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-9. 🗣 Commented on [#58](https://github.com/Susmita-Dey/TextUtils/issues/58) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-10. ❗️ Closed issue [#50](https://github.com/Susmita-Dey/Moody-website/issues/50) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+1. 🗣 Commented on [#62](https://github.com/hack4bengal/hack4bengal.github.io/issues/62) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+2. ❌ Reopened PR [#62](https://github.com/hack4bengal/hack4bengal.github.io/pull/62) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+3. ❌ Closed PR [#62](https://github.com/hack4bengal/hack4bengal.github.io/pull/62) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+4. 💪 Opened PR [#62](https://github.com/hack4bengal/hack4bengal.github.io/pull/62) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+5. 💪 Opened PR [#1021](https://github.com/github/india/pull/1021) in [github/india](https://github.com/github/india)
+6. 🗣 Commented on [#1494](https://github.com/novuhq/novu/issues/1494) in [novuhq/novu](https://github.com/novuhq/novu)
+7. 🗣 Commented on [#203](https://github.com/akshitagupta15june/PetMe/issues/203) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+8. 💪 Opened PR [#4](https://github.com/FrancescoXX/4c-projects/pull/4) in [FrancescoXX/4c-projects](https://github.com/FrancescoXX/4c-projects)
+9. 🗣 Commented on [#591](https://github.com/reactplay/react-play/issues/591) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 🗣 Commented on [#1489](https://github.com/novuhq/novu/issues/1489) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 	
 </details>
