@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/Susmita-Dey/TextUtils/pull/75) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-2. ❗️ Closed issue [#65](https://github.com/Susmita-Dey/TextUtils/issues/65) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-3. 🗣 Commented on [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-4. 🗣 Commented on [#1555](https://github.com/novuhq/novu/issues/1555) in [novuhq/novu](https://github.com/novuhq/novu)
-5. ❗️ Closed issue [#52](https://github.com/Susmita-Dey/Moody-website/issues/52) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-6. 🎉 Merged PR [#78](https://github.com/Susmita-Dey/Moody-website/pull/78) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-7. 🗣 Commented on [#94](https://github.com/Susmita-Dey/Moody-website/issues/94) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-8. ❌ Closed PR [#69](https://github.com/Susmita-Dey/TextUtils/pull/69) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-9. 🗣 Commented on [#69](https://github.com/Susmita-Dey/TextUtils/issues/69) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-10. 🗣 Commented on [#91](https://github.com/Susmita-Dey/Moody-website/issues/91) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+1. 🗣 Commented on [#80](https://github.com/Susmita-Dey/TextUtils/issues/80) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+2. 💪 Opened PR [#3465](https://github.com/up-for-grabs/up-for-grabs.net/pull/3465) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
+3. 🎉 Merged PR [#75](https://github.com/Susmita-Dey/TextUtils/pull/75) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+4. ❗️ Closed issue [#65](https://github.com/Susmita-Dey/TextUtils/issues/65) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+5. 🗣 Commented on [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+6. 🗣 Commented on [#1555](https://github.com/novuhq/novu/issues/1555) in [novuhq/novu](https://github.com/novuhq/novu)
+7. ❗️ Closed issue [#52](https://github.com/Susmita-Dey/Moody-website/issues/52) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+8. 🎉 Merged PR [#78](https://github.com/Susmita-Dey/Moody-website/pull/78) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+9. 🗣 Commented on [#94](https://github.com/Susmita-Dey/Moody-website/issues/94) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+10. ❌ Closed PR [#69](https://github.com/Susmita-Dey/TextUtils/pull/69) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
 <!--END_SECTION:activity-->
 	
 </details>
