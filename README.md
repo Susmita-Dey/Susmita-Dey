@@ -98,15 +98,15 @@ You can click the Preview link to take a look at your changes.
 	
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#106](https://github.com/Susmita-Dey/Moody-website/issues/106) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-2. ❗️ Opened issue [#4344](https://github.com/appwrite/appwrite/issues/4344) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-3. ❗️ Closed issue [#26](https://github.com/Susmita-Dey/Moody/issues/26) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-4. 🎉 Merged PR [#27](https://github.com/Susmita-Dey/Moody/pull/27) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-5. ❗️ Closed issue [#92](https://github.com/Susmita-Dey/Moody-website/issues/92) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-6. 🎉 Merged PR [#107](https://github.com/Susmita-Dey/Moody-website/pull/107) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-7. 🗣 Commented on [#107](https://github.com/Susmita-Dey/Moody-website/issues/107) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-8. 🗣 Commented on [#18](https://github.com/Showwcase/hacktoberfest/issues/18) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
-9. 💪 Opened PR [#19](https://github.com/Showwcase/hacktoberfest/pull/19) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
-10. 🗣 Commented on [#18](https://github.com/Showwcase/hacktoberfest/issues/18) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+2. 🗣 Commented on [#115](https://github.com/Susmita-Dey/Moody-website/issues/115) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+3. 🗣 Commented on [#19](https://github.com/Showwcase/hacktoberfest/issues/19) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+4. 🗣 Commented on [#19](https://github.com/Showwcase/hacktoberfest/issues/19) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+5. ❌ Closed PR [#19](https://github.com/Showwcase/hacktoberfest/pull/19) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+6. 🗣 Commented on [#19](https://github.com/Showwcase/hacktoberfest/issues/19) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+7. 🗣 Commented on [#4344](https://github.com/appwrite/appwrite/issues/4344) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+8. 🗣 Commented on [#106](https://github.com/Susmita-Dey/Moody-website/issues/106) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+9. ❗️ Opened issue [#4344](https://github.com/appwrite/appwrite/issues/4344) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+10. ❗️ Closed issue [#26](https://github.com/Susmita-Dey/Moody/issues/26) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
 <!--END_SECTION:activity-->
 	
 </details>
