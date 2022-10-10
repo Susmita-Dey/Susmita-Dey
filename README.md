@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Susmita Dey</h1> -->
-<h3>I'm a college student and a Web developer.</h3>
+<!-- <h3>I'm a college student and a Web developer.</h3> -->
 
-- 🎓 I am a **sophomore**, pursuing Bachelors in **Computer Science** at **Kalyani Mahavidyalaya**. <br>
+- 🎓 I am an **undergrad college student**, pursuing Bachelors in **Computer Science** at **Kalyani Mahavidyalaya**. <br>
 - 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
-- 💬 I would love to talk about internship opportunities starting January 2022.
+- 💬 I would love to talk about internship opportunities.
 - 💞️ I’m looking to collaborate on any open source platform.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **DevOps**. A *beginner* contributor at **Open Source**. <br>
+- 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **building my portfolio**.<br>
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - 📫 You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail](mailto:susmitadey475@gmail.com).
 
