@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/dailydotdev/memetoberfest/pull/68) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-2. 🗣 Commented on [#535](https://github.com/Susmita-Dey/Sukoon/issues/535) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. ❌ Closed PR [#241](https://github.com/Susmita-Dey/Sukoon/pull/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#241](https://github.com/Susmita-Dey/Sukoon/issues/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#121](https://github.com/Susmita-Dey/Moody-website/issues/121) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-6. ❗️ Closed issue [#83](https://github.com/Susmita-Dey/TextUtils/issues/83) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-7. 🎉 Merged PR [#85](https://github.com/Susmita-Dey/TextUtils/pull/85) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-8. ❗️ Closed issue [#116](https://github.com/Susmita-Dey/Moody-website/issues/116) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-9. 🎉 Merged PR [#120](https://github.com/Susmita-Dey/Moody-website/pull/120) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-10. 🗣 Commented on [#1555](https://github.com/novuhq/novu/issues/1555) in [novuhq/novu](https://github.com/novuhq/novu)
+1. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/dApp/issues/1) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+2. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/dApp/pull/2) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+3. 💪 Opened PR [#2](https://github.com/Susmita-Dey/dApp/pull/2) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+4. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/dApp/issues/1) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+5. 💪 Opened PR [#68](https://github.com/dailydotdev/memetoberfest/pull/68) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+6. 🗣 Commented on [#535](https://github.com/Susmita-Dey/Sukoon/issues/535) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+7. ❌ Closed PR [#241](https://github.com/Susmita-Dey/Sukoon/pull/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+8. 🗣 Commented on [#241](https://github.com/Susmita-Dey/Sukoon/issues/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. 🗣 Commented on [#121](https://github.com/Susmita-Dey/Moody-website/issues/121) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+10. ❗️ Closed issue [#83](https://github.com/Susmita-Dey/TextUtils/issues/83) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
 <!--END_SECTION:activity-->
 	
 </details>
