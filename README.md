@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/dApp/issues/1) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-2. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/dApp/pull/2) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-3. 💪 Opened PR [#2](https://github.com/Susmita-Dey/dApp/pull/2) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-4. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/dApp/issues/1) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-5. 💪 Opened PR [#68](https://github.com/dailydotdev/memetoberfest/pull/68) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-6. 🗣 Commented on [#535](https://github.com/Susmita-Dey/Sukoon/issues/535) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-7. ❌ Closed PR [#241](https://github.com/Susmita-Dey/Sukoon/pull/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-8. 🗣 Commented on [#241](https://github.com/Susmita-Dey/Sukoon/issues/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. 🗣 Commented on [#121](https://github.com/Susmita-Dey/Moody-website/issues/121) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-10. ❗️ Closed issue [#83](https://github.com/Susmita-Dey/TextUtils/issues/83) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+1. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/dApp/issues/3) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+2. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/dApp/pull/4) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+3. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/dApp/issues/1) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+4. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/dApp/pull/2) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+5. 💪 Opened PR [#2](https://github.com/Susmita-Dey/dApp/pull/2) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+6. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/dApp/issues/1) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
+7. 💪 Opened PR [#68](https://github.com/dailydotdev/memetoberfest/pull/68) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+8. 🗣 Commented on [#535](https://github.com/Susmita-Dey/Sukoon/issues/535) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+9. ❌ Closed PR [#241](https://github.com/Susmita-Dey/Sukoon/pull/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+10. 🗣 Commented on [#241](https://github.com/Susmita-Dey/Sukoon/issues/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 <!--END_SECTION:activity-->
 	
 </details>
