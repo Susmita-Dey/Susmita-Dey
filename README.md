@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#86](https://github.com/hack4bengal/hack4bengal.github.io/issues/86) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-2. 🎉 Merged PR [#92](https://github.com/hack4bengal/hack4bengal.github.io/pull/92) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-3. ❗️ Closed issue [#119](https://github.com/Susmita-Dey/Moody-website/issues/119) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-4. 🗣 Commented on [#41](https://github.com/Susmita-Dey/all-round-calculator/issues/41) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-5. ❗️ Closed issue [#39](https://github.com/Susmita-Dey/all-round-calculator/issues/39) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-6. 🎉 Merged PR [#40](https://github.com/Susmita-Dey/all-round-calculator/pull/40) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-7. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Moody-website/issues/7) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-8. 🎉 Merged PR [#121](https://github.com/Susmita-Dey/Moody-website/pull/121) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-9. 🗣 Commented on [#39](https://github.com/Susmita-Dey/Moody-website/issues/39) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-10. 🗣 Commented on [#123](https://github.com/Susmita-Dey/Moody-website/issues/123) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+1. 🗣 Commented on [#124](https://github.com/Susmita-Dey/Moody-website/issues/124) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+2. ❗️ Closed issue [#84](https://github.com/Susmita-Dey/TextUtils/issues/84) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+3. 🎉 Merged PR [#86](https://github.com/Susmita-Dey/TextUtils/pull/86) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+4. 🗣 Commented on [#86](https://github.com/Susmita-Dey/TextUtils/issues/86) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+5. ❗️ Closed issue [#86](https://github.com/hack4bengal/hack4bengal.github.io/issues/86) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+6. 🎉 Merged PR [#92](https://github.com/hack4bengal/hack4bengal.github.io/pull/92) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+7. ❗️ Closed issue [#119](https://github.com/Susmita-Dey/Moody-website/issues/119) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+8. 🗣 Commented on [#41](https://github.com/Susmita-Dey/all-round-calculator/issues/41) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+9. ❗️ Closed issue [#39](https://github.com/Susmita-Dey/all-round-calculator/issues/39) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+10. 🎉 Merged PR [#40](https://github.com/Susmita-Dey/all-round-calculator/pull/40) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
 <!--END_SECTION:activity-->
 	
 </details>
