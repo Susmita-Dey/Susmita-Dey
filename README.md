@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/dApp/issues/3) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-2. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/dApp/pull/4) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-3. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/dApp/issues/1) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-4. 🎉 Merged PR [#2](https://github.com/Susmita-Dey/dApp/pull/2) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-5. 💪 Opened PR [#2](https://github.com/Susmita-Dey/dApp/pull/2) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-6. ❗️ Opened issue [#1](https://github.com/Susmita-Dey/dApp/issues/1) in [Susmita-Dey/dApp](https://github.com/Susmita-Dey/dApp)
-7. 💪 Opened PR [#68](https://github.com/dailydotdev/memetoberfest/pull/68) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-8. 🗣 Commented on [#535](https://github.com/Susmita-Dey/Sukoon/issues/535) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-9. ❌ Closed PR [#241](https://github.com/Susmita-Dey/Sukoon/pull/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-10. 🗣 Commented on [#241](https://github.com/Susmita-Dey/Sukoon/issues/241) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. ❗️ Closed issue [#86](https://github.com/hack4bengal/hack4bengal.github.io/issues/86) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+2. 🎉 Merged PR [#92](https://github.com/hack4bengal/hack4bengal.github.io/pull/92) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+3. ❗️ Closed issue [#119](https://github.com/Susmita-Dey/Moody-website/issues/119) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+4. 🗣 Commented on [#41](https://github.com/Susmita-Dey/all-round-calculator/issues/41) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+5. ❗️ Closed issue [#39](https://github.com/Susmita-Dey/all-round-calculator/issues/39) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+6. 🎉 Merged PR [#40](https://github.com/Susmita-Dey/all-round-calculator/pull/40) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+7. ❗️ Closed issue [#7](https://github.com/Susmita-Dey/Moody-website/issues/7) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+8. 🎉 Merged PR [#121](https://github.com/Susmita-Dey/Moody-website/pull/121) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+9. 🗣 Commented on [#39](https://github.com/Susmita-Dey/Moody-website/issues/39) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+10. 🗣 Commented on [#123](https://github.com/Susmita-Dey/Moody-website/issues/123) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
 <!--END_SECTION:activity-->
 	
 </details>
