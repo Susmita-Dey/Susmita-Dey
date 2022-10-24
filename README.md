@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#132](https://github.com/opensourcecommunity-hub/join-the-community/issues/132) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-2. 🗣 Commented on [#132](https://github.com/opensourcecommunity-hub/join-the-community/issues/132) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 🗣 Commented on [#133](https://github.com/opensourcecommunity-hub/join-the-community/issues/133) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-4. ❗️ Closed issue [#133](https://github.com/opensourcecommunity-hub/join-the-community/issues/133) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-5. ❗️ Closed issue [#134](https://github.com/opensourcecommunity-hub/join-the-community/issues/134) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-6. 🗣 Commented on [#134](https://github.com/opensourcecommunity-hub/join-the-community/issues/134) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#136](https://github.com/opensourcecommunity-hub/join-the-community/issues/136) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#136](https://github.com/opensourcecommunity-hub/join-the-community/issues/136) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. ❗️ Closed issue [#137](https://github.com/opensourcecommunity-hub/join-the-community/issues/137) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. 🗣 Commented on [#137](https://github.com/opensourcecommunity-hub/join-the-community/issues/137) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. ❗️ Closed issue [#118](https://github.com/opensourcecommunity-hub/join-the-community/issues/118) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. ❗️ Closed issue [#120](https://github.com/opensourcecommunity-hub/join-the-community/issues/120) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+3. 🗣 Commented on [#120](https://github.com/opensourcecommunity-hub/join-the-community/issues/120) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. 🗣 Commented on [#119](https://github.com/opensourcecommunity-hub/join-the-community/issues/119) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+5. ❗️ Closed issue [#121](https://github.com/opensourcecommunity-hub/join-the-community/issues/121) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+6. 🗣 Commented on [#121](https://github.com/opensourcecommunity-hub/join-the-community/issues/121) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+7. ❗️ Closed issue [#123](https://github.com/opensourcecommunity-hub/join-the-community/issues/123) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+8. 🗣 Commented on [#123](https://github.com/opensourcecommunity-hub/join-the-community/issues/123) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+9. ❗️ Closed issue [#124](https://github.com/opensourcecommunity-hub/join-the-community/issues/124) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+10. ❗️ Closed issue [#125](https://github.com/opensourcecommunity-hub/join-the-community/issues/125) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
