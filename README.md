@@ -97,16 +97,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Moody-website/issues/58) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-2. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Susmita-Dey.github.io/issues/3) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
-3. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Susmita-Dey.github.io/issues/1) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
-4. ❗️ Closed issue [#99](https://github.com/Susmita-Dey/TextUtils/issues/99) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-5. 🎉 Merged PR [#104](https://github.com/Susmita-Dey/TextUtils/pull/104) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-6. ❗️ Closed issue [#118](https://github.com/opensourcecommunity-hub/join-the-community/issues/118) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-7. ❗️ Closed issue [#120](https://github.com/opensourcecommunity-hub/join-the-community/issues/120) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-8. 🗣 Commented on [#120](https://github.com/opensourcecommunity-hub/join-the-community/issues/120) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-9. 🗣 Commented on [#119](https://github.com/opensourcecommunity-hub/join-the-community/issues/119) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-10. ❗️ Closed issue [#121](https://github.com/opensourcecommunity-hub/join-the-community/issues/121) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+1. ❗️ Closed issue [#97](https://github.com/Susmita-Dey/TextUtils/issues/97) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+2. 🎉 Merged PR [#98](https://github.com/Susmita-Dey/TextUtils/pull/98) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+3. 🎉 Merged PR [#561](https://github.com/Susmita-Dey/Sukoon/pull/561) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. ❗️ Closed issue [#498](https://github.com/Susmita-Dey/Sukoon/issues/498) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Moody-website/issues/58) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+6. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Susmita-Dey.github.io/issues/3) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
+7. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Susmita-Dey.github.io/issues/1) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
+8. ❗️ Closed issue [#99](https://github.com/Susmita-Dey/TextUtils/issues/99) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+9. 🎉 Merged PR [#104](https://github.com/Susmita-Dey/TextUtils/pull/104) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+10. ❗️ Closed issue [#118](https://github.com/opensourcecommunity-hub/join-the-community/issues/118) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
 <!--END_SECTION:activity-->
 	
 </details>
