@@ -130,9 +130,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
 
----
+<!-- --- -->
 
-[![@susmitadey's Holopin board](https://holopin.io/api/user/board?user=susmitadey)](https://www.holopin.io/@susmitadey)
+[![@susmitadey's Holopin board](https://holopin.me/susmitadey)](https://holopin.io/@susmitadey)
 
 
 <!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi) -->
