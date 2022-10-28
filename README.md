@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <!-- ## Recent GitHub Activity -->
-<details>
+<!-- <details>
 	<summary> My Recent GitHub Activity</summary>
 <br>
 	
@@ -111,7 +111,7 @@ You can click the Preview link to take a look at your changes.
 	
 </details>
 
----
+--- -->
 
 ## Contribution Graph 📊
 
@@ -129,7 +129,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://app.daily.dev/SusmitaDey"><img src="https://api.daily.dev/devcards/3741cc8176ce4c5a9c3b8d5bcb2e2f26.png?r=d6l" width="200" alt="Susmita Dey's Dev Card"/></a>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
-<!-- 
+
 ---
 
-[![@susmitadey's Holopin board](https://holopin.io/api/user/board?user=susmitadey)](https://holopin.io/@susmitadey) -->
+[![@susmitadey's Holopin board](https://holopin.io/api/user/board?user=susmitadey)](https://www.holopin.io/@susmitadey)
+
+
+<!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi) -->
