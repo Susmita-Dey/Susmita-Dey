@@ -1,26 +1,7 @@
-<!---
-Susmita-Dey/Susmita-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!-- <h3 align="center">
-	<a href="https://susmita-dey.vercel.app/">Hi, I'm Susmita Dey!</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/Susmita-Dey/Susmita-Dey/"> </a> -->
-
 <div align="center">
-	<img src="" alt="banner-img" />
+	<img src="images/github-profile-banner.png" alt="banner-img" />
 </div>
 <br/>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=640&height=45"></a>
-</p> -->
-<!-- <a href="https://app.daily.dev/SusmitaDey"><img src="https://api.daily.dev/devcards/3741cc8176ce4c5a9c3b8d5bcb2e2f26.png?r=d6l" width="200" alt="Susmita Dey's Dev Card"/></a> -->
-<!-- --- -->
-<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Susmita Dey</h1> -->
-<!-- <h3>I'm a college student and a Web developer.</h3> -->
 
 - 🎓 I am an **undergrad college student**, pursuing Bachelors in **Computer Science** at **Kalyani Mahavidyalaya**. <br>
 - 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
@@ -71,12 +52,13 @@ YOUTUBE-VIDEOS-LIST:START
 - [Hactoberfest Event Announcement: Demystifying Hacktoberfest](https://www.youtube.com/watch?v=OKvO5M-h1bY)
 - [[LIVESTREAM] Review Your GitHub Profiles](https://www.youtube.com/watch?v=oK0ZVAkXOSw)
 - [Google Cloud Community Day Kolkata - My first offline tech event @GDG Cloud Kolkata #shorts](https://www.youtube.com/watch?v=pDBmMQW0Z8g)
-- [First AMA - Ask your questions live](https://www.youtube.com/watch?v=UQVTpn7jDNo)
+- [First AMA - Ask your questions live](https://www.youtube.com/watch?v=UQVTpn7jDNo) 
 YOUTUBE-VIDEOS-LIST:END
 
----
+--- -->
 
 ### 📙 Recent Blogs on Hashnode
+
 BLOG-POST-LIST:START
 - [A complete guide for Markdown files](https://susmitadey.hashnode.dev/a-complete-guide-for-markdown-files)
 - [Confidential : TryHackMe Room WalkThrough](https://susmitadey.hashnode.dev/confidential-tryhackme-room-walkthrough)
@@ -85,7 +67,7 @@ BLOG-POST-LIST:START
 - [Getting Started With React.js](https://susmitadey.hashnode.dev/getting-started-with-reactjs)
 BLOG-POST-LIST:END
 
---- -->
+---
 
 ## My GitHub Stats 📈
 <p align="center">
