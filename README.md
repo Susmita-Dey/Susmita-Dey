@@ -38,6 +38,7 @@ You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
+<img alt="Solidity" src="https://img.shields.io/badge/solidity-%23fca9ae.svg?style=for-the-badge&logo=solidity&logoColor=000325"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
 <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23ffd2ce.svg?style=for-the-badge&logo=express&logoColor=140200"/>
@@ -78,26 +79,20 @@ Before deep diving into the code, you should b... </p> <br/> <br/>
 <a href="https://susmitadey.hashnode.dev//10-best-free-portfolio-websites-for-creating-an-impressive-portfolio" title="10 Best Free Portfolio Websites for Creating an Impressive Portfolio"><strong>10 Best Free Portfolio Websites for Creating an Impressive Portfolio</strong></a>
 <br/> Hello everyone. In this article we'll come across some curated list of no-code tools to build your own personal portfolio website without coding.
 
-Sometimes coding might be boring if you're feeling lazy or there might be cases that you're not from a ... </p> <br/> <br/>
+Sometimes coding might be boring if you're feeling lazy or there might be cases that you're not from a ... </p>
 <!-- HASHNODE_BLOG:END -->
 
-
----
+<br/> <br/><br/>
 
 ## My GitHub Stats 📈
 <p align="center">
 <a href="https://github.com/Susmita-Dey">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Susmita-Dey&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Susmita-Dey&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
 </a>
 </p>
-
----
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
 
-[![@susmitadey's Holopin board](https://holopin.me/susmitadey)](https://holopin.io/@susmitadey)
-
-
-<!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi) -->
+<!-- [![@susmitadey's Holopin board](https://holopin.me/susmitadey)](https://holopin.io/@susmitadey) -->
