@@ -64,13 +64,12 @@ YOUTUBE-VIDEOS-LIST:END
 
 ### 📙 Recent Blogs on Hashnode
 
-BLOG-POST-LIST:START
-- [A complete guide for Markdown files](https://susmitadey.hashnode.dev/a-complete-guide-for-markdown-files)
-- [Confidential : TryHackMe Room WalkThrough](https://susmitadey.hashnode.dev/confidential-tryhackme-room-walkthrough)
-- [Introductory Networking : TryHackMe Room Walkthrough](https://susmitadey.hashnode.dev/introductory-networking-tryhackme-room-walkthrough)
-- [My plans for 2023 Hackathon Season](https://susmitadey.hashnode.dev/my-plans-for-2023-hackathon-season)
-- [Getting Started With React.js](https://susmitadey.hashnode.dev/getting-started-with-reactjs)
-BLOG-POST-LIST:END
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+
+</p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
+
 
 ---
 
