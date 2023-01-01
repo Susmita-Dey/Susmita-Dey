@@ -1,15 +1,20 @@
 <div align="center">
-	<img src="images/github-profile-banner.png" alt="banner-img" />
+	<a href="http://susmita-dey.vercel.app/" target="_blank">
+		<img src="images/github-profile-banner.png" alt="banner-img" height="50%" width="80%" />
+	</a>
 </div>
 <br/>
 
-- 🎓 I am an **undergrad college student**, pursuing Bachelors in **Computer Science** at **Kalyani Mahavidyalaya**. <br>
-- 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
-- 💬 I would love to talk about internship opportunities.
-- 💞️ I’m looking to collaborate on any open source platform.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **building my [portfolio](https://susmita-dey.vercel.app/)**.<br>
-- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
-- 📫 You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail](mailto:susmitadey475@gmail.com).
+<div align="center">
+
+I'm a **fullstack web developer, freelancer and working to be a devrel !** 
+<br>
+I'm in love with Opensource, Communties and also am building my **[Opensource side projects](https://github.com/Susmita-Dey?tab=repositories)**. I am up for freelancing projects, mentorships and workshops.
+
+**If you need a webdev, hire me ➡ [Portfolio](https://tamal.vercel.app/)**
+
+You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail](mailto:susmitadey475@gmail.com).
+</div>
 
 <!-- ---
 <h2>📫 How to reach me:</h2> <br>
@@ -78,46 +83,9 @@ BLOG-POST-LIST:END
 </p>
 
 ---
-<!-- ## Recent GitHub Activity -->
-<!-- <details>
-	<summary> My Recent GitHub Activity</summary>
-<br>
-	
-START_SECTION:activity
-1. 🎉 Merged PR [#63](https://github.com/Susmita-Dey/all-round-calculator/pull/63) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. 🎉 Merged PR [#62](https://github.com/Susmita-Dey/all-round-calculator/pull/62) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. 🎉 Merged PR [#59](https://github.com/Susmita-Dey/all-round-calculator/pull/59) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-4. 🎉 Merged PR [#31](https://github.com/Susmita-Dey/Moody/pull/31) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-5. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Susmita-Dey.github.io/issues/1) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
-6. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/Susmita-Dey.github.io/pull/4) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
-7. 🗣 Commented on [#4](https://github.com/Susmita-Dey/Susmita-Dey.github.io/issues/4) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
-8. 🗣 Commented on [#4](https://github.com/Susmita-Dey/Susmita-Dey.github.io/issues/4) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
-9. 🎉 Merged PR [#3](https://github.com/Susmita-Dey/Susmita-Dey.github.io/pull/3) in [Susmita-Dey/Susmita-Dey.github.io](https://github.com/Susmita-Dey/Susmita-Dey.github.io)
-10. ❗️ Closed issue [#542](https://github.com/Susmita-Dey/Sukoon/issues/542) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-END_SECTION:activity
-	
-</details>
 
---- -->
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
-## Contribution Graph 📊
-
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=chartreuse-dark"
-     />
-
----
-<!-- <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
- -->
-
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
-
-<!-- --- -->
 
 [![@susmitadey's Holopin board](https://holopin.me/susmitadey)](https://holopin.io/@susmitadey)
 
