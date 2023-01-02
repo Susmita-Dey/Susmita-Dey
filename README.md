@@ -79,7 +79,7 @@ Before deep diving into the code, you should b... </p> <br/> <br/>
 <a href="https://susmitadey.hashnode.dev//10-best-free-portfolio-websites-for-creating-an-impressive-portfolio" title="10 Best Free Portfolio Websites for Creating an Impressive Portfolio"><strong>10 Best Free Portfolio Websites for Creating an Impressive Portfolio</strong></a>
 <br/> Hello everyone. In this article we'll come across some curated list of no-code tools to build your own personal portfolio website without coding.
 
-Sometimes coding might be boring if you're feeling lazy or there might be cases that you're not from a ... </p>
+Sometimes coding might be boring if you're feeling lazy or there might be cases that you're not from a ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <br/> <br/><br/>
