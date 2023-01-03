@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="http://susmita-dey.vercel.app/" target="_blank">
-		<img src="images/github-profile-banner.png" alt="banner-img" height="50%" width="80%" />
+		<img src="images/github-profile-banner.png" alt="banner-img" height="50%" width="90%" />
 	</a>
 </div>
 <br/>
@@ -11,7 +11,7 @@ I'm a **fullstack web developer, freelancer and working to be a devrel !**
 <br>
 I'm in love with Opensource, Communties and also am building my **[Opensource side projects](https://github.com/Susmita-Dey?tab=repositories)**. I am up for freelancing projects, mentorships and workshops.
 
-**If you need a webdev, hire me ➡ [Portfolio](https://tamal.vercel.app/)**
+**If you need a webdev, hire me ➡ [Portfolio](https://susmita-dey.vercel.app/)**
 
 You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail](mailto:susmitadey475@gmail.com).
 </div>
