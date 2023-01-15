@@ -87,8 +87,8 @@ Sometimes coding might be boring if you're feeling lazy or there might be cases 
 ## My GitHub Stats 📈
 <p align="center">
 <a href="https://github.com/Susmita-Dey">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Susmita-Dey&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" /> -->
+  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Susmita-Dey&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
 </a>
 </p>
 
