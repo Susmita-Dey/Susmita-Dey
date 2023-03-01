@@ -67,8 +67,8 @@ YOUTUBE-VIDEOS-LIST:END
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://susmitadey.hashnode.dev//build-your-own-qr-code-using-python" title="Build Your Own QR Code Using Python 🐍"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/ENtCxRV1Boo/upload/v1669815089851/OaKpj7baK.jpeg" alt="Build Your Own QR Code Using Python 🐍" width="250px" align="left" /></a>
-<a href="https://susmitadey.hashnode.dev//build-your-own-qr-code-using-python" title="Build Your Own QR Code Using Python 🐍"><strong>Build Your Own QR Code Using Python 🐍</strong></a>
+<a href="https://susmitadey.hashnode.dev//make-your-own-qr-code-easily-with-pythonon" title="Make Your Own QR Code Easily with Pythonon 🐍"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/ENtCxRV1Boo/upload/v1669815089851/OaKpj7baK.jpeg" alt="Make Your Own QR Code Easily with Pythonon 🐍" width="250px" align="left" /></a>
+<a href="https://susmitadey.hashnode.dev//make-your-own-qr-code-easily-with-pythonon" title="Make Your Own QR Code Easily with Pythonon 🐍"><strong>Make Your Own QR Code Easily with Pythonon 🐍</strong></a>
 <br/> Hello everyone 👋 I'm back with another blog for you all which will help you to generate your QR code in just a few simple steps by using Python.
 So, without further ado let's get started.
 
