@@ -67,18 +67,14 @@ YOUTUBE-VIDEOS-LIST:END
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TSJqQCN4RKA/upload/7f5995d728741728ff8c0888c90d3607.jpeg" alt="Boost Your Tech Savviness with These 5 Productivity Apps" width="250px" align="left" /></a>
+<a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><strong>Boost Your Tech Savviness with These 5 Productivity Apps</strong></a>
+<br/> Hello everyone. Hope you'll are doing well. I'm back with another article to help you boost your productivity and stay updated with the latest tech trends and news. I'm very much excited to share about the 5 mobile apps that will help you achieve the... </p> <br/> <br/>
+<p align="left">
 <a href="https://susmitadey.hashnode.dev//the-7-phases-of-burnout-and-how-to-prevent-them" title="The 7 Phases of Burnout and How to Prevent Them"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/Xx4i6wg6HEg/upload/v1669347502528/xoeEdMsWR.jpeg" alt="The 7 Phases of Burnout and How to Prevent Them" width="250px" align="left" /></a>
 <a href="https://susmitadey.hashnode.dev//the-7-phases-of-burnout-and-how-to-prevent-them" title="The 7 Phases of Burnout and How to Prevent Them"><strong>The 7 Phases of Burnout and How to Prevent Them</strong></a>
 <br/> Are you feeling overwhelmed and exhausted from work?
 Burnout is a common experience among developers, and it can have serious consequences on your health and personal life. But don't worry, there are ways to prevent and overcome burnout. As an expert... </p> <br/> <br/>
-<p align="left">
-<a href="https://susmitadey.hashnode.dev//make-your-own-qr-code-easily-with-pythonon" title="Make Your Own QR Code Easily with Pythonon 🐍"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/ENtCxRV1Boo/upload/v1669815089851/OaKpj7baK.jpeg" alt="Make Your Own QR Code Easily with Pythonon 🐍" width="250px" align="left" /></a>
-<a href="https://susmitadey.hashnode.dev//make-your-own-qr-code-easily-with-pythonon" title="Make Your Own QR Code Easily with Pythonon 🐍"><strong>Make Your Own QR Code Easily with Pythonon 🐍</strong></a>
-<br/> Hello everyone 👋 I'm back with another blog for you all which will help you to generate your QR code in just a few simple steps by using Python.
-So, without further ado let's get started.
-
-Prerequisites
-Before deep diving into the code, you should b... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <br/> <br/><br/>
