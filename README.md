@@ -51,17 +51,6 @@ You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail
 <br>
 
 
-## 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Deep dive into API and Postman with @Pradumna Saraf | DevsInTech](https://www.youtube.com/watch?v=JoQIiSlQx2Q)
-- [No Light Mini Event - DevsInTech X MLH](https://www.youtube.com/watch?v=nTQHGXxMuBo)
-- [All About GitHub Octernship Program](https://www.youtube.com/watch?v=iXs0SYECN48)
-- [Getting Started With Cybersecurity - Ayan Ambesh | DevsInTech Community](https://www.youtube.com/watch?v=KRtVkDOg2kw)
-- [DevsInTech Community](https://www.youtube.com/watch?v=d3xoKUDSY_A)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
----
 
 ### 📙 Recent Blogs on Hashnode
 
@@ -77,7 +66,17 @@ You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail
 Burnout is a common experience among developers, and it can have serious consequences on your health and personal life. But don't worry, there are ways to prevent and overcome burnout. As an expert... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-<br/> <br/><br/>
+## 🎥 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Deep dive into API and Postman with @Pradumna Saraf | DevsInTech](https://www.youtube.com/watch?v=JoQIiSlQx2Q)
+- [No Light Mini Event - DevsInTech X MLH](https://www.youtube.com/watch?v=nTQHGXxMuBo)
+- [All About GitHub Octernship Program](https://www.youtube.com/watch?v=iXs0SYECN48)
+- [Getting Started With Cybersecurity - Ayan Ambesh | DevsInTech Community](https://www.youtube.com/watch?v=KRtVkDOg2kw)
+- [DevsInTech Community](https://www.youtube.com/watch?v=d3xoKUDSY_A)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+<br/>
 
 ## My GitHub Stats 📈
 <p align="center">
