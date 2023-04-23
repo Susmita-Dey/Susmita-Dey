@@ -54,11 +54,7 @@ You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail
 ## 🎥 Latest YouTube Videos
 
 YOUTUBE-VIDEOS-LIST:START
-- [Demystifying Hacktoberfest @DigitalOcean](https://www.youtube.com/watch?v=uCOd6wUyTH0)
-- [Hactoberfest Event Announcement: Demystifying Hacktoberfest](https://www.youtube.com/watch?v=OKvO5M-h1bY)
-- [[LIVESTREAM] Review Your GitHub Profiles](https://www.youtube.com/watch?v=oK0ZVAkXOSw)
-- [Google Cloud Community Day Kolkata - My first offline tech event @GDG Cloud Kolkata #shorts](https://www.youtube.com/watch?v=pDBmMQW0Z8g)
-- [First AMA - Ask your questions live](https://www.youtube.com/watch?v=UQVTpn7jDNo) 
+-
 YOUTUBE-VIDEOS-LIST:END
 
 ---
