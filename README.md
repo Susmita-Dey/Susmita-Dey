@@ -56,14 +56,17 @@ You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685592522459/69e87878-7e5d-48b4-933f-f616bcc6a216.png" alt="ProManager - The Only Productivity Tool You Need" width="250px" align="left" /></a>
+<a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><strong>ProManager - The Only Productivity Tool You Need</strong></a>
+<br/> [ProManager]: Appwrite Hashnode Hackathon
+Team Details
+I'm the only person in the team.
+Description of Project
+ProManager is the ultimate productivity tool designed to supercharge your efficiency and streamline your project management. With its power... </p> <br/> <br/>
+<p align="left">
 <a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TSJqQCN4RKA/upload/7f5995d728741728ff8c0888c90d3607.jpeg" alt="Boost Your Tech Savviness with These 5 Productivity Apps" width="250px" align="left" /></a>
 <a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><strong>Boost Your Tech Savviness with These 5 Productivity Apps</strong></a>
 <br/> Hello everyone. Hope you'll are doing well. I'm back with another article to help you boost your productivity and stay updated with the latest tech trends and news. I'm very much excited to share about the 5 mobile apps that will help you achieve the... </p> <br/> <br/>
-<p align="left">
-<a href="https://susmitadey.hashnode.dev//the-7-phases-of-burnout-and-how-to-prevent-them" title="The 7 Phases of Burnout and How to Prevent Them"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/Xx4i6wg6HEg/upload/v1669347502528/xoeEdMsWR.jpeg" alt="The 7 Phases of Burnout and How to Prevent Them" width="250px" align="left" /></a>
-<a href="https://susmitadey.hashnode.dev//the-7-phases-of-burnout-and-how-to-prevent-them" title="The 7 Phases of Burnout and How to Prevent Them"><strong>The 7 Phases of Burnout and How to Prevent Them</strong></a>
-<br/> Are you feeling overwhelmed and exhausted from work?
-Burnout is a common experience among developers, and it can have serious consequences on your health and personal life. But don't worry, there are ways to prevent and overcome burnout. As an expert... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🎥 Latest YouTube Videos
