@@ -56,13 +56,12 @@ You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685592522459/69e87878-7e5d-48b4-933f-f616bcc6a216.png" alt="ProManager - The Only Productivity Tool You Need" width="250px" align="left" /></a>
+<a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686500682335/7b21e5f8-5dea-4ace-8099-005c7736aba7.png" alt="ProManager - The Only Productivity Tool You Need" width="250px" align="left" /></a>
 <a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><strong>ProManager - The Only Productivity Tool You Need</strong></a>
-<br/> [ProManager]: Appwrite Hashnode Hackathon
-Team Details
-I'm the only person in the team.
-Description of Project
-ProManager is the ultimate productivity tool designed to supercharge your efficiency and streamline your project management. With its power... </p> <br/> <br/>
+<br/> Introduction
+Are you looking for a comprehensive project management tool that not only helps you stay organized but also boosts your productivity to new heights? Look no further!
+
+Introducing ProManager, a feature-packed application designed to strea... </p> <br/> <br/>
 <p align="left">
 <a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TSJqQCN4RKA/upload/7f5995d728741728ff8c0888c90d3607.jpeg" alt="Boost Your Tech Savviness with These 5 Productivity Apps" width="250px" align="left" /></a>
 <a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><strong>Boost Your Tech Savviness with These 5 Productivity Apps</strong></a>
