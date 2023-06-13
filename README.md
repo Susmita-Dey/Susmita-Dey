@@ -56,7 +56,7 @@ You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686500682335/7b21e5f8-5dea-4ace-8099-005c7736aba7.png" alt="ProManager - The Only Productivity Tool You Need" width="250px" align="left" /></a>
+<a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686584734957/ea465367-3388-49e2-80ce-8f632e2f6eb7.png" alt="ProManager - The Only Productivity Tool You Need" width="250px" align="left" /></a>
 <a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><strong>ProManager - The Only Productivity Tool You Need</strong></a>
 <br/> Introduction
 Are you looking for a comprehensive project management tool that not only helps you stay organized but also boosts your productivity to new heights? Look no further!
