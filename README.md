@@ -90,5 +90,5 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
-
+[![Susmita-Dey's GitHub | Stats](https://stats.quine.sh/Susmita-Dey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Susmita-Dey)
 <!-- [![@susmitadey's Holopin board](https://holopin.me/susmitadey)](https://holopin.io/@susmitadey) -->
