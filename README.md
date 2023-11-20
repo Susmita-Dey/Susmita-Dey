@@ -74,8 +74,8 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 - [Deep dive into API and Postman with @Pradumna Saraf | DevsInTech](https://www.youtube.com/watch?v=JoQIiSlQx2Q)
 - [No Light Mini Event - DevsInTech X MLH](https://www.youtube.com/watch?v=nTQHGXxMuBo)
 - [All About GitHub Octernship Program](https://www.youtube.com/watch?v=iXs0SYECN48)
-- [Getting Started With Cybersecurity - Ayan Ambesh | DevsInTech Community](https://www.youtube.com/watch?v=KRtVkDOg2kw)
 - [DevsInTech Community](https://www.youtube.com/watch?v=d3xoKUDSY_A)
+- [Decoding Fueler.io || Opportunities for Students and Generalists Using Fueler](https://www.youtube.com/watch?v=rhAYAa8DSgI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <br/>
