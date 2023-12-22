@@ -71,11 +71,11 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Explore Pieces while building a web application || Livestream wih](https://www.youtube.com/watch?v=mrFiSu6C1og)
 - [Mastering Personal Branding: Stand Out in a Digital Tech World! | Twitter Space with Dheeraj Purohit](https://www.youtube.com/watch?v=MxYxjDbRzQ0)
 - [Deep dive into API and Postman with @Pradumna Saraf | DevsInTech](https://www.youtube.com/watch?v=JoQIiSlQx2Q)
 - [No Light Mini Event - DevsInTech X MLH](https://www.youtube.com/watch?v=nTQHGXxMuBo)
 - [All About GitHub Octernship Program](https://www.youtube.com/watch?v=iXs0SYECN48)
-- [Getting Started With Cybersecurity - Ayan Ambesh | DevsInTech Community](https://www.youtube.com/watch?v=KRtVkDOg2kw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <br/>
