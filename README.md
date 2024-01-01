@@ -71,11 +71,11 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [The Significance of Docker Extension as a New Trend with Pradumna || Twitter Space](https://www.youtube.com/watch?v=4v_4eqLK7fw)
 - [How to crack Google Summer of Code? | Learn the Tips and Strategies from Shivang](https://www.youtube.com/watch?v=uccf_qCP3Pc)
 - [Accelerate Your Workflow: A Deep Dive into Pieces for Lightning-Fast Coding ⚡](https://www.youtube.com/watch?v=akFf4m_YRGA)
 - [Mastering Personal Branding: Stand Out in a Digital Tech World! | Twitter Space with Dheeraj Purohit](https://www.youtube.com/watch?v=MxYxjDbRzQ0)
 - [Deep dive into API and Postman with @Pradumna Saraf | DevsInTech](https://www.youtube.com/watch?v=JoQIiSlQx2Q)
-- [No Light Mini Event - DevsInTech X MLH](https://www.youtube.com/watch?v=nTQHGXxMuBo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <br/>
