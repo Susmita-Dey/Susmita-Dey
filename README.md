@@ -11,9 +11,9 @@ I'm a **fullstack web developer, freelancer and working to be a devrel !**
 <br>
 I'm in love with Opensource, Communties and also am building my **[Opensource side projects](https://github.com/Susmita-Dey?tab=repositories)**. I am up for freelancing projects, mentorships and workshops.
 
-**If you need a webdev, hire me ➡ [Portfolio](https://susmita-dey.vercel.app/)**
+**If you need a webdev, hire me ➡ [Portfolio](https://susmitadey.vercel.app/)**
 
-You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail](mailto:susmitadey475@gmail.com).
+You can connect with me via this [link](https://susmitadey.bio.link) or by [Mail](mailto:susmitadeywork@gmail.com).
 </div>
 
 <!-- ---
@@ -50,7 +50,10 @@ You can connect with me via this [link](https://bio.link/susmitadey) or by [Mail
   </p>
 <br>
 
-
+## 👩🏻‍💻 Experience
+My [LinkedIn](https://www.linkedin.com/in/susmitacodes/details/experience/) have it all 😊
+<br>
+<!-- --- -->
 
 ### 📙 Recent Blogs on Hashnode
 
@@ -90,5 +93,5 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
-[![Susmita-Dey's GitHub | Stats](https://stats.quine.sh/Susmita-Dey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Susmita-Dey)
+<!-- [![Susmita-Dey's GitHub | Stats](https://stats.quine.sh/Susmita-Dey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Susmita-Dey) -->
 <!-- [![@susmitadey's Holopin board](https://holopin.me/susmitadey)](https://holopin.io/@susmitadey) -->
