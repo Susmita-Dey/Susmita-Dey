@@ -1,9 +1,10 @@
+<!-- ---
 <div align="center">
 	<a href="http://susmitadey.vercel.app/" target="_blank">
 		<img src="images/github-profile-banner.png" alt="banner-img" height="50%" width="90%" />
 	</a>
 </div>
-<br/>
+<br/> -->
 
 <div align="center">
 
