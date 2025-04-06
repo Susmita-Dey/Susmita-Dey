@@ -65,7 +65,6 @@ You can connect with me via this [link](https://susmitadey.bio.link) or by [Mail
 	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <!-- 	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> -->
 </p>
-<br>
 
 ## 👩🏻‍💻 Experience
 My [LinkedIn](https://www.linkedin.com/in/susmitacodes/details/experience/) have it all 😊
