@@ -19,6 +19,6 @@ jobs:
           USERNAME: "susmitadey" # Hashnode Username
           COUNT: 3 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://susmitadey.hashnode.dev/"
+          BLOG_URL: "https://susmitadey.vercel.app/blogs/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
