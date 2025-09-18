@@ -103,9 +103,9 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 ## My GitHub Stats 📈
 &nbsp;![](https://komarev.com/ghpvc/?username=Susmita-Dey&color=brightgreen)
 
-<p align="center">
+<p align="start">
 <a href="https://github.com/Susmita-Dey">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" />
+<!--    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" /> -->
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Susmita-Dey&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
 </a>
 </p>
