@@ -71,7 +71,20 @@ My [LinkedIn](https://www.linkedin.com/in/susmitacodes/details/experience/) have
 <br>
 <!-- --- -->
 
-### 📙 Recent Blogs on Hashnode
+## My GitHub Stats 📈
+<img width="2732" height="1282" alt="image" src="https://github.com/user-attachments/assets/c22f39b2-c34e-4705-ac80-c53aa141472c" />
+<img width="2560" height="1110" alt="image" src="https://github.com/user-attachments/assets/1505a68f-f00f-45cc-aeff-0cb399fe7b00" />
+
+&nbsp;![](https://komarev.com/ghpvc/?username=Susmita-Dey&color=brightgreen)
+
+<p align="center">
+<a href="https://github.com/Susmita-Dey">
+<!--    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" /> -->
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Susmita-Dey&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+</a>
+</p>
+
+## 📙 Recent Blogs on Hashnode
 <!-- HASHNODE_BLOG:START -->
 
 <!-- HASHNODE_BLOG:END -->
@@ -99,16 +112,6 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <br/>
-
-## My GitHub Stats 📈
-&nbsp;![](https://komarev.com/ghpvc/?username=Susmita-Dey&color=brightgreen)
-
-<p align="start">
-<a href="https://github.com/Susmita-Dey">
-<!--    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" /> -->
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Susmita-Dey&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-</a>
-</p>
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
